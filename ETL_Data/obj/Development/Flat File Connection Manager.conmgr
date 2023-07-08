@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="Flat File Connection Manager"
+  DTS:DTSID="{E62709C5-4B40-443F-ABD0-2026229BAC10}"
+  DTS:CreationName="MULTIFLATFILE">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:Format="Delimited"
+      DTS:LocaleID="1033"
+      DTS:HeaderRowDelimiter="_x000D__x000A_"
+      DTS:ColumnNamesInFirstDataRow="True"
+      DTS:RowDelimiter=""
+      DTS:TextQualifier="_x003C_none_x003E_"
+      DTS:CodePage="65001"
+      DTS:ConnectionString="C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\BacDaoTao.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\BangDiem.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\GiangVien.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\Lop.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\MonHoc.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\NganhDaoTao.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\PhongBan.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\QuaTrinhHocTap.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\SinhVien.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\SinhVienTotNghiep.csv|C:\Users\ADMIN\Desktop\TeeAau\TLCN\data_source\ThongKeChenhLechDiem.csv">
+      <DTS:FlatFileColumns>
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x002C_"
+          DTS:DataType="303"
+          DTS:TextQualified="True"
+          DTS:ObjectName="GraduateLevelID"
+          DTS:DTSID="{FE71103F-D2AF-4323-AA0B-6AF4B525D533}"
+          DTS:CreationName="" />
+        <DTS:FlatFileColumn
+          DTS:ColumnType="Delimited"
+          DTS:ColumnDelimiter="_x000D__x000A_"
+          DTS:DataType="303"
+          DTS:TextQualified="True"
+          DTS:ObjectName="GraduateLevelName"
+          DTS:DTSID="{837C2DDF-6A48-48C9-AEBD-5A09BD912D04}"
+          DTS:CreationName="" />
+      </DTS:FlatFileColumns>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
