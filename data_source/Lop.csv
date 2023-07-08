@@ -1,0 +1,1084 @@
+studyprogramid,coursetime,graduatelevelid,graduatelevelname,StudyTypeID,studytypename,OlogyID,OlogyName,DepartmentID,DepartmentName
+101,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+102,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+103,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+104,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+105,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+106,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,4,Xây dựng và Cơ học ứng dụng
+107,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+108,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+109,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+121,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+00201P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+00202P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),202,Điện công nghiệp,1,Điện - Điện tử
+00203P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+00205P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+301,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+302,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+00401H,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),401,KT Điện-ĐTử,15,Phòng Đào tạo không CQ
+00402H,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+00402LB,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+00404H,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),404,404,15,Phòng Đào tạo không CQ
+00404TV,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),404,404,15,Phòng Đào tạo không CQ
+00501P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),501,501,15,Phòng Đào tạo không CQ
+00502H,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),502,Điện công nghiệp,15,Phòng Đào tạo không CQ
+00502P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),502,Điện công nghiệp,15,Phòng Đào tạo không CQ
+00503H,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),503,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+00503P,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),503,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+701,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+702,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+00702V,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+703,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+00703V,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+705,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+00705D,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+709,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+710,2000 - 2004,DH,Đại học,CQCN,Chính quy (CN),710,Kỹ Thuật Tin Học (CĐ),18,Công nghệ Thông tin
+1101,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+1102,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+1103,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+1104,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+1105,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+1106,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,4,Xây dựng và Cơ học ứng dụng
+1107,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+1108,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+1109,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+1110,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+1111,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+1112,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+1113,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+1121,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+1122,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),122,KT Nông Nghiệp,16,Nông Nghiệp
+1123,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+1201,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+1202,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),202,Điện công nghiệp,1,Điện - Điện tử
+1203,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+1205,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+1209,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),209,Công nghệ May,6,Công nghệ May và Thời trang
+1301,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+1302,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+1303,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+1401,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),401,KT Điện-ĐTử,15,Phòng Đào tạo không CQ
+01401CA,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),401,KT Điện-ĐTử,15,Phòng Đào tạo không CQ
+1402,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+01402TV,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+1403,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),403,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+1404,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),404,404,15,Phòng Đào tạo không CQ
+1405,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),405,405,15,Phòng Đào tạo không CQ
+1421,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),421,421,15,Phòng Đào tạo không CQ
+1422,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),422,422,15,Phòng Đào tạo không CQ
+1502,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),502,Điện công nghiệp,15,Phòng Đào tạo không CQ
+1702,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+1703,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+1705,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+1709,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+1710,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),710,Kỹ Thuật Tin Học (CĐ),18,Công nghệ Thông tin
+1810,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),810,Công nghệ thông tin,18,Công nghệ Thông tin
+01D01VD,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),D01,KT Điện-Điện tử (THCN),10,TT. Việt Đức
+01D03VD,2001 - 2005,DH,Đại học,CQCN,Chính quy (CN),D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+2101,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+2102,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+2103,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+2104,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+2105,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+2106,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,4,Xây dựng và Cơ học ứng dụng
+2107,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+2108,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+2109,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+2110,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+2111,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+2112,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+2113,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+2114,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+2121,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+2122,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),122,KT Nông Nghiệp,16,Nông Nghiệp
+2123,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+02201P,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+02202P,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),202,Điện công nghiệp,1,Điện - Điện tử
+02203P,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+02205P,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+2301,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+2302,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+2303,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+2309,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),309,Công nghệ May,6,Công nghệ May và Thời trang
+2401,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),401,KT Điện-ĐTử,15,Phòng Đào tạo không CQ
+2402,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+2403,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),403,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+2404,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),404,404,15,Phòng Đào tạo không CQ
+2405,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),405,405,15,Phòng Đào tạo không CQ
+2409,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),409,409,15,Phòng Đào tạo không CQ
+2502,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),502,Điện công nghiệp,15,Phòng Đào tạo không CQ
+2503,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),503,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+2701,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+2702,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+2703,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+2705,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+2709,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+2710,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),710,Kỹ Thuật Tin Học (CĐ),18,Công nghệ Thông tin
+02D02,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),D02,Điện CN và DD (THCN),10,TT. Việt Đức
+02D03,2002 - 2006,DH,Đại học,CQCN,Chính quy (CN),D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+3101,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+3102,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+3103,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+3104,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+03104DN,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+03104HUE,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+3105,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+3106,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,4,Xây dựng và Cơ học ứng dụng
+3107,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+3108,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+3109,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+3110,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+3111,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+3112,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+3113,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+3114,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+3121,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+3123,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+3201,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+3202,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),202,Điện công nghiệp,1,Điện - Điện tử
+3203,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+3205,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+3209,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),209,Công nghệ May,6,Công nghệ May và Thời trang
+3301,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+3302,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+3303,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+3305,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+3309,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),309,Công nghệ May,6,Công nghệ May và Thời trang
+3402,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+3403,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),403,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+3409,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),409,409,15,Phòng Đào tạo không CQ
+3502,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),502,Điện công nghiệp,15,Phòng Đào tạo không CQ
+3503,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),503,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+3701,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+3702,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+3703,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+3705,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+3709,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+3710,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),710,Kỹ Thuật Tin Học (CĐ),18,Công nghệ Thông tin
+03D02,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),D02,Điện CN và DD (THCN),10,TT. Việt Đức
+03D03,2003 - 2007,DH,Đại học,CQCN,Chính quy (CN),D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+4101,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+4102,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+4103,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+4104,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+04104BD,2004 - 2009,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+04104CTU,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+04104DN,2004 - 2009,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+04104LD,2004 - 2009,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+4105,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+4106,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,4,Xây dựng và Cơ học ứng dụng
+4107,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+4108,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+4109,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+4110,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+4111,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+4112,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+4113,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+4114,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+4115,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+4116,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+4121,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+04121LD,2004 - 2009,DH,Đại học,CQDP,Chính quy (ĐP),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+4123,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+4201,2004 - 2008,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+4202,2004 - 2008,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+4203,2004 - 2008,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+4205,2004 - 2008,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+4209,2004 - 2008,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+4301,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+4302,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+4303,2004 - 2008,DH,Đại học,CQCN,Chính quy (CN),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+4702,2004 - 2007,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+4703,2004 - 2007,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+04703LB,2004 - 2007,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+4705,2004 - 2007,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+4709,2004 - 2007,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+04709LB,2004 - 2007,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+04D02,2004 - 2006,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+04D03,2004 - 2006,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+5101,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+05101VT,2005 - 2010,DH,Đại học,CQDP,Chính quy (ĐP),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+5102,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+5103,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+5104,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+05104BD,2005 - 2010,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+05104CTU,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+05104LD,2005 - 2010,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+05104VT,2005 - 2010,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+5105,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+5106,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,4,Xây dựng và Cơ học ứng dụng
+5107,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+5108,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+5109,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+5110,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+5111,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+5112,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+5113,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+5114,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+5115,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+5116,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+5117,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+5118,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,1,Điện - Điện tử
+5121,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+05121LD,2005 - 2010,DH,Đại học,CQDP,Chính quy (ĐP),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+5123,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+5201,2005 - 2009,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+5202,2005 - 2009,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+5203,2005 - 2009,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+5205,2005 - 2009,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+5209,2005 - 2009,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+5301,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+5302,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+5303,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+5305,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+5309,2005 - 2009,DH,Đại học,CQCN,Chính quy (CN),309,Công nghệ May,6,Công nghệ May và Thời trang
+5701,2005 - 2008,CD,Cao đẳng,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+5702,2005 - 2008,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+5703,2005 - 2008,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+5705,2005 - 2008,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+5709,2005 - 2008,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+05D02,2005 - 2007,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+05D03,2005 - 2007,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+6101,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+06101LD,2006 - 2011,DH,Đại học,CQDP,Chính quy (ĐP),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+6102,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+06102BD,2006 - 2011,DH,Đại học,CQDP,Chính quy (ĐP),102,Điện Công Nghiệp,1,Điện - Điện tử
+06102CLC,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,27,ĐT chất lượng cao
+06102CTU,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+06102VT,2006 - 2011,DH,Đại học,CQDP,Chính quy (ĐP),102,Điện Công Nghiệp,1,Điện - Điện tử
+6103,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+6104,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+06104LD,2006 - 2011,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+6105,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+6106,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,2,Cơ Khí Chế Tạo Máy
+6107,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,4,Xây dựng và Cơ học ứng dụng
+6108,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+6109,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+6110,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+06110CLC,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+6111,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+6112,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+06112CLC,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,27,ĐT chất lượng cao
+6113,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+6114,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+6115,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+6116,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+6117,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+6118,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,1,Điện - Điện tử
+6119,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+6120,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),120,Tiếng Anh,21,Ngoại ngữ
+6121,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+6123,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+6124,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+6201,2006 - 2010,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+6202,2006 - 2010,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+6203,2006 - 2010,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+6205,2006 - 2010,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+6209,2006 - 2010,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+6213,2006 - 2010,DH,Đại học,CQKCN,Chính quy (K - 3/7),213,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+6301,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+6302,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),302,Điện công nghiệp(CT),1,Điện - Điện tử
+6303,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+6305,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+6309,2006 - 2010,DH,Đại học,CQCN,Chính quy (CN),309,Công nghệ May,6,Công nghệ May và Thời trang
+6701,2006 - 2009,CD,Cao đẳng,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+6702,2006 - 2009,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+6703,2006 - 2009,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+6705,2006 - 2009,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+6709,2006 - 2009,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+06D02,2006 - 2008,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+06D03,2006 - 2008,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+7101,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+07101BD,2007 - 2012,DH,Đại học,CQDP,Chính quy (ĐP),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+07101CLC,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,27,ĐT chất lượng cao
+07101LD,2007 - 2012,DH,Đại học,CQDP,Chính quy (ĐP),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+7102,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+07102CLC,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,27,ĐT chất lượng cao
+07102LD,2007 - 2012,DH,Đại học,CQDP,Chính quy (ĐP),102,Điện Công Nghiệp,1,Điện - Điện tử
+7103,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+7104,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+07104CTU,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+07104VT,2007 - 2012,DH,Đại học,CQDP,Chính quy (ĐP),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+7105,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+07105CLC,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,27,ĐT chất lượng cao
+7106,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,2,Cơ Khí Chế Tạo Máy
+7107,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,2,Cơ Khí Chế Tạo Máy
+7108,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+7109,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+7110,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+07110CLC,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+7111,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+07111CLC,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,27,ĐT chất lượng cao
+7112,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+07112CLC,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,27,ĐT chất lượng cao
+7113,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+7114,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+7115,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+7116,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+7117,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+07117BD,2007 - 2012,DH,Đại học,CQDP,Chính quy (ĐP),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+7118,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,1,Điện - Điện tử
+7119,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+7120,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),120,Tiếng Anh,21,Ngoại ngữ
+7121,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+7123,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+7124,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+7125,2007 - 2011,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+7201,2007 - 2011,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+7202,2007 - 2011,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+7203,2007 - 2011,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+7205,2007 - 2011,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+7209,2007 - 2011,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+7213,2007 - 2011,DH,Đại học,CQKCN,Chính quy (K - 3/7),213,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+7301,2007 - 2009,DH,Đại học,CQCTCN,Chính quy (CT),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+7302,2007 - 2009,DH,Đại học,CQCTCN,Chính quy (CT),302,Điện công nghiệp(CT),1,Điện - Điện tử
+7303,2007 - 2009,DH,Đại học,CQCTCN,Chính quy (CT),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+7305,2007 - 2009,DH,Đại học,CQCTCN,Chính quy (CT),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+7309,2007 - 2009,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+7701,2007 - 2010,CD,Cao đẳng,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+7702,2007 - 2010,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+7703,2007 - 2010,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+7705,2007 - 2010,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+7709,2007 - 2010,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+07D02,2007 - 2009,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+07D03,2007 - 2009,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+8101,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+08101CLC,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,27,ĐT chất lượng cao
+08101LD,,,,,,,,,
+08101S,,,,,,,,,
+8102,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+08102CLC,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,27,ĐT chất lượng cao
+08102CTU,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+08102LD,2008 - 2013,DH,Đại học,CQDP,Chính quy (ĐP),102,Điện Công Nghiệp,1,Điện - Điện tử
+8103,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+8104,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+8105,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+08105CLC,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,27,ĐT chất lượng cao
+8106,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,2,Cơ Khí Chế Tạo Máy
+8107,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,2,Cơ Khí Chế Tạo Máy
+8108,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+8109,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+8110,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+08110CLC,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+8111,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+08111CLC,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,27,ĐT chất lượng cao
+8112,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+08112CLC,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,27,ĐT chất lượng cao
+8113,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+8114,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+8115,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+8116,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+8117,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+08117LD,,,,,,,,,
+8118,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,1,Điện - Điện tử
+8119,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+8120,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),120,Tiếng Anh,21,Ngoại ngữ
+8121,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+8123,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+8124,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+8125,2008 - 2012,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+8201,2008 - 2012,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+8202,2008 - 2012,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+8203,2008 - 2012,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+8205,2008 - 2012,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+8209,2008 - 2012,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+8213,2008 - 2012,DH,Đại học,CQKCN,Chính quy (K - 3/7),213,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+8301,2008 - 2010,DH,Đại học,CQCTCN,Chính quy (CT),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+8302,2008 - 2010,DH,Đại học,CQCTCN,Chính quy (CT),302,Điện công nghiệp(CT),1,Điện - Điện tử
+8303,2008 - 2010,DH,Đại học,CQCTCN,Chính quy (CT),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+8305,2008 - 2010,DH,Đại học,CQCTCN,Chính quy (CT),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+8309,2008 - 2010,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+8701,2008 - 2011,CD,Cao đẳng,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+8702,2008 - 2011,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+8703,2008 - 2011,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+8705,2008 - 2011,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+8709,2008 - 2011,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+8901,,,,,,,,,
+8902,,,,,,,,,
+08902LD,2008 - 2013,DH,Đại học,GV,Chính quy (SP),902,Điện Công nghiệp (SP),1,Điện - Điện tử
+8903,2008 - 2013,DH,Đại học,GV,Chính quy (SP),903,Cơ khí Chế tạo máy (SP),2,Cơ Khí Chế Tạo Máy
+8904,,,,,,,,,
+8905,2008 - 2013,DH,Đại học,GV,Chính quy (SP),905,Cơ khí động lực (SP),3,Cơ Khí Động Lực
+8910,2008 - 2013,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+8911,2008 - 2013,DH,Đại học,GV,Chính quy (SP),911,Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+8912,2008 - 2013,DH,Đại học,GV,Chính quy (SP),912,Công nghệ Tự động (SP),2,Cơ Khí Chế Tạo Máy
+8913,,,,,,,,,
+08917LD,2008 - 2013,DH,Đại học,GV,Chính quy (SP),917,Công nghệ Điện tử Viễn thông (SP),1,Điện - Điện tử
+08D02,2008 - 2010,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+08D03,2008 - 2010,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+9101,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+09101CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,27,ĐT chất lượng cao
+9102,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+09102CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,27,ĐT chất lượng cao
+9103,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+09103CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,27,ĐT chất lượng cao
+9104,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+9105,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+09105CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,27,ĐT chất lượng cao
+9106,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,2,Cơ Khí Chế Tạo Máy
+9107,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,2,Cơ Khí Chế Tạo Máy
+9108,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+09108CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,27,ĐT chất lượng cao
+9109,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+9110,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+09110CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+9111,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+09111CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,27,ĐT chất lượng cao
+9112,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+09112CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,27,ĐT chất lượng cao
+9113,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+9114,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+09114CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,27,ĐT chất lượng cao
+9115,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+9116,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+9117,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+9118,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,1,Điện - Điện tử
+09118CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,27,ĐT chất lượng cao
+9119,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+09119CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+9120,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),120,Tiếng Anh,21,Ngoại ngữ
+9121,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+9123,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+9124,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+09124CLC,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,27,ĐT chất lượng cao
+9125,2009 - 2013,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+9201,2009 - 2013,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+9202,2009 - 2013,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+9203,2009 - 2013,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+9205,2009 - 2013,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+9209,,,,,,,,,
+9213,2009 - 2013,DH,Đại học,CQKCN,Chính quy (K - 3/7),213,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+9301,2009 - 2011,DH,Đại học,CQCTCN,Chính quy (CT),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+9302,2009 - 2011,DH,Đại học,CQCTCN,Chính quy (CT),302,Điện công nghiệp(CT),1,Điện - Điện tử
+9303,2009 - 2011,DH,Đại học,CQCTCN,Chính quy (CT),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+9305,2009 - 2011,DH,Đại học,CQCTCN,Chính quy (CT),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+9309,2009 - 2011,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+9701,2009 - 2012,CD,Cao đẳng,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+9702,2009 - 2012,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+9703,2009 - 2012,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+9705,2009 - 2012,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+9709,2009 - 2012,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+9901,2009 - 2014,DH,Đại học,GV,Chính quy (SP),901,Kỹ thuật Điện-Điện tử (SP),1,Điện - Điện tử
+9902,2009 - 2014,DH,Đại học,GV,Chính quy (SP),902,Điện Công nghiệp (SP),1,Điện - Điện tử
+09902CTU,2009 - 2014,DH,Đại học,GV,Chính quy (SP),902,Điện Công nghiệp (SP),1,Điện - Điện tử
+9903,2009 - 2014,DH,Đại học,GV,Chính quy (SP),903,Cơ khí Chế tạo máy (SP),2,Cơ Khí Chế Tạo Máy
+9904,2009 - 2014,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+9905,2009 - 2014,DH,Đại học,GV,Chính quy (SP),905,Cơ khí động lực (SP),3,Cơ Khí Động Lực
+9910,2009 - 2014,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+9911,2009 - 2014,DH,Đại học,GV,Chính quy (SP),911,Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+9913,2009 - 2014,DH,Đại học,GV,Chính quy (SP),913,Kỹ thuật Nhiệt-Điện lạnh (SP),3,Cơ Khí Động Lực
+09914LD,2009 - 2014,DH,Đại học,GV,Chính quy (SP),914,Xây dựng dân dụng và công nghiệp (SP),4,Xây dựng và Cơ học ứng dụng
+09917LD,2009 - 2014,DH,Đại học,GV,Chính quy (SP),917,Công nghệ Điện tử Viễn thông (SP),1,Điện - Điện tử
+09D02,2009 - 2011,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+09D03,2009 - 2011,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+10101,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+10101CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),101,Kỹ thuật Điện - Điện tử,27,ĐT chất lượng cao
+10102,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,1,Điện - Điện tử
+10102CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),102,Điện Công Nghiệp,27,ĐT chất lượng cao
+10103,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+10103CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),103,Cơ Khí Chế Tạo Máy,27,ĐT chất lượng cao
+10104,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+10105,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+10105CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),105,Cơ Khí Động Lực,27,ĐT chất lượng cao
+10106,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),106,Cơ Tin Kỹ Thuật,2,Cơ Khí Chế Tạo Máy
+10107,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),107,Thiết Kế Máy,2,Cơ Khí Chế Tạo Máy
+10108,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,5,In và Truyền thông
+10108CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),108,Kỹ Thuật In,27,ĐT chất lượng cao
+10109,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+10110,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+10110CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+10111,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+10111CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),111,Cơ Điện Tử,27,ĐT chất lượng cao
+10112,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,2,Cơ Khí Chế Tạo Máy
+10112CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),112,Công nghệ Tự động,27,ĐT chất lượng cao
+10113,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),113,Kỹ Thuật Nhiệt-Điện Lạnh,3,Cơ Khí Động Lực
+10114,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,4,Xây dựng và Cơ học ứng dụng
+10114CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),114,Xây dựng dân dụng & Công Nghiệp,27,ĐT chất lượng cao
+10115,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),115,Công Nghệ Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+10116,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+10117,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),117,Công nghệ Điện tử viễn thông,1,Điện - Điện tử
+10118,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,1,Điện - Điện tử
+10118CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),118,Công nghệ Điện tự động,27,ĐT chất lượng cao
+10119,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+10119CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+10120,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),120,Tiếng Anh,21,Ngoại ngữ
+10121,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),121,Kỹ Thuật  Nữ Công,6,Công nghệ May và Thời trang
+10123,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+10124,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+10124CLC,,,,,,,,,
+10125,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+10125CLC,2010 - 2014,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,27,ĐT chất lượng cao
+10201,2010 - 2014,DH,Đại học,CQKCN,Chính quy (K - 3/7),201,Kỹ Thuật Điện - Điện tử,1,Điện - Điện tử
+10202,2010 - 2014,DH,Đại học,CQKCN,Chính quy (K - 3/7),202,Điện công nghiệp,1,Điện - Điện tử
+10203,2010 - 2014,DH,Đại học,CQKCN,Chính quy (K - 3/7),203,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+10205,2010 - 2014,DH,Đại học,CQKCN,Chính quy (K - 3/7),205,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+10209,2010 - 2014,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+10213,,,,,,,,,
+10301,2010 - 2012,DH,Đại học,CQCTCN,Chính quy (CT),301,Kỹ thuật Điện-Điện tử (CT),1,Điện - Điện tử
+10302,2010 - 2012,DH,Đại học,CQCTCN,Chính quy (CT),302,Điện công nghiệp(CT),1,Điện - Điện tử
+10303,2010 - 2012,DH,Đại học,CQCTCN,Chính quy (CT),303,Cơ Khí Chế Tạo Máy (CT),2,Cơ Khí Chế Tạo Máy
+10305,2010 - 2012,DH,Đại học,CQCTCN,Chính quy (CT),305,Cơ Khí Động Lực (CT),3,Cơ Khí Động Lực
+10309,2010 - 2012,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+10401,2010 - 2014,DH,Đại học,VLVH,VLVH_A,401,KT Điện-ĐTử,15,Phòng Đào tạo không CQ
+10401(1),2010 - 2014,DH,Đại học,VLVH,VLVH_A,401,KT Điện-ĐTử,15,Phòng Đào tạo không CQ
+10402,2010 - 2014,DH,Đại học,VLVH,VLVH_A,402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+10402(1),2010 - 2014,DH,Đại học,VLVH,VLVH_A,402,Điện công nghiệp,15,Phòng Đào tạo không CQ
+10403,2010 - 2014,DH,Đại học,VLVH,VLVH_A,403,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+10410(1),2010 - 2014,DH,Đại học,VLVH,VLVH_A,410,Công nghệ thông tin,15,Phòng Đào tạo không CQ
+10414,2010 - 2014,DH,Đại học,VLVH,VLVH_A,414,Xây Dựng DD & CN,15,Phòng Đào tạo không CQ
+10417,2010 - 2014,DH,Đại học,VLVH,VLVH_A,417,Cnghệ Đtử viễn thông,15,Phòng Đào tạo không CQ
+10425,2010 - 2014,DH,Đại học,VLVH,VLVH_A,425,Kế toán,15,Phòng Đào tạo không CQ
+10502,2010 - 2014,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,502,Điện công nghiệp,15,Phòng Đào tạo không CQ
+10503,2010 - 2014,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,503,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+10505,2010 - 2014,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,505,Cơ Khí Động Lực,15,Phòng Đào tạo không CQ
+10513,2010 - 2014,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,513,Kỹ thuật Nhiệt,15,Phòng Đào tạo không CQ
+10514,2010 - 2014,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,514,Xây dựng dân dụng & công nghiệp,15,Phòng Đào tạo không CQ
+10601,2010 - 2012,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,601,KT Điện-Điện tử,15,Phòng Đào tạo không CQ
+10602,2010 - 2012,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,602,Điện công nghiệp,15,Phòng Đào tạo không CQ
+10603,2010 - 2012,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,603,Cơ Khí Chế Tạo Máy,15,Phòng Đào tạo không CQ
+10605,2010 - 2012,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,605,Cơ Khí Động Lực,15,Phòng Đào tạo không CQ
+10610,2010 - 2012,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,610,Công Nghệ Thông Tin,15,Phòng Đào tạo không CQ
+10610(1),2010 - 2012,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,610,Công Nghệ Thông Tin,15,Phòng Đào tạo không CQ
+10701,2010 - 2013,CD,Cao đẳng,CQCN,Chính quy (CN),701,Kỹ thuật Điện - Điện tử,1,Điện - Điện tử
+10702,2010 - 2013,CD,Cao đẳng,CQCN,Chính quy (CN),702,Điện công nghiệp,1,Điện - Điện tử
+10703,2010 - 2013,CD,Cao đẳng,CQCN,Chính quy (CN),703,Cơ Khí Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+10705,2010 - 2013,CD,Cao đẳng,CQCN,Chính quy (CN),705,Cơ Khí Động Lực,3,Cơ Khí Động Lực
+10709,2010 - 2013,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+10901,2010 - 2015,DH,Đại học,GV,Chính quy (SP),901,Kỹ thuật Điện-Điện tử (SP),1,Điện - Điện tử
+10902,2010 - 2015,DH,Đại học,GV,Chính quy (SP),902,Điện Công nghiệp (SP),1,Điện - Điện tử
+10903,2010 - 2015,DH,Đại học,GV,Chính quy (SP),903,Cơ khí Chế tạo máy (SP),2,Cơ Khí Chế Tạo Máy
+10904,2010 - 2015,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+10904CTU,2010 - 2015,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+10905,2010 - 2015,DH,Đại học,GV,Chính quy (SP),905,Cơ khí động lực (SP),3,Cơ Khí Động Lực
+10910,2010 - 2015,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+10910LD,2010 - 2015,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+10911,2010 - 2015,DH,Đại học,GV,Chính quy (SP),911,Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+10913,2010 - 2015,DH,Đại học,GV,Chính quy (SP),913,Kỹ thuật Nhiệt-Điện lạnh (SP),3,Cơ Khí Động Lực
+10914,2010 - 2015,DH,Đại học,GV,Chính quy (SP),914,Xây dựng dân dụng và công nghiệp (SP),4,Xây dựng và Cơ học ứng dụng
+10917,2010 - 2015,DH,Đại học,GV,Chính quy (SP),917,Công nghệ Điện tử Viễn thông (SP),1,Điện - Điện tử
+10BM,2010 - 2012,CD,Cao đẳng,HTQT,Hợp tác quốc tế,BM402,Quản trị kinh doanh,28,Trung tâm Hợp tác đào tạo quốc tế
+10BM2,2010 - 2012,CD,Cao đẳng,HTQT,Hợp tác quốc tế,BM402,Quản trị kinh doanh,28,Trung tâm Hợp tác đào tạo quốc tế
+10D02,2010 - 2012,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+10D03,2010 - 2012,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+10ED,2010 - 2012,CD,Cao đẳng,HTQT,Hợp tác quốc tế,ED101,"Kỹ thuật điện, điện tử",28,Trung tâm Hợp tác đào tạo quốc tế
+11104,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+11109,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+11110,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+11110CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+11116,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+11116CLC,,,,,,,,,
+11119,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+11119CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+11123,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+11124,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+11124CLC,,,,,,,,,
+11125,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+11125CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,27,ĐT chất lượng cao
+11141,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+11141CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+11141VTCLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+11141ÐTCLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+11142,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",27,Điện - Điện tử
+11142CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",27,ĐT chất lượng cao
+11143,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+11143CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,27,ĐT chất lượng cao
+11144,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,2,Cơ Khí Chế Tạo Máy
+11144CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,27,ĐT chất lượng cao
+11145,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+11145CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,27,ĐT chất lượng cao
+11146,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+11146CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,27,ĐT chất lượng cao
+11147,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,3,Cơ Khí Động Lực
+11147CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,27,ĐT chất lượng cao
+11148,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,5,In và Truyền thông
+11148CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,27,ĐT chất lượng cao
+11149,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,4,Xây dựng và Cơ học ứng dụng
+11149CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,27,ĐT chất lượng cao
+11150,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+11150CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,27,ĐT chất lượng cao
+11151,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,1,Điện - Điện tử
+11151CLC,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,27,ĐT chất lượng cao
+11152,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),152,Kinh Tế Gia Đình,6,Công nghệ May và Thời trang
+11209,2011 - 2015,DH,Đại học,CQKCN,Chính quy (K - 3/7),209,Công nghệ May,6,Công nghệ May và Thời trang
+11241,2011 - 2015,DH,Đại học,CQKCN,Chính quy (K - 3/7),241,"Công Nghệ Kỹ Thuật Điện Tử,Truyền Thông",1,Điện - Điện tử
+11242,2011 - 2015,DH,Đại học,CQKCN,Chính quy (K - 3/7),242,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+11243,2011 - 2015,DH,Đại học,CQKCN,Chính quy (K - 3/7),243,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+11245,2011 - 2015,DH,Đại học,CQKCN,Chính quy (K - 3/7),245,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+11247,2011 - 2015,DH,Đại học,CQKCN,Chính quy (K - 3/7),247,Công Nghệ Kỹ Thuật Nhiệt,3,Cơ Khí Động Lực
+11309,2011 - 2013,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+11341,2011 - 2013,DH,Đại học,CQCTCN,Chính quy (CT),341,Công nghệ Kỹ thuật Điện tử-Truyền thông,1,Điện - Điện tử
+11342,2011 - 2013,DH,Đại học,CQCTCN,Chính quy (CT),342,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+11343,2011 - 2013,DH,Đại học,CQCTCN,Chính quy (CT),343,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+11345,2011 - 2013,DH,Đại học,CQCTCN,Chính quy (CT),345,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+11443,2011 - 2015,DH,Đại học,VLVH,VLVH_A,443,CN Chế Tạo Máy,15,Phòng Đào tạo không CQ
+11542,2011 - 2015,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+11549,2011 - 2015,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,549,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+11610,2011 - 2013,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,610,Công Nghệ Thông Tin,15,Phòng Đào tạo không CQ
+11642,2011 - 2013,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,642,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+11643,2011 - 2013,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,643,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+11645,2011 - 2013,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,645,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+11709,2011 - 2014,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+11741,2011 - 2014,CD,Cao đẳng,CQCN,Chính quy (CN),741,"C.Nghệ KT ĐTử,T.thông",1,Điện - Điện tử
+11742,2011 - 2014,CD,Cao đẳng,CQCN,Chính quy (CN),742,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+11743,2011 - 2014,CD,Cao đẳng,CQCN,Chính quy (CN),743,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+11745,2011 - 2014,CD,Cao đẳng,CQCN,Chính quy (CN),745,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+11842,2013 - 2015,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,842,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+11843,2011 - 2013,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,843,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+11845,2011 - 2013,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,845,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+11904,2011 - 2016,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+11904CTU,2011 - 2016,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+11910,2011 - 2016,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+11911,2011 - 2016,DH,Đại học,GV,Chính quy (SP),911,Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+11941,2011 - 2016,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+11942,2011 - 2016,DH,Đại học,GV,Chính quy (SP),942,"Công Nghệ Kỹ Thuật Điện, Điện tử (SP)",1,Điện - Điện tử
+11943,2011 - 2016,DH,Đại học,GV,Chính quy (SP),943,Công Nghệ Chế Tạo Máy (SP),2,Cơ Khí Chế Tạo Máy
+11945,2011 - 2016,DH,Đại học,GV,Chính quy (SP),945,Công Nghệ Kỹ Thuật Ô tô (SP),3,Cơ Khí Động Lực
+11947,2011 - 2016,DH,Đại học,GV,Chính quy (SP),947,Công nghệ Kỹ Thuật Nhiệt (SP),3,Cơ Khí Động Lực
+11949,2011 - 2016,DH,Đại học,GV,Chính quy (SP),949,Công nghệ Kỹ thuật Công trình Xây dựng (SP),4,Xây dựng và Cơ học ứng dụng
+11950,2011 - 2016,DH,Đại học,GV,Chính quy (SP),950,Sư phạm Tiếng Anh,21,Ngoại ngữ
+11BM,2011 - 2013,CD,Cao đẳng,HTQT,Hợp tác quốc tế,BM402,Quản trị kinh doanh,28,Trung tâm Hợp tác đào tạo quốc tế
+11BM2,2011 - 2013,CD,Cao đẳng,HTQT,Hợp tác quốc tế,BM402,Quản trị kinh doanh,28,Trung tâm Hợp tác đào tạo quốc tế
+11D02,2011 - 2013,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D02,Điện CN và DD (THCN),10,TT. Việt Đức
+11D03,2011 - 2013,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D03,Khaithác SCTBCK THCN,10,TT. Việt Đức
+11ED,2011 - 2013,CD,Cao đẳng,HTQT,Hợp tác quốc tế,ED101,"Kỹ thuật điện, điện tử",28,Trung tâm Hợp tác đào tạo quốc tế
+12104,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+12109,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+12110,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+12110CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+12116,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+12119,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+12119CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+12123,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+12124,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+12124CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,27,ĐT chất lượng cao
+12125,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+12125CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,27,ĐT chất lượng cao
+12141,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+12141CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+12141DT,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+12141VT,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+12141VTCLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+12141ÐTCLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+12142,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+12142CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",27,ĐT chất lượng cao
+12143,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+12143CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,27,ĐT chất lượng cao
+12144,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,2,Cơ Khí Chế Tạo Máy
+12144CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,27,ĐT chất lượng cao
+12145,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+12145CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,27,ĐT chất lượng cao
+12146,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+12146CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,27,ĐT chất lượng cao
+12147,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,3,Cơ Khí Động Lực
+12147CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,27,ĐT chất lượng cao
+12148,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,5,In và Truyền thông
+12148CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,27,ĐT chất lượng cao
+12149,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,4,Xây dựng và Cơ học ứng dụng
+12149CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,27,ĐT chất lượng cao
+12150,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+12150CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,27,ĐT chất lượng cao
+12151,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,1,Điện - Điện tử
+12151CLC,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,27,ĐT chất lượng cao
+12152,2012 - 2016,DH,Đại học,CQCN,Chính quy (CN),152,Kinh Tế Gia Đình,6,Công nghệ May và Thời trang
+12309,2012 - 2014,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+12325,2012 - 2014,DH,Đại học,CQCTCN,Chính quy (CT),325,Kế toán,22,Kinh tế
+12341,2012 - 2014,DH,Đại học,CQCTCN,Chính quy (CT),341,Công nghệ Kỹ thuật Điện tử-Truyền thông,1,Điện - Điện tử
+12342,2012 - 2014,DH,Đại học,CQCTCN,Chính quy (CT),342,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+12343,2012 - 2014,DH,Đại học,CQCTCN,Chính quy (CT),343,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+12345,2012 - 2014,DH,Đại học,CQCTCN,Chính quy (CT),345,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+12425(2),2012 - 2016,DH,Đại học,VLVH,VLVH_A,425,Kế toán,15,Phòng Đào tạo không CQ
+12442(2),2012 - 2016,DH,Đại học,VLVH,VLVH_A,442,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+12443(2),2012 - 2016,DH,Đại học,VLVH,VLVH_A,443,CN Chế Tạo Máy,15,Phòng Đào tạo không CQ
+12525(1),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,525,Kế toán,15,Phòng Đào tạo không CQ
+12525(2),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,525,Kế toán,15,Phòng Đào tạo không CQ
+12542(1),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+12542(2),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+12545(2),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,545,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+12549(1),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,549,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+12549(2),2012 - 2016,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,549,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+12625(2),2012 - 2014,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,625,Kế toán,15,Phòng Đào tạo không CQ
+12642(1),2012 - 2014,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,642,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+12643(1),2012 - 2014,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,643,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+12643(2),2012 - 2014,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,643,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+12645(1),2012 - 2014,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,645,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+12709,2012 - 2015,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+12741,2012 - 2015,CD,Cao đẳng,CQCN,Chính quy (CN),741,"C.Nghệ KT ĐTử,T.thông",10,TT. Việt Đức
+12742,2012 - 2015,CD,Cao đẳng,CQCN,Chính quy (CN),742,"Công Nghệ Kỹ Thuật Điện, Điện tử",10,TT. Việt Đức
+12743,2012 - 2015,CD,Cao đẳng,CQCN,Chính quy (CN),743,Công Nghệ Chế Tạo Máy,10,TT. Việt Đức
+12745,2012 - 2015,CD,Cao đẳng,CQCN,Chính quy (CN),745,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+12842(2),2012 - 2014,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,842,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+12843(2),2012 - 2014,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,843,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+12845(2),2012 - 2014,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,845,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+12904,2012 - 2017,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+12910,2012 - 2017,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+12941,2012 - 2017,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+12942,2012 - 2017,DH,Đại học,GV,Chính quy (SP),942,"Công Nghệ Kỹ Thuật Điện, Điện tử (SP)",1,Điện - Điện tử
+12942CTU,2012 - 2017,DH,Đại học,GV,Chính quy (SP),942,"Công Nghệ Kỹ Thuật Điện, Điện tử (SP)",1,Điện - Điện tử
+12943,2012 - 2017,DH,Đại học,GV,Chính quy (SP),943,Công Nghệ Chế Tạo Máy (SP),2,Cơ Khí Chế Tạo Máy
+12945,2012 - 2017,DH,Đại học,GV,Chính quy (SP),945,Công Nghệ Kỹ Thuật Ô tô (SP),3,Cơ Khí Động Lực
+12946,2012 - 2017,DH,Đại học,GV,Chính quy (SP),946,Công nghệ Kỹ thuật Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+12947,2012 - 2017,DH,Đại học,GV,Chính quy (SP),947,Công nghệ Kỹ Thuật Nhiệt (SP),3,Cơ Khí Động Lực
+12949,2012 - 2017,DH,Đại học,GV,Chính quy (SP),949,Công nghệ Kỹ thuật Công trình Xây dựng (SP),4,Xây dựng và Cơ học ứng dụng
+12950,2012 - 2017,DH,Đại học,GV,Chính quy (SP),950,Sư phạm Tiếng Anh,21,Ngoại ngữ
+12BM,2012 - 2014,CD,Cao đẳng,HTQT,Hợp tác quốc tế,BM402,Quản trị kinh doanh,28,Trung tâm Hợp tác đào tạo quốc tế
+12ED,2012 - 2014,CD,Cao đẳng,HTQT,Hợp tác quốc tế,ED101,"Kỹ thuật điện, điện tử",28,Trung tâm Hợp tác đào tạo quốc tế
+13141DT,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+13141VT,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+13442,2013 - 2017,DH,Đại học,VLVH,VLVH_A,442,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+13449,2013 - 2017,DH,Đại học,VLVH,VLVH_A,449,CNKT Công trình XD,15,Phòng Đào tạo không CQ
+13525,2013 - 2017,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,525,Kế toán,15,Phòng Đào tạo không CQ
+13542,2013 - 2017,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+13543,2013 - 2017,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,543,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+13549,2013 - 2017,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,549,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+13604,2013 - 2015,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,604,Kỹ thuật công nghiệp,15,Phòng Đào tạo không CQ
+13610,2013 - 2015,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,610,Công Nghệ Thông Tin,15,Phòng Đào tạo không CQ
+13642,2013 - 2015,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,642,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+13645,2013 - 2015,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,645,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+13652,2013 - 2015,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,652,Kinh tế gia đình,15,Phòng Đào tạo không CQ
+13825,2013 - 2015,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,825,Kế toán,15,Phòng Đào tạo không CQ
+13BM,2013 - 2015,CD,Cao đẳng,HTQT,Hợp tác quốc tế,BM402,Quản trị kinh doanh,28,Trung tâm Hợp tác đào tạo quốc tế
+13D11,2013 - 2015,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D11,Điện công nghiệp và dân dụng (TCCN),11,Trường Trung học Kỹ thuật Thực hành
+13D12,2013 - 2015,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D12,Công nghệ kỹ thuật cơ khí (TCCN),11,Trường Trung học Kỹ thuật Thực hành
+13D13,2013 - 2015,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D13,Công nghệ kỹ thuật ô tô máy kéo (TCCN),11,Trường Trung học Kỹ thuật Thực hành
+13D14,2013 - 2015,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D14,Công nghệ kỹ thuật Nhiệt (TCCN),11,Trường Trung học Kỹ thuật Thực hành
+13D15,2013 - 2015,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D15,Công nghệ May và Thời trang (TCCN),11,Trường Trung học Kỹ thuật Thực hành
+13D16,2013 - 2015,TC,Trung cấp chuyên nghiệp,CQ,Chính quy,D16,"Công nghệ kỹ thuật điện tử, viễn thông (TCCN)",11,Trường Trung học Kỹ thuật Thực hành
+14442(2),2014 - 2018,DH,Đại học,VLVH,VLVH_A,442,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14443(2),2014 - 2018,DH,Đại học,VLVH,VLVH_A,443,CN Chế Tạo Máy,15,Phòng Đào tạo không CQ
+14445(2),2014 - 2018,DH,Đại học,VLVH,VLVH_A,445,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+14525(3),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,525,Kế toán,15,Phòng Đào tạo không CQ
+14542(2),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14542(3),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14543(2),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,543,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+14543(3),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,543,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+14545(2),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,545,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+14549(2),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,549,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+14549(3),2014 - 2018,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,549,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+14642(2),2014 - 2016,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,642,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14642(3),2014 - 2016,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,642,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14643(2),2014 - 2016,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,643,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+14645(2),2014 - 2016,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,645,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+14810(3),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,810,Công nghệ thông tin,15,Phòng Đào tạo không CQ
+14825(3),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,825,Kế toán,15,Phòng Đào tạo không CQ
+14841(2),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,841,"Công nghệ Kỹ thuật Điện tử,Truyền thông",15,Phòng Đào tạo không CQ
+14842(2),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,842,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14842(3),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,842,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+14843(2),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,843,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+14843(3),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,843,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+14845(2),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,845,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+14845(3),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,845,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+14849(3),2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,849,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+15442(1),2015 - 2019,DH,Đại học,VLVH,VLVH_A,442,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+15542(3),2015 - 2019,DH,Đại học,VLVHTC,VLVH_liên thông TCCN,542,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+15610(3),2015 - 2017,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,610,Công Nghệ Thông Tin,15,Phòng Đào tạo không CQ
+15642(3),2015 - 2017,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,642,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+15643(3),2015 - 2017,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,643,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+15650(3),2015 - 2017,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,650,Sư phạm Tiếng Anh,15,Phòng Đào tạo không CQ
+15652(3),2015 - 2017,DH,Đại học,VLVHCD,VLVH_liên thông CĐ,652,Kinh tế gia đình,15,Phòng Đào tạo không CQ
+15825(3),2015 - 2017,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,825,Kế toán,15,Phòng Đào tạo không CQ
+15842(3),2015 - 2017,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,842,"Công Nghệ Kỹ Thuật Điện, Điện tử",15,Phòng Đào tạo không CQ
+15843(3),2015 - 2017,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,843,Công nghệ chế tạo máy,15,Phòng Đào tạo không CQ
+15845(3),2015 - 2017,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,845,Công Nghệ Kỹ Thuật Ô tô,15,Phòng Đào tạo không CQ
+15849(3),2015 - 2017,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,849,Công nghệ kỹ thuật công trình xây dựng,15,Phòng Đào tạo không CQ
+CKD13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKD13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKM09A,2009 - 2011,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM10A,2010 - 2012,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM10B,2010 - 2012,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM11A,2011 - 2013,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM11B,2011 - 2013,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM12A,2012 - 2014,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM12B,2012 - 2014,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKM13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+CKO09A,2009 - 2011,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO10A,2010 - 2012,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO10B,2010 - 2012,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO11A,2011 - 2013,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO11B,2011 - 2013,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO12A,2012 - 2014,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKO12B,2012 - 2014,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+CKT09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60520101,Cơ kỹ thuật,26,Phòng Đào tạo
+GDH09A,2009 - 2011,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH10A,2010 - 2012,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH10B,2010 - 2012,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH11A,2011 - 2013,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH11B,2011 - 2013,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH12A,2012 - 2014,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH12B,2012 - 2014,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+GDH13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+K11141DT,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K11141VT,2011 - 2015,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K11941DT,2011 - 2016,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K11941VT,2011 - 2016,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K13104,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+K13109,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+K13110,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+K13110CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+K13116,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+K13116CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,27,ĐT chất lượng cao
+K13119,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+K13119CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+K13123,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+K13124,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+K13125,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+K13125CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,27,ĐT chất lượng cao
+K13126N2,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),126,Thương mại điện tử,22,Kinh tế
+K13141,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K13141CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+K13141CLC_DT,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+K13141CLC_VT,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+K13142,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+K13142CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",27,ĐT chất lượng cao
+K13143,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+K13143CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,27,ĐT chất lượng cao
+K13144,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,2,Cơ Khí Chế Tạo Máy
+K13144CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,27,ĐT chất lượng cao
+K13145,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+K13145CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,27,ĐT chất lượng cao
+K13146,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+K13146CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,27,ĐT chất lượng cao
+K13147,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,3,Cơ Khí Động Lực
+K13147CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,27,ĐT chất lượng cao
+K13148,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,5,In và Truyền thông
+K13148CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,27,ĐT chất lượng cao
+K13149,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,4,Xây dựng và Cơ học ứng dụng
+K13149CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,27,ĐT chất lượng cao
+K13150,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+K13150CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,27,ĐT chất lượng cao
+K13151,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,1,Điện - Điện tử
+K13151CLC,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,27,ĐT chất lượng cao
+K13152,2013 - 2017,DH,Đại học,CQCN,Chính quy (CN),152,Kinh Tế Gia Đình,6,Công nghệ May và Thời trang
+K13343,2013 - 2015,DH,Đại học,CQCTCN,Chính quy (CT),343,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+K13709,2013 - 2016,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+K13741,2013 - 2016,CD,Cao đẳng,CQCN,Chính quy (CN),741,"C.Nghệ KT ĐTử,T.thông",10,TT. Việt Đức
+K13742,2013 - 2016,CD,Cao đẳng,CQCN,Chính quy (CN),742,"Công Nghệ Kỹ Thuật Điện, Điện tử",10,TT. Việt Đức
+K13743,2013 - 2016,CD,Cao đẳng,CQCN,Chính quy (CN),743,Công Nghệ Chế Tạo Máy,10,TT. Việt Đức
+K13745,2013 - 2016,CD,Cao đẳng,CQCN,Chính quy (CN),745,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+K13904,2013 - 2018,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+K13910,2013 - 2018,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+K13941DT,2013 - 2018,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K13941VT,2013 - 2018,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K13942,2013 - 2018,DH,Đại học,GV,Chính quy (SP),942,"Công Nghệ Kỹ Thuật Điện, Điện tử (SP)",1,Điện - Điện tử
+K13943,2013 - 2018,DH,Đại học,GV,Chính quy (SP),943,Công Nghệ Chế Tạo Máy (SP),2,Cơ Khí Chế Tạo Máy
+K13945,2013 - 2018,DH,Đại học,GV,Chính quy (SP),945,Công Nghệ Kỹ Thuật Ô tô (SP),3,Cơ Khí Động Lực
+K13946,2013 - 2018,DH,Đại học,GV,Chính quy (SP),946,Công nghệ Kỹ thuật Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+K13947,2013 - 2018,DH,Đại học,GV,Chính quy (SP),947,Công nghệ Kỹ Thuật Nhiệt (SP),3,Cơ Khí Động Lực
+K13949,2013 - 2018,DH,Đại học,GV,Chính quy (SP),949,Công nghệ Kỹ thuật Công trình Xây dựng (SP),4,Xây dựng và Cơ học ứng dụng
+K13950,2013 - 2018,DH,Đại học,GV,Chính quy (SP),950,Sư phạm Tiếng Anh,21,Ngoại ngữ
+K14104,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+K14109,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+K14110,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+K14110CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+K14116,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+K14119,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+K14119CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+K14123,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+K14124,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+K14124CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,27,ĐT chất lượng cao
+K14125,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+K14125CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,27,ĐT chất lượng cao
+K14141,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K14141CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+K14141DT,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K14141VT,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K14142,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+K14142CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",27,ĐT chất lượng cao
+K14143,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+K14143CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,27,ĐT chất lượng cao
+K14144,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,2,Cơ Khí Chế Tạo Máy
+K14144CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,27,ĐT chất lượng cao
+K14145,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+K14145CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,27,ĐT chất lượng cao
+K14146,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+K14146CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,27,ĐT chất lượng cao
+K14147,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,3,Cơ Khí Động Lực
+K14147CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,27,ĐT chất lượng cao
+K14148,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,5,In và Truyền thông
+K14148CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,27,ĐT chất lượng cao
+K14149,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,4,Xây dựng và Cơ học ứng dụng
+K14149CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,27,ĐT chất lượng cao
+K14150,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+K14150CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,27,ĐT chất lượng cao
+K14151,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,1,Điện - Điện tử
+K14151CLC,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,27,ĐT chất lượng cao
+K14152,2014 - 2018,DH,Đại học,CQCN,Chính quy (CN),152,Kinh Tế Gia Đình,6,Công nghệ May và Thời trang
+K14341,2014 - 2016,DH,Đại học,CQCTCN,Chính quy (CT),341,Công nghệ Kỹ thuật Điện tử-Truyền thông,1,Điện - Điện tử
+K14342,2014 - 2016,DH,Đại học,CQCTCN,Chính quy (CT),342,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+K14343,2014 - 2016,DH,Đại học,CQCTCN,Chính quy (CT),343,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+K14425,2014 - 2018,DH,Đại học,VLVH,VLVH_A,425,Kế toán,15,Phòng Đào tạo không CQ
+K14709,2014 - 2017,CD,Cao đẳng,CQCN,Chính quy (CN),709,Công nghệ May,6,Công nghệ May và Thời trang
+K14741,2014 - 2017,CD,Cao đẳng,CQCN,Chính quy (CN),741,"C.Nghệ KT ĐTử,T.thông",10,TT. Việt Đức
+K14742,2014 - 2017,CD,Cao đẳng,CQCN,Chính quy (CN),742,"Công Nghệ Kỹ Thuật Điện, Điện tử",10,TT. Việt Đức
+K14743,2014 - 2017,CD,Cao đẳng,CQCN,Chính quy (CN),743,Công Nghệ Chế Tạo Máy,10,TT. Việt Đức
+K14745,2014 - 2017,CD,Cao đẳng,CQCN,Chính quy (CN),745,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+K14825,2014 - 2016,DH,Đại học,VLVHCDN,VLVH_liên thông CĐN,825,Kế toán,15,Phòng Đào tạo không CQ
+K14904,2014 - 2019,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+K14909,2014 - 2019,DH,Đại học,GV,Chính quy (SP),909,Công Nghệ May (SP),6,Công nghệ May và Thời trang
+K14910,2014 - 2019,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+K14916,2014 - 2019,DH,Đại học,GV,Chính quy (SP),916,Công Nghệ Thực Phẩm (SP),7,Công nghệ Hóa học và Thực phẩm
+K14941,2014 - 2019,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K14941DT,2014 - 2019,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K14941VT,2014 - 2019,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K14942,2014 - 2019,DH,Đại học,GV,Chính quy (SP),942,"Công Nghệ Kỹ Thuật Điện, Điện tử (SP)",1,Điện - Điện tử
+K14943,2014 - 2019,DH,Đại học,GV,Chính quy (SP),943,Công Nghệ Chế Tạo Máy (SP),2,Cơ Khí Chế Tạo Máy
+K14945,2014 - 2019,DH,Đại học,GV,Chính quy (SP),945,Công Nghệ Kỹ Thuật Ô tô (SP),3,Cơ Khí Động Lực
+K14946,2014 - 2019,DH,Đại học,GV,Chính quy (SP),946,Công nghệ Kỹ thuật Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+K14947,2014 - 2019,DH,Đại học,GV,Chính quy (SP),947,Công nghệ Kỹ Thuật Nhiệt (SP),3,Cơ Khí Động Lực
+K14949,2014 - 2019,DH,Đại học,GV,Chính quy (SP),949,Công nghệ Kỹ thuật Công trình Xây dựng (SP),4,Xây dựng và Cơ học ứng dụng
+K14950,2014 - 2019,DH,Đại học,GV,Chính quy (SP),950,Sư phạm Tiếng Anh,21,Ngoại ngữ
+K15104,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),104,Kỹ thuật Công Nghiệp,2,Cơ Khí Chế Tạo Máy
+K15109,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,6,Công nghệ May và Thời trang
+K15109CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),109,Công Nghệ May,27,ĐT chất lượng cao
+K15110,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,18,Công nghệ Thông tin
+K15110CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),110,Công nghệ Thông Tin,27,ĐT chất lượng cao
+K15116,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,7,Công nghệ Hóa học và Thực phẩm
+K15116CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),116,Công Nghệ Thực Phẩm,27,ĐT chất lượng cao
+K15119,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,1,Điện - Điện tử
+K15119CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),119,Công nghệ Kỹ thuật Máy tính,27,ĐT chất lượng cao
+K15123,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),123,Thiết Kế Thời Trang,6,Công nghệ May và Thời trang
+K15124,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,22,Kinh tế
+K15124CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),124,Quản lý công nghiệp,27,ĐT chất lượng cao
+K15125,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,22,Kinh tế
+K15125CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),125,Kế toán,27,ĐT chất lượng cao
+K15126,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),126,Thương mại điện tử,22,Kinh tế
+K15127,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),127,Kỹ thuật xây dựng công trình giao thông,4,Xây dựng và Cơ học ứng dụng
+K15127CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),127,Kỹ thuật xây dựng công trình giao thông,27,ĐT chất lượng cao
+K15128,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),128,Công nghệ Kỹ thuật Hóa học,7,Công nghệ Hóa học và Thực phẩm
+K15141,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,Điện - Điện tử
+K15141CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",27,ĐT chất lượng cao
+K15142,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+K15142CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),142,"Công Nghệ Kỹ Thuật Điện, Điện tử",27,ĐT chất lượng cao
+K15143,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+K15143CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),143,Công Nghệ Chế Tạo Máy,27,ĐT chất lượng cao
+K15144,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,2,Cơ Khí Chế Tạo Máy
+K15144CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),144,Công Nghệ Kỹ Thuật Cơ Khí,27,ĐT chất lượng cao
+K15145,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+K15145CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),145,Công Nghệ Kỹ Thuật Ô tô,27,ĐT chất lượng cao
+K15146,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,2,Cơ Khí Chế Tạo Máy
+K15146CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),146,Công Nghệ Kỹ Thuật Cơ Điện Tử,27,ĐT chất lượng cao
+K15147,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,3,Cơ Khí Động Lực
+K15147CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),147,Công Nghệ Kỹ Thuật Nhiệt,27,ĐT chất lượng cao
+K15148,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,5,In và Truyền thông
+K15148CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),148,Công nghệ In,27,ĐT chất lượng cao
+K15149,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,4,Xây dựng và Cơ học ứng dụng
+K15149CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),149,CNghệ KT CT Xây Dựng,27,ĐT chất lượng cao
+K15150,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,7,Công nghệ Hóa học và Thực phẩm
+K15150CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),150,Công Nghệ Kỹ Thuật Môi Trường,27,ĐT chất lượng cao
+K15151,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,1,Điện - Điện tử
+K15151CLC,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,27,ĐT chất lượng cao
+K15152,2015 - 2019,DH,Đại học,CQCN,Chính quy (CN),152,Kinh Tế Gia Đình,6,Công nghệ May và Thời trang
+K15309,2015 - 2017,DH,Đại học,CQCTCN,Chính quy (CT),309,Công nghệ May,6,Công nghệ May và Thời trang
+K15341,2015 - 2017,DH,Đại học,CQCTCN,Chính quy (CT),341,Công nghệ Kỹ thuật Điện tử-Truyền thông,1,Điện - Điện tử
+K15342,2015 - 2017,DH,Đại học,CQCTCN,Chính quy (CT),342,"Công Nghệ Kỹ Thuật Điện, Điện tử",1,Điện - Điện tử
+K15343,2015 - 2017,DH,Đại học,CQCTCN,Chính quy (CT),343,Công Nghệ Chế Tạo Máy,2,Cơ Khí Chế Tạo Máy
+K15345,2015 - 2017,DH,Đại học,CQCTCN,Chính quy (CT),345,Công Nghệ Kỹ Thuật Ô tô,3,Cơ Khí Động Lực
+K15741,2015 - 2018,CD,Cao đẳng,CQCN,Chính quy (CN),741,"C.Nghệ KT ĐTử,T.thông",10,TT. Việt Đức
+K15742,2015 - 2018,CD,Cao đẳng,CQCN,Chính quy (CN),742,"Công Nghệ Kỹ Thuật Điện, Điện tử",10,TT. Việt Đức
+K15743,2015 - 2018,CD,Cao đẳng,CQCN,Chính quy (CN),743,Công Nghệ Chế Tạo Máy,10,TT. Việt Đức
+K15904,2015 - 2020,DH,Đại học,GV,Chính quy (SP),904,Kỹ thuật Công nghiệp (SP),2,Cơ Khí Chế Tạo Máy
+K15909,2015 - 2020,DH,Đại học,GV,Chính quy (SP),909,Công Nghệ May (SP),6,Công nghệ May và Thời trang
+K15910,2015 - 2020,DH,Đại học,GV,Chính quy (SP),910,Công nghệ thông tin (SP),18,Công nghệ Thông tin
+K15915,2015 - 2020,DH,Đại học,GV,Chính quy (SP),915,Công nghệ Kỹ thuật Môi trường (SP),7,Công nghệ Hóa học và Thực phẩm
+K15916,2015 - 2020,DH,Đại học,GV,Chính quy (SP),916,Công Nghệ Thực Phẩm (SP),7,Công nghệ Hóa học và Thực phẩm
+K15941,2015 - 2020,DH,Đại học,GV,Chính quy (SP),941,Công nghệ Kỹ thuật Điện tử - Truyền thông (SP),1,Điện - Điện tử
+K15942,2015 - 2020,DH,Đại học,GV,Chính quy (SP),942,"Công Nghệ Kỹ Thuật Điện, Điện tử (SP)",1,Điện - Điện tử
+K15943,2015 - 2020,DH,Đại học,GV,Chính quy (SP),943,Công Nghệ Chế Tạo Máy (SP),2,Cơ Khí Chế Tạo Máy
+K15945,2015 - 2020,DH,Đại học,GV,Chính quy (SP),945,Công Nghệ Kỹ Thuật Ô tô (SP),3,Cơ Khí Động Lực
+K15946,2015 - 2020,DH,Đại học,GV,Chính quy (SP),946,Công nghệ Kỹ thuật Cơ điện tử (SP),2,Cơ Khí Chế Tạo Máy
+K15947,2015 - 2020,DH,Đại học,GV,Chính quy (SP),947,Công nghệ Kỹ Thuật Nhiệt (SP),3,Cơ Khí Động Lực
+K15949,2015 - 2020,DH,Đại học,GV,Chính quy (SP),949,Công nghệ Kỹ thuật Công trình Xây dựng (SP),4,Xây dựng và Cơ học ứng dụng
+K15950,2015 - 2020,DH,Đại học,GV,Chính quy (SP),950,Sư phạm Tiếng Anh,21,Ngoại ngữ
+KCDT14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60520114,Kỹ thuật Cơ điện tử,26,Phòng Đào tạo
+KCDT15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60520114,Kỹ thuật Cơ điện tử,26,Phòng Đào tạo
+KCDT15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520114,Kỹ thuật Cơ điện tử,26,Phòng Đào tạo
+KCDT16A,2016-2018,CH,Cao học,CQ,Chính quy,60520114,Kỹ thuật Cơ điện tử,26,Phòng Đào tạo
+KCKD14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+KCKD15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+KCKD15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520116,Kỹ thuật cơ khí động lực,26,Phòng Đào tạo
+KCKM14A,2014 - 2016,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM14BNC,2014 - 2016,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM15ANC,2015 - 2017,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM15BNC,2015 - 2017,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KCKM15S,2015 - 2017,CH,Cao học,CQ,Chính quy,62520103,Kỹ thuật Cơ khí,26,Phòng Đào tạo
+KCKM16A,2016-2018,CH,Cao học,CQ,Chính quy,60520103,Kỹ thuật cơ khí,26,Phòng Đào tạo
+KDD13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KDD13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KDT09A,2009 - 2011,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT10A,2010 - 2012,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT10B,2010 - 2012,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT11A,2011 - 2013,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT11B,2011 - 2013,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT12A,2012 - 2014,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT12B,2012 - 2014,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KDT13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KGDH14A,2014 - 2016,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+KGDH14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+KGDH15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+KGDH15ANC,2015 - 2017,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+KGDH15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+KGDH15S,2015 - 2017,CH,Cao học,CQ,Chính quy,62140101,Giáo dục học,26,Phòng Đào tạo
+KGDH16A,2016-2018,CH,Cao học,CQ,Chính quy,60140101,Giáo dục học,26,Phòng Đào tạo
+KKDD14A,2014 - 2016,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KKDD14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KKDD15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KKDD15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KKDD16A,2016-2018,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+KKDT14A,2014 - 2016,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KKDT14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KKDT15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KKDT15ANC,2015 - 2017,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KKDT15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KKDT16A,2016-2018,CH,Cao học,CQ,Chính quy,60520203,Kỹ thuật điện tử,26,Phòng Đào tạo
+KKTN15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60520115,Kỹ thuật Nhiệt,26,Phòng Đào tạo
+KKTN15ANC,2015 - 2017,CH,Cao học,CQ,Chính quy,60520115,Kỹ thuật Nhiệt,26,Phòng Đào tạo
+KKTN15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520115,Kỹ thuật Nhiệt,26,Phòng Đào tạo
+KKTN15BNC,2015 - 2017,CH,Cao học,CQ,Chính quy,60520115,Kỹ thuật Nhiệt,26,Phòng Đào tạo
+KKTN16A,2016-2018,CH,Cao học,CQ,Chính quy,60520115,Kỹ thuật Nhiệt,26,Phòng Đào tạo
+KTDH15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60520216,Kỹ thuật Điều khiển và Tự động hóa,26,Phòng Đào tạo
+KXDC14A,2014 - 2016,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo
+KXDC14B,2014 - 2016,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo
+KXDC15A,2015 - 2017,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo
+KXDC15B,2015 - 2017,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo
+KXDC16A,2016-2018,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo
+LLP09A,2009 - 2011,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP10A,2010 - 2012,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP10B,2010 - 2012,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP11A,2011 - 2013,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP11B,2011 - 2013,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP12A,2012 - 2014,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP12B,2012 - 2014,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+LLP13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60140110,Lý luận & phương pháp dạy học,26,Phòng Đào tạo
+NCS201262520101,2012 - 2014,NCS,Nghiên cứu sinh,CQ,Chính quy,62520101,Cơ kỹ thuật,26,Phòng Đào tạo
+NCS201262520202,2012 - 2014,NCS,Nghiên cứu sinh,CQ,Chính quy,62520202,Kỹ thuật Điện,26,Phòng Đào tạo
+NCS201362520101,2013 - 2015,NCS,Nghiên cứu sinh,CQ,Chính quy,62520101,Cơ kỹ thuật,26,Phòng Đào tạo
+NCS201362520103,2013 - 2015,NCS,Nghiên cứu sinh,CQ,Chính quy,62520103,Kỹ thuật Cơ khí,26,Phòng Đào tạo
+NCS201362520202,2013 - 2015,NCS,Nghiên cứu sinh,CQ,Chính quy,62520202,Kỹ thuật Điện,26,Phòng Đào tạo
+NCS201462520101,2014 - 2016,NCS,Nghiên cứu sinh,CQ,Chính quy,62520101,Cơ kỹ thuật,26,Phòng Đào tạo
+NCS201462520103,2014 - 2016,NCS,Nghiên cứu sinh,CQ,Chính quy,62520103,Kỹ thuật Cơ khí,26,Phòng Đào tạo
+NCS201462520202,2014 - 2016,NCS,Nghiên cứu sinh,CQ,Chính quy,62520202,Kỹ thuật Điện,26,Phòng Đào tạo
+NCS201562140101,2015 - 2017,NCS,Nghiên cứu sinh,CQ,Chính quy,62140101,Giáo dục học,26,Phòng Đào tạo
+NCS201562520101,2015 - 2017,NCS,Nghiên cứu sinh,CQ,Chính quy,62520101,Cơ kỹ thuật,26,Phòng Đào tạo
+NCS201562520103,2015 - 2017,NCS,Nghiên cứu sinh,CQ,Chính quy,62520103,Kỹ thuật Cơ khí,26,Phòng Đào tạo
+TBM09A,2009 - 2011,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM09B,2009 - 2011,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM10A,2010 - 2012,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM10B,2010 - 2012,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM11A,2011 - 2013,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM11B,2011 - 2013,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM12A,2012 - 2014,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+TBM12B,2012 - 2014,CH,Cao học,CQ,Chính quy,60520202,Kỹ thuật điện,26,Phòng Đào tạo
+XDC13A,2013 - 2015,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo
+XDC13B,2013 - 2015,CH,Cao học,CQ,Chính quy,60580208,Kỹ thuật xây dựng công trình dân dụng và công nghiệp,26,Phòng Đào tạo

@@ -1,0 +1,150 @@
+DepartmentID,DepartmentName,Parent,FacultyID,FacultyName
+0,Ban giám hiệu,,,
+1,Điện - Điện tử,,,
+10,K. CNTT - Văn phòng khoa,,,
+11,K. LLCT - Văn phòng khoa,,,
+12,K. KT - Văn phòng khoa,,,
+13,K. CKDL - Văn phòng khoa,,,
+14,K. DDT - Văn phòng khoa,,,
+140,Điện Tử,1.0,1.0,Điện - Điện tử
+141,Điện Kỹ Thuật,1.0,1.0,Điện - Điện tử
+142,Điện Khí Hóa CCấp Điện,1.0,1.0,Điện - Điện tử
+143,Xưởng Điện,1.0,1.0,Điện - Điện tử
+144,Cơ sở Kỹ thuật Điện,1.0,1.0,Điện - Điện tử
+145,Điện công nghiệp,1.0,1.0,Điện - Điện tử
+146,Điều khiển tự động,1.0,1.0,Điện - Điện tử
+15,K. NN - Văn phòng khoa,,,
+16,K. CKCTM - Văn phòng khoa,,,
+162,Cơ sở Kỹ thuật Điện tử,1.0,1.0,Điện - Điện tử
+163,Điện tử Công nghiệp,1.0,1.0,Điện - Điện tử
+164,Điện tử viễn thông,1.0,1.0,Điện - Điện tử
+17,K. KHCB - Văn phòng khoa,,,
+18,K. CNHH&TP - Văn phòng khoa,,,
+182,Cơ - Điện (CGHNN),1.0,1.0,Điện - Điện tử
+2,Cơ Khí Chế Tạo Máy,,,
+220,Cơ tin kỹ thuật,2.0,2.0,Cơ Khí Chế Tạo Máy
+223,Cơ sở thiết kế máy,2.0,2.0,Cơ Khí Chế Tạo Máy
+224,Công nghệ Tự Động,2.0,2.0,Cơ Khí Chế Tạo Máy
+225,Công Nghệ Chế Tạo Máy,2.0,2.0,Cơ Khí Chế Tạo Máy
+226,Công Nghệ Kim Loại,2.0,2.0,Cơ Khí Chế Tạo Máy
+227,Thực Hành Nghề,2.0,2.0,Cơ Khí Chế Tạo Máy
+228,Kỹ Nghệ Gỗ,2.0,2.0,Cơ Khí Chế Tạo Máy
+229,Cơ Điện tử,2.0,2.0,Cơ Khí Chế Tạo Máy
+23,K. CNM&TT - Văn phòng khoa,,,
+27,K. I&TT - Văn phòng khoa,,,
+28,K. XD&CHUD - Văn phòng khoa,,,
+29,V. SPKT - Văn phòng ,,,
+29.6,V. SPKT - TT đào tạo sau đại học,,,
+29.7,V. SPKT - TT đào tạo đại học,,,
+29.8,V. SPKT - TT quan hệ cộng đồng & phát triển nguồn nhân lực,,,
+3,Cơ Khí Động Lực,,,
+330,Động Cơ,3.0,3.0,Cơ Khí Động Lực
+331,Khung Gầm,3.0,3.0,Cơ Khí Động Lực
+332,Công nghệ Nhiệt-Điện lạnh,3.0,3.0,Cơ Khí Động Lực
+333,Điện tử ô tô,3.0,3.0,Cơ Khí Động Lực
+34,T. TVD - Văn phòng Trung tâm,,,
+383,Cơ Khí Động Lực (CGHNN),3.0,3.0,Cơ Khí Động Lực
+4,Xây dựng và Cơ học ứng dụng,,,
+417,Kết cấu công trình,4.0,4.0,Xây dựng và Cơ học ứng dụng
+418,Cơ học đất & nền móng,4.0,4.0,Xây dựng và Cơ học ứng dụng
+419,Thi công & quản lý xây dựng,4.0,4.0,Xây dựng và Cơ học ứng dụng
+421,Cơ học,4.0,4.0,Xây dựng và Cơ học ứng dụng
+5,In và Truyền thông,,,
+555,Công nghệ In,5.0,5.0,In và Truyền thông
+556,Đồ họa và truyền thông,5.0,5.0,In và Truyền thông
+557,Công nghệ bao bì,5.0,5.0,In và Truyền thông
+6,Công nghệ May và Thời trang,,,
+651,Y Trang,6.0,6.0,Công nghệ May và Thời trang
+652,Thiết kế thời trang,6.0,6.0,Công nghệ May và Thời trang
+653,Kinh tế gia đình,6.0,6.0,Công nghệ May và Thời trang
+7,Công nghệ Hóa học và Thực phẩm,,,
+703,Công nghệ hóa học,7.0,7.0,Công nghệ Hóa học và Thực phẩm
+710,Công nghệ môi trường,7.0,7.0,Công nghệ Hóa học và Thực phẩm
+750,Công nghệ thực phẩm,7.0,7.0,Công nghệ Hóa học và Thực phẩm
+079000G07,Trường Đại học Sư phạm Kỹ thuật TP.Hồ Chí Minh,,,
+8,Viện Sư phạm kỹ thuật,,,
+890,Phương Pháp Giảng Dạy,8.0,8.0,Viện Sư phạm kỹ thuật
+891,Tâm Lý - Giáo Dục,8.0,8.0,Viện Sư phạm kỹ thuật
+10,TT. Việt Đức,,,
+101,Phòng Tổ chức cán bộ,,,
+1060,Cơ khí  (TT Việt - Đức),10.0,10.0,TT. Việt Đức
+1061,Điện - Điện tử (TT V-Đ),10.0,10.0,TT. Việt Đức
+11,Trường Trung học Kỹ thuật Thực hành,,,
+1170,Thỉnh giảng (TCCN),11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+1171,Điện công nghiệp và dân dụng (TCCN),11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+1172,Công nghệ kỹ thuật cơ khí (TCCN),11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+1173,Công nghệ kỹ thuật ô tô máy kéo (TCCN),11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+1174,Công nghệ kỹ thuật nhiệt (TCCN),11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+1175,Công nghệ May và Thời trang (TCCN),11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+1176,"Công nghệ kỹ thuật điện tử, viễn thông (TCCN)",11.0,11.0,Trường Trung học Kỹ thuật Thực hành
+12,TT. TP. Hồ Chí Minh,,,
+13,TT. Cần Thơ,,,
+14,TT. Ngoại ngữ,,,
+15,Phòng Đào tạo không CQ,,,
+16,Nông Nghiệp,,,
+1609,Kỹ thuật Nông nghiệp,16.0,16.0,Nông Nghiệp
+17,Khoa học Cơ bản,,,
+1701,Toán,17.0,17.0,Khoa học Cơ bản
+1702,Vật Lý,17.0,17.0,Khoa học Cơ bản
+1708,Giáo Dục Quốc Phòng,26.0,26.0,Phòng Đào tạo
+18,Công nghệ Thông tin,,,
+1879,Công nghệ phần mềm,18.0,18.0,Công nghệ Thông tin
+1880,Mạng máy tính - viễn thông,18.0,18.0,Công nghệ Thông tin
+1881,Công nghệ thông tin,18.0,18.0,Công nghệ Thông tin
+1884,Hệ thống thông tin,18.0,18.0,Công nghệ Thông tin
+1885,Tin học cơ sở,18.0,18.0,Công nghệ Thông tin
+19,Lý luận chính trị,,,
+1905,Những ng.lý cơ bản của CN Mác-Lênin,19.0,19.0,Lý luận chính trị
+1909,Phòng Quản lý khoa học và Quan hệ quốc tế,,,
+1913,Giáo dục thể chất,19.0,19.0,Lý luận chính trị
+1914,Đường lối cách mạng của ĐCSVN,19.0,19.0,Lý luận chính trị
+1915,Tư tưởng Hồ Chí Minh,19.0,19.0,Lý luận chính trị
+20,Điện - điện tử,,,
+202,Phòng Hành chính Tổng hợp,,,
+21,Ngoại ngữ,,,
+2104,Ngoại Ngữ,21.0,21.0,Ngoại ngữ
+2124,Phòng Quản trị chiến lược,,,
+2135,Lý thuyết Tiếng Anh,21.0,21.0,Ngoại ngữ
+2136,Thực hành Tiếng Anh,21.0,21.0,Ngoại ngữ
+2137,Tiếng Anh chuyên ngành,21.0,21.0,Ngoại ngữ
+2138,Phương pháp giảng dạy Tiếng Anh,21.0,21.0,Ngoại ngữ
+22,Kinh tế,,,
+2206,Quản trị kinh doanh,22.0,22.0,Kinh tế
+2207,Kế toán,22.0,22.0,Kinh tế
+2237,Phòng Quản trị - Quản lý dự án,,,
+24,Viện NCPTGD CNghiệp,,,
+25,TT.NCứu & CGiao CN,,,
+26,Phòng Đào tạo,,,
+2601,Công nghệ chế tạo máy,26.0,26.0,Phòng Đào tạo
+2602,Cơ học kỹ thuật,26.0,26.0,Phòng Đào tạo
+2603,Kỹ thuật cơ khí động lực,26.0,26.0,Phòng Đào tạo
+2604,Kỹ thuật điện (thiết bị mạng),26.0,26.0,Phòng Đào tạo
+2605,Lý luận & phương pháp dạy học,26.0,26.0,Phòng Đào tạo
+2606,Kỹ thuật điện tử,26.0,26.0,Phòng Đào tạo
+2607,Giáo dục học,26.0,26.0,Phòng Đào tạo
+2608,Kỹ thuật xây dựng & dân dụng,26.0,26.0,Phòng Đào tạo
+2609,Kỹ thuật Cơ điện tử,26.0,26.0,Phòng Đào tạo
+2610,Kỹ thuật Nhiệt,26.0,26.0,Phòng Đào tạo
+2626,Phòng Đào tạo,26.0,26.0,Phòng Đào tạo
+2699,Kế hoạch,26.0,26.0,Phòng Đào tạo
+27,ĐT chất lượng cao,,,
+2711,Bộ môn Chất lượng cao,27.0,27.0,ĐT chất lượng cao
+2727C,Chất lượng cao,27.0,27.0,ĐT chất lượng cao
+28,Trung tâm Hợp tác đào tạo quốc tế,28.0,28.0,Trung tâm Hợp tác đào tạo quốc tế
+3030,Trung tâm thông tin,,,
+3232,Trung tâm dịch vụ sinh viên,,,
+3233,Trung tâm hợp tác đào tạo quốc tế,,,
+3320,Ban quản lý Ký túc xá,,,
+3519,Thư Viện,,,
+3621,Trạm Y tế,,,
+404,Phòng Công tác Học sinh - Sinh viên,,,
+40THKT0,Tr. THKTTH - Ban giám hiệu,,,
+4141,Trung tâm Dạy học số,,,
+41THKT1,Tr. THKTTH - Phòng Hành chính,,,
+4242,Trung tâm Hướng nghiệp & Đào tạo Việt Nhật,,,
+4343,Phòng Quan hệ công chúng và doanh nghiệp,,,
+505,Phòng Kế hoạch Tài chính,,,
+606,Phòng Đảm bảo chất lượng,,,
+707,Phòng Thanh tra Giáo dục,,,
+808,Phòng Thiết bị - Vật tư,,,
+99,aaa,,,

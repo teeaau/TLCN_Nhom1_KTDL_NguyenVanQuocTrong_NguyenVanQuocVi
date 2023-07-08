@@ -1,0 +1,166 @@
+OlogyID,OlogyName,DepartmentID,Parent,TestingOlogyID,graduatelevelid,studytypeid
+101,Kỹ thuật Điện - Điện tử,1,525103.0,D510302,DH,CQCN
+102,Điện Công Nghiệp,1,525103.0,D510301,DH,CQCN
+103,Cơ Khí Chế Tạo Máy,2,525102.0,D510202,DH,CQCN
+104,Kỹ thuật Công Nghiệp,2,525106.0,D510603,DH,CQCN
+105,Cơ Khí Động Lực,3,525102.0,D510205,DH,CQCN
+106,Cơ Tin Kỹ Thuật,2,525102.0,D510203,DH,CQCN
+107,Thiết Kế Máy,2,525102.0,D510202,DH,CQCN
+108,Kỹ Thuật In,5,5251.0,D510501,DH,CQCN
+109,Công Nghệ May,6,525402.0,D540204,DH,CQCN
+110,Công nghệ Thông Tin,18,524802.0,D480201,DH,CQCN
+111,Cơ Điện Tử,2,525102.0,D510203,DH,CQCN
+112,Công nghệ Tự động,2,525102.0,D510201,DH,CQCN
+113,Kỹ Thuật Nhiệt-Điện Lạnh,3,525102.0,D510206,DH,CQCN
+114,Xây dựng dân dụng & Công Nghiệp,4,525101.0,D510102,DH,CQCN
+115,Công Nghệ Môi Trường,7,525104.0,D510406,DH,CQCN
+116,Công Nghệ Thực Phẩm,7,525401.0,D540101,DH,CQCN
+117,Công nghệ Điện tử viễn thông,1,525103.0,D510302,DH,CQCN
+118,Công nghệ Điện tự động,1,525103.0,D510303,DH,CQCN
+119,Công nghệ Kỹ thuật Máy tính,1,525103.0,D510304,DH,CQCN
+120,Tiếng Anh,21,521402.0,D140231,DH,CQCN
+121,Kỹ Thuật  Nữ Công,6,528105.0,D810501,DH,CQCN
+123,Thiết Kế Thời Trang,6,522104.0,D210404,DH,CQCN
+124,Quản lý công nghiệp,22,525106.0,D510601,DH,CQCN
+125,Kế toán,22,523403.0,D340301,DH,CQCN
+126,Thương mại điện tử,22,523401.0,D340122,DH,CQCN
+127,Kỹ thuật xây dựng công trình giao thông,4,,D580205,DH,CQCN
+128,Công nghệ Kỹ thuật Hóa học,7,525104.0,D510401,DH,CQCN
+141,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,525103.0,D510302,DH,CQCN
+142,"Công Nghệ Kỹ Thuật Điện,Đ.tử",1,525103.0,D510301,DH,CQCN
+143,Công Nghệ Chế Tạo Máy,2,525102.0,D510202,DH,CQCN
+144,Công Nghệ Kỹ Thuật Cơ Khí,2,525102.0,D510201,DH,CQCN
+145,Công Nghệ Kỹ Thuật Ô tô,3,525102.0,D510205,DH,CQCN
+146,Công Nghệ Kỹ Thuật Cơ Điện Tử,2,525102.0,D510203,DH,CQCN
+147,Công Nghệ Kỹ Thuật Nhiệt,3,525102.0,D510206,DH,CQCN
+148,Công nghệ In,5,5251.0,D510501,DH,CQCN
+149,CNghệ KT CT Xây Dựng,4,525101.0,D510102,DH,CQCN
+150,Công Nghệ Kỹ Thuật Môi Trường,7,525104.0,D510406,DH,CQCN
+151,Công Nghệ Kỹ Thuật Điều Khiển và Tự Động Hoá,1,525103.0,D510303,DH,CQCN
+152,Kinh Tế Gia Đình,6,528105.0,D810501,DH,CQCN
+201,Kỹ Thuật Điện - Điện tử,1,525103.0,D510302,DH,CQKCN
+202,Điện công nghiệp,1,525103.0,D510301,DH,CQKCN
+203,Cơ Khí Chế Tạo Máy,2,525102.0,D510202,DH,CQKCN
+205,Cơ Khí Động Lực,3,525102.0,D510205,DH,CQKCN
+209,Công nghệ May,6,525402.0,D540204,DH,CQKCN
+213,Kỹ Thuật Nhiệt-Điện Lạnh,3,525102.0,D510206,DH,CQKCN
+241,"Công Nghệ Kỹ Thuật Điện Tử,Truyền Thông",1,525103.0,D510302,DH,CQKCN
+242,CN Kỹ thuật Điện-Điện tử,1,525103.0,D510301,DH,CQKCN
+243,Công Nghệ Chế Tạo Máy,2,525102.0,D510202,DH,CQKCN
+245,Công Nghệ Kỹ Thuật Ô tô,3,525102.0,D510205,DH,CQKCN
+247,Công Nghệ Kỹ Thuật Nhiệt,3,525102.0,D510206,DH,CQKCN
+301,Kỹ thuật Điện-Điện tử (CT),1,,D510302,DH,CQCTCN
+302,Điện công nghiệp(CT),1,525103.0,D510301,DH,CQCTCN
+303,Cơ Khí Chế Tạo Máy (CT),2,525102.0,D510202,DH,CQCTCN
+305,Cơ Khí Động Lực (CT),3,,D510205,DH,CQCTCN
+309,Công nghệ May,6,525402.0,D540204,DH,CQCTCN
+325,Kế toán,22,523403.0,D340301,DH,CQCTCN
+329,Công nghệ Kỹ thuật Xây dựng,4,,D510103,DH,CQCTCN
+341,Công nghệ Kỹ thuật Điện tử-Truyền thông,1,525103.0,D510302,DH,CQCTCN
+342,Công nghệ Kỹ thuật Điện-Điện tử,1,525103.0,D510301,DH,CQCTCN
+343,Công Nghệ Chế Tạo Máy,2,525102.0,D510202,DH,CQCTCN
+345,Công Nghệ Kỹ Thuật Ô tô,3,525102.0,D510205,DH,CQCTCN
+401,KT Điện-ĐTử,1,525103.0,D510302,DH,VLVH
+402,Điện công nghiệp,1,525103.0,D510301,DH,VLVH
+403,Cơ Khí Chế Tạo Máy,2,525102.0,D510202,DH,VLVH
+410,Công nghệ thông tin,18,524802.0,D480201,DH,VLVH
+414,Xây Dựng DD & CN,4,525101.0,D510102,DH,VLVH
+417,Cnghệ Đtử viễn thông,1,525103.0,D510302,DH,VLVH
+425,Kế toán,22,523403.0,D340301,DH,VLVH
+442,CN Kỹ thuật Điện-ĐTử,1,525103.0,D510301,DH,VLVH
+443,CN Chế Tạo Máy,2,525102.0,D510202,DH,VLVH
+445,Công nghệ kỹ thuật ô tô,3,,D510205,DH,VLVH
+449,CNKT Công trình XD,4,525101.0,D510102,DH,VLVH
+502,Điện công nghiệp,1,525103.0,D510301,DH,VLVHTC
+503,Cơ Khí Chế Tạo Máy,2,525102.0,D510202,DH,VLVHTC
+505,Cơ Khí Động Lực,3,525102.0,D510205,DH,VLVHTC
+513,Kỹ thuật Nhiệt,3,525102.0,D510206,DH,VLVHTC
+514,Xây dựng dân dụng & công nghiệp,4,525101.0,D510102,DH,VLVHTC
+525,Kế toán,22,523403.0,D340301,DH,VLVHTC
+542,Công nghệ kỹ thuật điện - điện tử,15,525103.0,D510301,DH,VLVHTC
+543,Công nghệ chế tạo máy,15,525102.0,D510202,DH,VLVHTC
+545,Công nghệ kỹ thuật ô tô,15,525102.0,D510205,DH,VLVHTC
+549,Công nghệ kỹ thuật công trình xây dựng,15,525101.0,D510102,DH,VLVHTC
+601,KT Điện-Điện tử,1,525103.0,D510302,DH,VLVHCD
+60140101,Giáo dục học,26,,60140101,CH,CQ
+60140110,Lý luận & phương pháp dạy học,26,,60140110,CH,CQ
+601410,Lý luận & pp dạy học môn kỹ thuật,26,,60140110,CH,CQ
+602,Điện công nghiệp,1,525103.0,D510301,DH,VLVHCD
+603,Cơ Khí Chế Tạo Máy,2,525102.0,D510202,DH,VLVHCD
+604,Kỹ thuật công nghiệp,2,525106.0,D510603,DH,VLVHCD
+605,Cơ Khí Động Lực,3,525102.0,D510205,DH,VLVHCD
+60520101,Cơ kỹ thuật,26,,60520101,CH,CQ
+60520103,Kỹ thuật cơ khí,26,,60520103,CH,CQ
+60520114,Kỹ thuật Cơ điện tử,26,,60520114,CH,CQ
+60520115,Kỹ thuật Nhiệt,26,,60520115,CH,CQ
+60520116,Kỹ thuật cơ khí động lực,26,,60520116,CH,CQ
+605202,Cơ học kỹ thuật,26,,60520101,CH,CQ
+60520202,Kỹ thuật điện,26,,60520202,CH,CQ
+60520203,Kỹ thuật điện tử,26,,60520203,CH,CQ
+60520216,Kỹ thuật Điều khiển và Tự động hóa,26,,60520216,CH,CQ
+605270,Kỹ thuật điện tử,26,,60520203,CH,CQ
+60580208,Kỹ thuật xây dựng dân dụng & công nghiệp,26,,60580208,CH,CQ
+610,Công Nghệ Thông Tin,18,524802.0,D480201,DH,VLVHCD
+62140101,Giáo dục học,26,,60140101,CH,CQ
+625,Kế toán,22,523403.0,D340301,DH,VLVHCD
+62520101,Cơ kỹ thuật,26,,60520101,CH,CQ
+62520103,Kỹ thuật Cơ khí,26,,60520103,CH,CQ
+62520202,Kỹ thuật Điện,26,,60520202,CH,CQ
+642,Công nghệ kỹ thuật điện - điện tử,1,525103.0,D510301,DH,VLVHCD
+643,Công nghệ chế tạo máy,15,525102.0,D510202,DH,VLVHCD
+645,Công nghệ kỹ thuật ô tô,3,525102.0,D510205,DH,VLVHCD
+650,Sư phạm Tiếng Anh,21,521402.0,D140231,DH,VLVHCD
+652,Kinh tế gia đình,6,528105.0,D810501,DH,VLVHCD
+701,Kỹ thuật Điện - Điện tử,1,525103.0,C510302,CD,CQCN
+702,Điện công nghiệp,1,525103.0,C510301,CD,CQCN
+703,Cơ Khí Chế Tạo Máy,2,525102.0,C510202,CD,CQCN
+705,Cơ Khí Động Lực,3,525102.0,C510205,CD,CQCN
+709,Công nghệ May,6,525402.0,C540204,CD,CQCN
+741,"C.Nghệ KT ĐTử,T.thông",1,525103.0,C510302,CD,CQCN
+742,CN Kỹ thuật Điện-Điệntử,1,525103.0,C510301,CD,CQCN
+743,Công Nghệ Chế Tạo Máy,2,525102.0,C510202,CD,CQCN
+745,Công Nghệ Kỹ Thuật Ô tô,3,525102.0,C510205,CD,CQCN
+810,Công nghệ thông tin,18,,D480201,DH,VLVHCDN
+825,Kế toán,22,523403.0,D340301,DH,VLVHCDN
+841,"Công nghệ Kỹ thuật Điện tử,Truyền thông",1,525103.0,D510302,DH,VLVHCDN
+842,Công nghệ kỹ thuật điện - điện tử,1,525103.0,D510301,DH,VLVHCDN
+843,Công nghệ chế tạo máy,2,525102.0,D510202,DH,VLVHCDN
+845,Công nghệ kỹ thuật ô tô,3,525102.0,D510205,DH,VLVHCDN
+849,Công nghệ kỹ thuật công trình xây dựng,15,525101.0,D510102,DH,VLVHCDN
+901,SPKT Điện-Điện tử,1,525103.0,D510302,DH,GV
+902,SPKT Điện Công nghiệp,1,525103.0,D510301,DH,GV
+903,SPKT Cơ khí Chế tạo máy,2,525102.0,D510202,DH,GV
+904,SPKT Công nghiệp,2,525106.0,D510603,DH,GV
+905,SPKT Cơ khí động lực,3,525102.0,D510205,DH,GV
+909,909,26,525402.0,D540204,DH,GV
+910,SPKT Công nghệ thông tin,18,524802.0,D480201,DH,GV
+911,SPKT Cơ điện tử,2,525102.0,D510203,DH,GV
+912,SPKT Công nghệ Tự động,2,525102.0,D510202,DH,GV
+913,SPKT Nhiệt-Điện lạnh,3,525102.0,D510206,DH,GV
+914,SPKT Xây dựng dân dụng & CN,4,525101.0,D510102,DH,GV
+915,Công nghệ kỹ thuật môi trường,7,525104.0,D510406,DH,GV
+916,Công Nghệ Thực Phẩm (SP),7,525401.0,D540101,DH,GV
+917,SPKT Công nghệ Điện tử Viễn thông,1,525103.0,D510302,DH,GV
+941,"SPKT Điện tử,T.thông",1,525103.0,D510302,DH,GV
+942,"SPKT điện, điện tử",1,525103.0,D510301,DH,GV
+943,Sư Phạm Kỹ Thuật Cơ Khí,2,525102.0,D510202,DH,GV
+945,Sư Phạm Kỹ Thuật Ô tô,3,525102.0,D510205,DH,GV
+946,Sư phạm Kỹ thuật Cơ điện tử,2,525102.0,D510203,DH,GV
+947,Sư Phạm Kỹ Thuật Nhiệt,3,525102.0,D510206,DH,GV
+949,SPKT Xây dựng,4,525101.0,D510102,DH,GV
+950,Sư phạm tiếng Anh,21,521402.0,D140231,DH,GV
+BM402,Quản trị kinh doanh,28,,BM402,CD,HTQT
+D02,Điện CN và DD (THCN),10,525103.0,42510308,TC,CQ
+D03,Khaithác SCTBCK THCN,10,525102.0,42510201,TC,CQ
+D11,Điện công nghiệp và dân dụng (TCCN),11,,42510308,TC,CQ
+D12,Công nghệ kỹ thuật cơ khí (TCCN),11,,42510201,TC,CQ
+D13,Công nghệ kỹ thuật ô tô máy kéo (TCCN),11,,42510206,TC,CQ
+D14,Công nghệ kỹ thuật Nhiệt (TCCN),11,,42510219,TC,CQ
+D15,Công nghệ May và Thời trang (TCCN),11,,42540295,TC,CQ
+D16,"Công nghệ kỹ thuật điện tử, viễn thông (TCCN)",11,,42510301,TC,CQ
+ED101,"Kỹ thuật điện, điện tử",28,,ED101,CD,HTQT
+N62140101,Giáo dục học,26,,62140101,NCS,CQ
+N62520101,Cơ kỹ thuật,26,,62520101,NCS,CQ
+N62520103,Kỹ thuật cơ khí,26,,62520103,NCS,CQ
+N62520202,Kỹ thuật điện,26,,62520202,NCS,CQ
+TA,Tiếng Anh,28,,TA,CD,HTQT

@@ -1,0 +1,2372 @@
+ProfessorID,LastName,FirstName,Birthday,AcademicDegreeID,AcademicTitleID,DepartmentID,MaloaiGiangvien,TenloaiGiangvien
+1,Phùng ,Rân,  /  /,TS,PGS,225,17,Thỉnh giảng
+2,Thái Bá ,Cần,10/2/1953 0:00,TS,PGS,1909,17,Thỉnh giảng
+3,Nguyễn Văn,Thức,15-09-1952,THS,GV,2206,17,Thỉnh giảng
+4,Nguyễn Văn ,Minh,  /  /,THS,GVC,2206,17,Thỉnh giảng
+5,Lâm Mai ,Long,24/01/1955,TS,GVC,3,13,Cơ hữu
+6,Nguyễn Hữu ,Phước,  /  /,THS,GV,224,17,Thỉnh giảng
+7,Trần Hữu ,Lịch,20/12/1947,DH,GVC,1702,17,Thỉnh giảng
+8,Nguyễn Lan ,Dung,24/02/,CN,GV,1905,17,Thỉnh giảng
+9,Đinh Thành ,Ngân,12/12/1960 0:00,THS,GVC,2124,13,Cơ hữu
+10,Vũ Hồng ,Nhân,  /  /,KS,TG,224,17,Thỉnh giảng
+11,Trần Hưng ,Việt,29/04/1959,THS,GVC,21,13,Cơ hữu
+12,Lê Phương ,Anh,26/06/1972,THS,GVC,21,13,Cơ hữu
+13,Trần Hoàng ,Linh,23/11/1976,THS,GV,21,13,Cơ hữu
+14,Nguyễn Thị Thanh ,Nga,4/4/1961 0:00,THS,GV,3232,13,Cơ hữu
+15,Đỗ Hữu ,Hào,  /  /,KS,GVC,891,17,Thỉnh giảng
+16,Ngô Văn ,Liệu,27/10/1952,THS,GVC,421,17,Thỉnh giảng
+17,Nguyễn Hoàng ,Châu,20/08/1962,THS,GVC,4,13,Cơ hữu
+18,Hoàng Văn ,Quý,11/11/1955 0:00,DH,TG,3320,13,Cơ hữu
+19,Nguyễn ,Hay,  /  /,TS,GS,224,17,Thỉnh giảng
+20,Đặng Vũ Minh ,Đăng,19/02/1958,TCCN,TG,3,13,Cơ hữu
+21,Nguyễn Minh ,Lạc,29/08/1959,DH,TG,3,13,Cơ hữu
+22,Đặng Thanh ,Dũng,20/03/1972,TS,GV,18,13,Cơ hữu
+23,Trần Công ,Tú,23/07/1980,THS,GV,18,13,Cơ hữu
+24,Mai Tuấn ,Khôi,14/09/1983,THS,GV,18,13,Cơ hữu
+25,Nguyễn Thị ,Nguyên,  /  /,KS,GV,651,17,Thỉnh giảng
+26,Lê Văn Việt ,Mẫn,  /  /,KS,TG,750,17,Thỉnh giảng
+27,Trần Thị Bích ,Thuỷ,  /  /,CN,TG,1702,17,Thỉnh giảng
+28,Lê Thị Anh ,Đào,  /  /,THS,GV,891,17,Thỉnh giảng
+29,Nguyễn Ngọc Thiên ,Nam,  /  /,KS,TG,2137,17,Thỉnh giảng
+30,Nguyễn Thị Minh ,Thi,  /  /,KS,TG,2136,17,Thỉnh giảng
+31,Lương Hữu ,Minh,  /  /,CN,GV,2104,17,Thỉnh giảng
+32,Lê Thị Thanh ,Hải,1/5/1981 0:00,THS,GV,17,13,Cơ hữu
+33,Xuân ,Yến,  /  /,TS,GV,1905,17,Thỉnh giảng
+34,Nguyễn Khánh ,Vân,  /  /,TS,GVC,1905,17,Thỉnh giảng
+35,Đỗ Thị ý ,Nhi,  /  /,THS,TG,2206,17,Thỉnh giảng
+36,Đặng Đình ,Khôi,  /  /,KS,GV,703,17,Thỉnh giảng
+37,Phùng Sơn ,Thanh,4/12/1982 0:00,THS,TG,10,13,Cơ hữu
+38,Nguyễn Công ,Toàn,  /  /,THS,GV,651,17,Thỉnh giảng
+39,Đoàn Ngọc Tịnh ,Nghiêm,24/08/1981,THS,GV,4,13,Cơ hữu
+40,Đoàn Ngọc ,Phúc,  /  /,THS,GV,2206,17,Thỉnh giảng
+41,Phạm Ngọc ,Dũng,  /  /,KS,TG,417,17,Thỉnh giảng
+42,Vũ Thị Bích ,Ngà,  /  /,KS,GVC,417,17,Thỉnh giảng
+43,Ao Huyền ,Linh,  /  /,KS,GV,417,17,Thỉnh giảng
+44,Nguyễn Thị Minh ,Nguyệt,29/10/1978,THS,GV,710,17,Thỉnh giảng
+45,Ngô Gia ,Lưu,  /  /,KS,TG,1905,17,Thỉnh giảng
+46,Nguyễn Văn ,Thái,1/10/1976 0:00,TS,TG,1,13,Cơ hữu
+47,Nguyễn Khánh ,Duy,  /  /,CN,TG,417,17,Thỉnh giảng
+48,Trần Thị Thanh ,Vân,  /  /,TS,GV,1702,17,Thỉnh giảng
+49,Huỳnh Tấn ,Đệ,  /  /,KS,TG,140,17,Thỉnh giảng
+50,Trần Phúc ,Thăng,  /  /,KS,TG,1881,17,Thỉnh giảng
+51,Nguyễn Thế ,Lam,  /  /,KS,TG,1881,17,Thỉnh giảng
+52,Phan Phương ,Anh,  /  /,CN,TG,1905,17,Thỉnh giảng
+53,Nguyễn Thị Thanh ,Liên,  /  /,THS,GVC,1905,17,Thỉnh giảng
+54,Hà Tú ,Vân,  /  /,THS,GV,652,17,Thỉnh giảng
+55,Trần Tiến ,Đắc,  /  /,THS,GV,417,17,Thỉnh giảng
+56,Nguyễn Thị Bạch ,Lê,1/2/1980 0:00,THS,GV,7,13,Cơ hữu
+57,Nguyễn Hồng ,Ân,  /  /,THS,GV,417,17,Thỉnh giảng
+58,Phạm ,Sanh,  /  /,THS,GV,417,17,Thỉnh giảng
+59,Nguyễn Công ,Trí,  /  /,CN,TG,652,17,Thỉnh giảng
+60,Nguyễn ,Kính,  /  /,TS,GVC,750,17,Thỉnh giảng
+61,Đoàn ánh ,Linh,  /  /,KS,TG,652,17,Thỉnh giảng
+62,Nguyễn Thị Phương ,Mai,  /  /,KS,TG,750,17,Thỉnh giảng
+63,Huỳnh Minh ,Hưng,  /  /,KS,TG,229,17,Thỉnh giảng
+64,Lữ Thị Ngọc,Minh,  /  /,KS,TG,750,17,Thỉnh giảng
+65,Đỗ Tường ,Hạ,  /  /,THS,GV,703,17,Thỉnh giảng
+66,Nguyễn Lê Hồng ,Sơn,17/04/1982,THS,GV,3,13,Cơ hữu
+67,Trần Mai ,Văn,19/02/1983,THS,GV,2,13,Cơ hữu
+68,Nguyễn Minh ,Khánh,1/1/1982 0:00,THS,GV,8,13,Cơ hữu
+69,La Vũ Thuỳ ,Linh,  /  /,THS,GV,703,17,Thỉnh giảng
+70,Nguyễn Thị ,Sửu,  /  /,KS,TG,703,17,Thỉnh giảng
+71,Phạm Quang ,Thái,  /  /,CN,TG,2104,17,Thỉnh giảng
+72,Huỳnh Quốc ,Khanh,  /  /,KS,GV,225,17,Thỉnh giảng
+73,Nguyễn Đức ,Duy,1/4/1982 0:00,DH,GV,1701,17,Thỉnh giảng
+74,Đống Thị Anh ,Đào,  /  /,KS,PGS,750,17,Thỉnh giảng
+75,Bùi Thế ,Anh,  /  /,KS,TG,1701,17,Thỉnh giảng
+76,Huỳnh Văn ,Tùng,  /  /,KS,GV,1701,17,Thỉnh giảng
+77,Nghiêm Thị Vân ,Anh,  /  /,KS,GV,1701,17,Thỉnh giảng
+78,Trần Thị Thuỳ ,Dương,  /  /,KS,GV,1701,17,Thỉnh giảng
+79,Mai Thị Thanh ,Huệ,  /  /,THS,GV,1701,17,Thỉnh giảng
+80,Phan Tự ,Vượng,12/4/1983 0:00,THS,GV,17,13,Cơ hữu
+81,Tao Lao ,Lao,  /  /,KS,TSU,1701,17,Thỉnh giảng
+82,Lại Thế ,Luyện,  /  /,KS,GV,891,17,Thỉnh giảng
+83,Lưu Thị Kim ,Cúc,  /  /,KS,GV,891,17,Thỉnh giảng
+84,Phạm Thị ,Hòa,  /  /,CN,GVC,891,17,Thỉnh giảng
+85,Dương Thị Vân ,Anh,10/4/1982 0:00,THS,GV,2,13,Cơ hữu
+86,Nguyễn Thị ý ,Nhi,  /  /,THS,GV,703,17,Thỉnh giảng
+87,Nguyễn Phan ,Thanh,7/6/1983 0:00,CD,GV,1,13,Cơ hữu
+88,Nguyễn Tiến ,Vững,  /  /,TS,GVC,1905,17,Thỉnh giảng
+89,Trần Minh ,Tâm,  /  /,TS,GVC,1905,17,Thỉnh giảng
+90,Vũ Công ,Hòa,  /  /,TS,GV,421,17,Thỉnh giảng
+91,Nguyễn Công ,Bình,  /  /,KS,TG,220,17,Thỉnh giảng
+92,Nguyễn Thị Thanh ,Bạch,24/09/1979,THS,GV,1175,13,Cơ hữu
+93,Lý Thị ,Hằng,  /  /,THS,GVC,891,17,Thỉnh giảng
+94,Nguyễn Thị Hạ ,Nguyên,25/03/1983,THS,GV,6,13,Cơ hữu
+95,Phan Thị Kim ,Phương,  /  /,THS,GVC,2206,17,Thỉnh giảng
+96,Ngô Thị ,Thì,  /  /,THS,GVC,1913,17,Thỉnh giảng
+97,Lê Anh ,Hoàng,  /  /,KS,GVC,417,17,Thỉnh giảng
+98,Nguyễn Tiến ,Thu,  /  /,KS,GVC,417,17,Thỉnh giảng
+99,Nguyễn Văn ,Khánh,  /  /,KS,TG,417,17,Thỉnh giảng
+100,Trần Hồng ,Sơn,  /  /,KS,TG,417,17,Thỉnh giảng
+101,Lê Phan Nhật ,Hằng,26/03/1976,DH,TG,202,13,Cơ hữu
+102,Nguyễn Thanh ,Dũng,  /  /,KS,TG,163,17,Thỉnh giảng
+103,Hoàng Thị Minh ,Thảo,12/10/1984 0:00,THS,GV,17,13,Cơ hữu
+104,Trần Ngọc ,Quyên,  /  /,CN,TG,2207,17,Thỉnh giảng
+105,Nguyễn Thanh ,Thủy,6/11/1984 0:00,THS,GV,8,13,Cơ hữu
+106,Đặng Minh ,Kế,30/05/1983,DH,GV,1172,17,Thỉnh giảng
+107,Thái Lương ,Thụ,1/6/1982 0:00,THS,GV,2237,13,Cơ hữu
+108,Hoàng Thị ,Hằng,28/03/1983,THS,GV,1175,13,Cơ hữu
+109,Trần Quang ,Trí,26/12/1981,THS,GV,6,13,Cơ hữu
+110,Hàn Trung ,Định,  /  /,THS,GV,162,17,Thỉnh giảng
+111,Đỗ Đình ,Cường,  /  /,CN,TG,556,17,Thỉnh giảng
+112,Nguyễn Thị Tú ,Trinh,  /  /,THS,GV,651,17,Thỉnh giảng
+113,Võ Văn ,Nhuận,  /  /,THS,GV,651,17,Thỉnh giảng
+114,Phạm ,Quang,  /  /,THS,TG,2104,17,Thỉnh giảng
+115,nguyễn phước ,sơn,8/12/1975 0:00,TS,GVC,6,13,Cơ hữu
+116,Nguyễn Việt ,Thắng,17/12/1984,THS,GV,2,13,Cơ hữu
+117,Nguyễn Đức ,Ngọc,  /  /,TS,GVC,1905,17,Thỉnh giảng
+118,Tạ Xuân ,Hoài,  /  /,THS,GV,1905,17,Thỉnh giảng
+119,Nguyễn Thị Hiền ,Oanh,  /  /,TS,GVC,1905,17,Thỉnh giảng
+120,Trần Thị Thu ,Thảo,  /  /,KS,TG,144,17,Thỉnh giảng
+121,Lê Văn ,Anh,  /  /,THS,GVC,1905,17,Thỉnh giảng
+122,Vũ Đình ,Mai,  /  /,KS,GV,1913,17,Thỉnh giảng
+123,Nguyễn Quang ,Tuyến,  /  /,KS,TG,2104,17,Thỉnh giảng
+124,Lê Văn Hải ,Châu,  /  /,KS,GV,417,17,Thỉnh giảng
+125,Huỳnh Văn ,Vạn,  /  /,KS,GV,145,17,Thỉnh giảng
+126,Huỳnh Sa ,Hoàng,14/12/1983,THS,GV,17,13,Cơ hữu
+127,Nguyễn Bá ,Thành,  /  /,KS,GV,145,17,Thỉnh giảng
+1273,Trần Thị Phương ,Loan,  /  /,DH,GV,2104,17,Thỉnh giảng
+128,Trương Hữu ,Thành,  /  /,KS,TG,145,17,Thỉnh giảng
+129,Võ Sỹ ,Lâm,  /  /,KS,TG,145,17,Thỉnh giảng
+130,Vy Thị Thanh ,Hường,  /  /,KS,TG,145,17,Thỉnh giảng
+131,Đàng Quang ,Vắng,15/06/1974,THS,GV,22,13,Cơ hữu
+132,Lê Vĩnh ,Thịnh,26/09/1979,THS,GV,18,13,Cơ hữu
+133,Lê Văn ,Vinh,12/10/1983 0:00,THS,GV,18,13,Cơ hữu
+134,Đoàn Thị Ngọc ,Diệp,  /  /,KS,TG,557,17,Thỉnh giảng
+135,Phạm Thị Hồng ,Nga,17/07/1983,TS,GV,2,13,Cơ hữu
+136,Lục Quảng ,Hồ,29/03/1983,THS,GV,17,13,Cơ hữu
+137,Phạm Ngọc ,Duy,  /  /,THS,GV,2136,17,Thỉnh giảng
+138,Nguyễn Trung ,Nhân,  /  /,KS,TG,162,17,Thỉnh giảng
+139,Nguyễn Quốc ,Vương,  /  /,KS,TG,163,17,Thỉnh giảng
+140,Phan Hồng ,Quang,  /  /,THS,GV,1880,17,Thỉnh giảng
+141,Lê Việt ,Hùng,  /  /,KS,TG,224,17,Thỉnh giảng
+142,Nguyễn Văn ,Phương,  /  /,KS,TG,224,17,Thỉnh giảng
+143,Nguyễn Thị Phương ,Trang,  /  /,KS,TG,224,17,Thỉnh giảng
+144,Trần Văn ,Hoài,  /  /,THS,GV,651,17,Thỉnh giảng
+145,Hoàng Ngọc ,Linh,  /  /,CN,TG,651,17,Thỉnh giảng
+146,Phạm Minh ,Quang,  /  /,CN,TG,651,17,Thỉnh giảng
+147,Nguyễn Hoàng ,Minh,5/4/1984 0:00,THS,GV,1,13,Cơ hữu
+148,Lê Ngọc ,Hóa,  /  /,KS,GV,652,17,Thỉnh giảng
+149,Nguyễn Quốc ,Tuyến,29/01/1979,THS,GV,4,13,Cơ hữu
+150,Hồ Quang Cẩm ,Nghĩa,  /  /,KS,GV,703,17,Thỉnh giảng
+151,Vũ Văn ,Phong,  /  /,KS,GV,1905,17,Thỉnh giảng
+152,Lê Đoàn Minh ,Đức,  /  /,KS,GV,2207,17,Thỉnh giảng
+153,Trần Bá ,Nhẫn,  /  /,KS,GVC,2207,17,Thỉnh giảng
+154,Nguyễn Văn ,Hiển,  /  /,THS,GV,710,17,Thỉnh giảng
+155,Trương Hoàng ,Lệ,  /  /,TS,GVC,2104,17,Thỉnh giảng
+156,Trần Đăng ,Khuynh,  /  /,THS,GV,417,17,Thỉnh giảng
+157,Nguyễn Văn ,Hiếu,  /  /,KS,TG,750,17,Thỉnh giảng
+158,Nguyễn Thị ,Hạnh,  /  /,KS,TG,143,17,Thỉnh giảng
+159,Phạm Phong ,Vũ,  /  /,KS,GV,143,17,Thỉnh giảng
+160,Nguyễn Thị Kim ,Loan,  /  /,KS,GV,651,17,Thỉnh giảng
+161,Dương Kim ,Yến,  /  /,CN,TG,2104,17,Thỉnh giảng
+162,Hà Thị ,Thanh,  /  /,THS,GV,2104,17,Thỉnh giảng
+163,Phan Thị Kim ,Quyên,  /  /,CN,TG,2104,17,Thỉnh giảng
+164,Phạm Khoa ,Thành,5/2/1966 0:00,THS,GV,1171,13,Cơ hữu
+165,Đặng Trung ,Hiếu,  /  /,KS,TG,145,17,Thỉnh giảng
+166,Đặng Kiên ,Cường,  /  /,CN,GV,164,17,Thỉnh giảng
+167,Chế Đình ,Nghĩa,  /  /,THS,GV,2206,17,Thỉnh giảng
+168,Nguyễn Thị Châu ,Long,2/4/1982 0:00,THS,GV,22,13,Cơ hữu
+169,Nguyễn Văn ,Xuân,  /  /,THS,GV,333,17,Thỉnh giảng
+170,Nguyễn Thanh ,Nghị,  /  /,KS,TG,333,17,Thỉnh giảng
+171,Trần Văn ,Tuấn,  /  /,KS,TG,333,17,Thỉnh giảng
+172,Nguyễn Thị Quế ,Giang,  /  /,KS,TG,651,17,Thỉnh giảng
+173,Trần Ngọc ,Bích,  /  /,THS,GVC,417,17,Thỉnh giảng
+174,Nguyễn Thành ,Đoàn,  /  /,THS,GV,145,17,Thỉnh giảng
+175,Đặng Viết ,Hùng,  /  /,TS,GVC,710,17,Thỉnh giảng
+176,Mai Tuấn ,Anh,  /  /,TS,GVC,710,17,Thỉnh giảng
+177,Trần Thị Yến ,Phương,  /  /,THS,GV,710,17,Thỉnh giảng
+178,Văn Tấn ,Hiếu,  /  /,CN,TG,2104,17,Thỉnh giảng
+179,Vũ Công ,Thường,  /  /,CN,GV,2104,17,Thỉnh giảng
+180,Trần Văn ,San,  /  /,THS,GV,1701,17,Thỉnh giảng
+181,Nguyễn Phong ,Lưu,2/8/1983 0:00,THS,GV,1,13,Cơ hữu
+182,Trần Nhân ,ái,  /  /,THS,GV,1702,17,Thỉnh giảng
+183,Huỳnh Lâm Thu ,Thảo,  /  /,THS,GV,1702,17,Thỉnh giảng
+184,Nguyễn Minh ,Triết,14/06/1984,THS,GV,4141,13,Cơ hữu
+185,Huỳnh Đỗ Song ,Toàn,28/01/1985,THS,GV,2,13,Cơ hữu
+186,Nguyễn Văn ,Sơn,7/8/1984 0:00,THS,GV,2,13,Cơ hữu
+187,Trần Thúy ,Anh,14/12/1985,DH,GV,2138,17,Thỉnh giảng
+188,Lê Vũ Hoàng ,Oanh,  /  /,CN,GV,2135,17,Thỉnh giảng
+189,Trần Thị Thiên ,Thanh,22/10/1985,THS,GV,21,13,Cơ hữu
+190,Nguyễn Thị Ngọc ,Hoa,  /  /,CN,TG,2136,17,Thỉnh giảng
+191,Ngô Lâm Tuấn ,Anh,7/1/1985 0:00,DH,GV,750,17,Thỉnh giảng
+192,Lê Thị Bạch ,Huệ,6/2/1981 0:00,DH,TG,7,13,Cơ hữu
+193,Phan Minh Anh ,Thư,16/09/1984,THS,GV,7,13,Cơ hữu
+194,Phùng Quang ,Ngọc,8/11/1984 0:00,DH,GV,18,13,Cơ hữu
+195,Đỗ Thị Bích ,Ngân,1/5/1979 0:00,CN,TG,1,13,Cơ hữu
+196,Vương Trung ,Hiếu,31/10/1980,THS,GV,555,17,Thỉnh giảng
+197,Lê Minh ,Tài,20/04/1984,THS,GV,10,13,Cơ hữu
+198,Hồ Xuân ,Thành,1/8/1985 0:00,DH,GV,10,13,Cơ hữu
+199,Cao Văn ,Toàn,30/10/1984,DH,GV,10,13,Cơ hữu
+200,Nguyễn Thị ,Thủy,20/07/1984,THS,TG,3232,13,Cơ hữu
+2003,Uông Thanh ,Phong,  /  /,KS,GV,145,17,Thỉnh giảng
+201,Lê Vũ Hoàng ,Oanh,  /  /,THS,GV,2104,17,Thỉnh giảng
+202,Huỳnh Thị Thu ,Thảo,  /  /,THS,GV,2104,17,Thỉnh giảng
+203,Nguyễn Thúy ,Vy,  /  /,CN,TG,2136,17,Thỉnh giảng
+204,Phạm Tấn ,Hùng,14/09/1981,TS,GV,4,13,Cơ hữu
+205,Phùng Thế ,Anh,12/6/1982 0:00,THS,GV,19,13,Cơ hữu
+206,Nguyễn Văn ,Phúc,10/10/1985 0:00,THS,GV,1,13,Cơ hữu
+207,Phan Xuân ,Thạnh,  /  /,THS,GV,710,17,Thỉnh giảng
+208,Dương Thành ,Trung,  /  /,CN,TG,2104,17,Thỉnh giảng
+209,Trần Quốc ,Bảo,9/12/1981 0:00,THS,GV,146,17,Thỉnh giảng
+210,Phạm Văn ,Bình,  /  /,KS,GVC,1905,17,Thỉnh giảng
+211,Thái Ngọc ,Tăng,2/12/1955 0:00,TS,GVC,19,13,Cơ hữu
+212,Nguyễn Đức ,Thành,  /  /,KS,TG,144,17,Thỉnh giảng
+213,Nguyễn Thị ,Trang,  /  /,THS,GVC,891,17,Thỉnh giảng
+214,Đỗ Văn ,Hiến,15/11/1983,THS,GV,2,13,Cơ hữu
+215,Phạm Văn ,Đáng,  /  /,THS,GV,1701,17,Thỉnh giảng
+216,Nguyễn Văn ,Tâm,  /  /,THS,GV,2206,17,Thỉnh giảng
+217,Hoàng Thị Minh ,Nhựt,  /  /,THS,GVC,2104,17,Thỉnh giảng
+218,Huỳnh Hạnh ,Dung,4/8/1984 0:00,THS,GV,21,13,Cơ hữu
+219,Nguyễn Thị Cẩm ,Vân,  /  /,THS,GVC,651,17,Thỉnh giảng
+220,Nguyễn Thị Hải ,Ninh,  /  /,THS,GV,2206,17,Thỉnh giảng
+221,Trần Thanh ,Toàn,  /  /,TS,GV,2206,17,Thỉnh giảng
+222,Trương Thị ,Hoa,14/07/1980,THS,GV,21,13,Cơ hữu
+223,Đinh Thành ,Lễ,  /  /,THS,GV,651,17,Thỉnh giảng
+224,Nguyễn Trung ,Thông,  /  /,THS,TG,332,17,Thỉnh giảng
+225,Mai Võ Trúc ,Phương,5/5/1984 0:00,THS,GV,21,13,Cơ hữu
+226,Đặng Thị Vân ,Anh,16/05/1979,THS,GV,21,13,Cơ hữu
+227,Trần Minh ,Hiến,  /  /,THS,GV,1702,17,Thỉnh giảng
+228,Thái Huy ,Phát,23/10/1986,DH,GV,3,13,Cơ hữu
+229,Phan Gia Anh ,Vũ,20/10/1967,TS,GVC,17,13,Cơ hữu
+230,Lê Đức ,Trung,  /  /,TS,GVC,750,17,Thỉnh giảng
+231,Trần Cao ,Tường,  /  /,THS,GV,710,17,Thỉnh giảng
+232,Lê ,Temp,  /  /,CN,TG,164,17,Thỉnh giảng
+233,Trương Công ,Duẩn,  /  /,THS,GVC,1702,17,Thỉnh giảng
+234,Phạm Minh ,Ngọc,6/10/1985 0:00,DH,GV,2206,17,Thỉnh giảng
+235,Lê Quang ,Thắng,  /  /,THS,TG,651,17,Thỉnh giảng
+236,Nguyễn Minh ,Hòa,  /  /,THS,TG,1913,17,Thỉnh giảng
+237,Nguyễn Thanh,Tú_,16-2-1987,THS,GV,144,17,Thỉnh giảng
+238,Huỳnh Ngọc ,Mai,  /  /,THS,GV,144,17,Thỉnh giảng
+239,Phạm Thị ,Há,  /  /,CN,TG,651,17,Thỉnh giảng
+240,Trương Ngọc Mai ,Hương,  /  /,THS,GV,651,17,Thỉnh giảng
+241,Trịnh Thị ,Thanh,  /  /,CN,TG,1905,17,Thỉnh giảng
+242,Phạm Lưu Trùng ,Dương,24/09/1982,THS,GV,224,17,Thỉnh giảng
+243,Phan Thị Thu ,Thủy,28/07/1983,THS,GV,606,13,Cơ hữu
+244,Dương Thị Kim ,Hà,  /  /,THS,GV,710,17,Thỉnh giảng
+245,Nguyễn Thị Tuyết ,Nga,2/9/1986 0:00,THS,GV,19,13,Cơ hữu
+246,Nguyễn Thị Tuyết ,Trinh,20/11/1986,THS,GV,6,13,Cơ hữu
+247,Hồ Thị Thục ,Khanh,24/01/1979,THS,GV,6,13,Cơ hữu
+248,Nguyễn Khắc ,Tín,10/3/1984 0:00,THS,GV,17,13,Cơ hữu
+249,Trần Thị Khánh ,Chi,20/10/1986,THS,GV,17,13,Cơ hữu
+250,Nguyễn Minh ,Nhật,20/12/1985,DH,GV,5,13,Cơ hữu
+251,Diệp Phương ,Chi,3/12/1983 0:00,THS,GV,8,13,Cơ hữu
+252,Nguyễn Trung ,Thông,  /  /,CN,TG,332,17,Thỉnh giảng
+253,Trần Văn ,Trọn,30/07/1984,THS,GV,2,13,Cơ hữu
+254,Nguyễn ,Công,14/11/1986,DH,GV,229,17,Thỉnh giảng
+255,Đặng Minh ,Phụng,29/06/1983,THS,GV,2,13,Cơ hữu
+256,Lê Thanh ,Tùng,7/10/1983 0:00,THS,GV,2,13,Cơ hữu
+257,Nguyễn ,Hà,17/03/1980,THS,GV,2,13,Cơ hữu
+258,Phạm Hoàng Minh ,Phước,6/9/1979 0:00,DH,GV,22,13,Cơ hữu
+259,Lê Thị Minh ,Sang,  /  /,CN,GV,2206,17,Thỉnh giảng
+260,Nguyễn Thị ,Hồng,25/02/1987,THS,GV,22,13,Cơ hữu
+261,Nguyễn Hoàng ,Việt,  /  /,CN,TG,2207,17,Thỉnh giảng
+262,Hà Thị Thủy ,Chung,  /  /,CN,TSU,2206,17,Thỉnh giảng
+263,Đồng Phạm Hoàng ,Vũ,  /  /,CN,TG,1879,17,Thỉnh giảng
+264,Hứa Trần Phương,Thảo_,  /  /,CN,GV,2104,17,Thỉnh giảng
+265,Hoàng Trọng Mai ,Sương,30/01/1986,DH,GV,21,13,Cơ hữu
+266,Nguyễn Văn ,Khoa,22/11/1978,THS,GV,4,13,Cơ hữu
+267,Ngô Việt ,Dũng,28/10/1984,TS,GV,4,13,Cơ hữu
+268,Nguyễn Hà ,Trang,15/01/1986,THS,GV,7,13,Cơ hữu
+269,Lê Hoàng ,Lâm,2/3/1983 0:00,THS,GV,1,13,Cơ hữu
+270,Nguyễn Thị ,Phượng,  /  /,CN,GV,1915,17,Thỉnh giảng
+271,Hồ Thị Thu,Trang_,  /  /,CN,GV,703,17,Thỉnh giảng
+272,Trần Văn ,Tuyền,31/10/1984,THS,GV,19,13,Cơ hữu
+273,Trần Thống ,Nhất,  /  /,THS,GV,1701,17,Thỉnh giảng
+274,Dương Việt ,Hưng,  /  /,THS,GV,2104,17,Thỉnh giảng
+275,Mai Thị Hoàng ,Minh,  /  /,TS,PGS,2207,17,Thỉnh giảng
+276,Nguyễn Thanh ,Phong,  /  /,THS,GV,2207,17,Thỉnh giảng
+277,Nguyễn Thị Kim ,Cúc,9/12/1982 0:00,DH,TG,15,13,Cơ hữu
+278,Phạm Thị Ngọc ,Trâm,  /  /,CN,TG,2206,17,Thỉnh giảng
+279,Nguyễn Phước ,Lân,  /  /,TS,GVC,1702,17,Thỉnh giảng
+280,Lên Thùy ,Trang,  /  /,KS,TG,652,17,Thỉnh giảng
+281,Lê Mai Kim ,Chi,7/5/1981 0:00,THS,GV,6,13,Cơ hữu
+282,Đặng Bảo ,Ly,27/08/1982,DH,GV,651,17,Thỉnh giảng
+283,Tạ Vũ Thục ,Oanh,23/12/1982,THS,GV,6,13,Cơ hữu
+284,Bùi Quang ,Hòa,  /  /,CN,GV,163,17,Thỉnh giảng
+285,Lý Quang ,Minh,  /  /,DH,GV,331,17,Thỉnh giảng
+286,Thái Bá ,Quang,  /  /,KS,TG,331,17,Thỉnh giảng
+287,Trần Văn ,Sướng,  /  /,THS,GV,146,17,Thỉnh giảng
+288,Nguyễn Thị Yến ,Linh,  /  /,THS,GV,1702,17,Thỉnh giảng
+289,Đặng Đoàn Thị ,Quế,  /  /,CN,TG,750,17,Thỉnh giảng
+290,Đặng Đoàn Kim ,Lăng,  /  /,CN,TG,750,17,Thỉnh giảng
+291,Lê Quang Lâm ,Thúy,1/8/1983 0:00,THS,GV,6,13,Cơ hữu
+292,Mai Quỳnh ,Trang,2/2/1982 0:00,THS,GV,6,13,Cơ hữu
+293,Phạm Quốc ,Đạt,  /  /,CN,TG,1913,17,Thỉnh giảng
+294,Trương Quang ,An,  /  /,CN,TG,1913,17,Thỉnh giảng
+295,Lê Minh ,Hoàng,26-6-1983,CN,TG,1913,17,Thỉnh giảng
+296,Đặng Ngọc ,Cảnh,  /  /,KS,TG,417,17,Thỉnh giảng
+297,Võ Văn Anh ,Tuấn,  /  /,THS,TG,144,17,Thỉnh giảng
+298,Hoàng ,Long,20/09/1978,THS,GV,18,13,Cơ hữu
+299,Phạm Thị Thảo ,Khanh,  /  /,THS,GV,2104,17,Thỉnh giảng
+300,Phạm Thị ,Hằng,2/9/1983 0:00,THS,GV,21,13,Cơ hữu
+301,Nguyễn Thị Kim ,An,  /  /,THS,GV,2104,17,Thỉnh giảng
+302,Bùi Xuân ,Hào,  /  /,KS,GV,703,17,Thỉnh giảng
+303,Đỗ Quý Mai ,Khôi,  /  /,KS,TG,750,17,Thỉnh giảng
+304,Nguyễn Thạnh ,Minh,  /  /,THS,GV,750,17,Thỉnh giảng
+305,Đoàn Minh ,Ngọc,  /  /,THS,GV,652,17,Thỉnh giảng
+306,Nguyễn Minh ,Tuấn,  /  /,THS,GV,2206,17,Thỉnh giảng
+307,Nguyễn Thị Thanh ,Vân (2),  /  /,THS,GV,2206,17,Thỉnh giảng
+308,Huỳnh Thiên ,Phú,  /  /,THS,GV,2206,17,Thỉnh giảng
+309,Quách Đình ,Hoàng,10/5/1985 0:00,DH,GV,18,13,Cơ hữu
+310,Trần Quốc ,Hưng,  /  /,THS,GVC,2206,17,Thỉnh giảng
+311,Trần Thanh ,Lợi,  /  /,THS,TSU,703,17,Thỉnh giảng
+312,Trần Thanh ,Long,  /  /,THS,GV,2207,17,Thỉnh giảng
+313,Lê Vũ Ngọc ,Thanh,  /  /,THS,GV,2207,17,Thỉnh giảng
+314,Phạm Văn ,Lâm,  /  /,THS,TSU,1913,17,Thỉnh giảng
+315,Lê Văn ,Tiền,  /  /,THS,GV,1913,17,Thỉnh giảng
+316,Từ Minh ,Trị,  /  /,THS,GV,2206,17,Thỉnh giảng
+317,Nguyễn Lâm ,Vũ,  /  /,KS,TG,651,17,Thỉnh giảng
+318,Nguyễn Văn ,Nga,  /  /,THS,GV,163,17,Thỉnh giảng
+319,Hoàng Thị ,Hằng,  /  /,THS,GV,1905,17,Thỉnh giảng
+320,Đào Văn ,Phượng,  /  /,THS,GV,162,17,Thỉnh giảng
+321,Lê Quốc ,Hưng,  /  /,THS,TSU,2206,17,Thỉnh giảng
+322,Hà Nguyễn Minh ,Quân,12/5/1984 0:00,THS,GV,22,13,Cơ hữu
+323,Nguyễn Thị Mai ,Trâm,9/2/1981 0:00,THS,GV,22,13,Cơ hữu
+324,Đỗ An ,Bình,  /  /,THS,GV,2206,17,Thỉnh giảng
+325,Đặng Hùng ,Sơn,20/10/1986,DH,GV,3,13,Cơ hữu
+326,Nguyễn Thị Tuyết ,Nga_0,  /  /,THS,GV,1905,17,Thỉnh giảng
+327,Nguyễn Khắc Nguyên ,Tâm,  /  /,THS,TG,2104,17,Thỉnh giảng
+328,Trần Thị Hà ,Linh,  /  /,THS,TG,652,17,Thỉnh giảng
+329,Đỗ Thị Khánh ,Hoà,  /  /,THS,TG,2104,17,Thỉnh giảng
+330,Võ Thị Hải ,Yến,  /  /,CN,TG,2104,17,Thỉnh giảng
+331,Nguyễn Thị Trang ,Đài,  /  /,THS,TG,2104,17,Thỉnh giảng
+332,Nguyễn Thành ,Nhân,  /  /,THS,GV,2206,17,Thỉnh giảng
+333,Nguyễn Thanh ,Hải,1/7/1983 0:00,THS,GV,7,17,Thỉnh giảng
+334,Đoàn Hùng ,Nam,  /  /,THS,GV,2206,17,Thỉnh giảng
+335,Phan Kim ,Thành,2/6/1978 0:00,THS,GV,140,13,Cơ hữu
+336,Nguyễn Hữu ,Phước,  /  /,THS,GV,162,17,Thỉnh giảng
+337,Hồ Hữu ,Chỉnh,  /  /,THS,GVC,417,17,Thỉnh giảng
+338,Trần Thị Thu ,Hường,  /  /,THS,GV,651,17,Thỉnh giảng
+339,Phan Phụng ,Cử,  /  /,KS,TG,164,17,Thỉnh giảng
+340,Trần Mạnh ,Sơn,12/9/1982 0:00,THS,GV,1,13,Cơ hữu
+341,Huỳnh Hoàng ,Nguyên,4/1/1986 0:00,THS,GV,1,13,Cơ hữu
+342,Võ Thái ,Sim,  /  /,THS,TSU,163,17,Thỉnh giảng
+343,Dương Thị Hồng ,Nga,  /  /,THS,GV,163,17,Thỉnh giảng
+344,Trần Văn,Trọn_,  /  /,THS,GV,229,17,Thỉnh giảng
+345,Nguyễn Quốc ,Việt,25/11/1986,THS,GV,1061,17,Thỉnh giảng
+346,Nguyễn Lê Đăng ,Hải,14/02/1985,THS,GV,10,13,Cơ hữu
+347,Lê Bá ,Tân,19/10/1983,THS,GV,10,13,Cơ hữu
+348,Cao Văn ,Quang,  /  /,THS,TG,1913,17,Thỉnh giảng
+349,Nguyễn Đăng ,Võ,  /  /,THS,GV,163,17,Thỉnh giảng
+350,Lê Quốc ,Đán,  /  /,THS,GV,163,17,Thỉnh giảng
+351,Nguyễn Thanh ,Phương,  /  /,THS,GV,146,17,Thỉnh giảng
+352,Nguyễn Văn ,Tú,2/5/1985 0:00,THS,GV,2,13,Cơ hữu
+353,Nguyễn Ngọc ,Linh,  /  /,TS,GVC,333,17,Thỉnh giảng
+354,Nguyễn Thái ,Bình,  /  /,KS,TG,225,17,Thỉnh giảng
+355,La Thanh ,Hải,  /  /,KS,TG,225,17,Thỉnh giảng
+356,Nguyễn Minh ,Long,  /  /,TS,GVC,417,17,Thỉnh giảng
+357,Ngô Hữu ,Cường,  /  /,TS,GVC,417,17,Thỉnh giảng
+358,Nguyễn Thị Thanh ,Nhân,  /  /,THS,GV,162,17,Thỉnh giảng
+359,Phạm Minh ,Tường,  /  /,KS,TG,162,17,Thỉnh giảng
+360,Đỗ Thị Bích ,Thủy,  /  /,KS,TG,162,17,Thỉnh giảng
+361,Lê ,Minh,4/11/1986 0:00,THS,GV,1,13,Cơ hữu
+362,Phan Đại ,Nghĩa,  /  /,KS,TG,146,17,Thỉnh giảng
+363,Ngô Xuân ,Mạnh,  /  /,KS,GV,146,17,Thỉnh giảng
+364,Nguyễn Vũ ,Sỹ,  /  /,KS,GV,146,17,Thỉnh giảng
+365,Nguyễn Mạnh ,Sơn,  /  /,KS,TSU,146,17,Thỉnh giảng
+366,Phan Quang ,Hùng,  /  /,THS,GV,146,17,Thỉnh giảng
+367,Lâm Quang ,Chuyên,  /  /,THS,GV,163,17,Thỉnh giảng
+368,Nguyễn Minh ,Quang,  /  /,THS,TG,333,17,Thỉnh giảng
+369,Phạm Thùy Nguyên ,Thủy,  /  /,THS,GV,651,17,Thỉnh giảng
+370,Quách Huệ ,Cơ,16/08/1977,DH,GV,5,13,Cơ hữu
+371,Nguyễn Thị ,Lan,  /  /,THS,GV,710,17,Thỉnh giảng
+372,Nguyễn Ngọc ,Du,  /  /,THS,TG,555,17,Thỉnh giảng
+373,Nguyễn Thị Thanh ,Thùy,11/2/1986 0:00,DH,TG,21,13,Cơ hữu
+374,Hoàng Trọng Mai ,Sương,  /  /,THS,GV,2104,17,Thỉnh giảng
+375,Hứa Trần Phương ,Thảo,5/5/1985 0:00,THS,GV,21,13,Cơ hữu
+376,Trần Thị Giang ,Tân,  /  /,THS,GV,2207,17,Thỉnh giảng
+377,Nguyễn Văn ,Bảy,  /  /,THS,GV,2207,17,Thỉnh giảng
+378,Nguyễn Văn ,Đảng,  /  /,THS,GV,146,17,Thỉnh giảng
+379,Mai Thanh ,Trí,  /  /,THS,GV,2207,17,Thỉnh giảng
+380,Lê Thị Ngân ,Vang,  /  /,THS,GV,2104,17,Thỉnh giảng
+381,Nguyễn Ngọc ,Phương,  /  /,DH,TG,223,17,Thỉnh giảng
+382,Phan Thanh ,Toản,  /  /,THS,GV,164,17,Thỉnh giảng
+383,Nguyễn Thị Mỹ ,Linh,  /  /,THS,GV,651,17,Thỉnh giảng
+384,Phan Thị Hồng ,Oanh,  /  /,THS,TG,1914,17,Thỉnh giảng
+385,Đặng Xuân ,Đạm,  /  /,THS,GVC,1914,17,Thỉnh giảng
+386,Huỳnh Thái Duy ,Phương,  /  /,THS,TG,1701,17,Thỉnh giảng
+387,Lê Thị Thu ,Hà,  /  /,CN,TG,1702,17,Thỉnh giảng
+388,Phan Bách ,Thắng,  /  /,TS,GV,1702,17,Thỉnh giảng
+389,Lê Anh ,Thắng,27/10/1976,TS,GV,4,13,Cơ hữu
+390,Ngô Quốc ,Cường,17/05/1987,THS,GV,1,13,Cơ hữu
+391,Đỗ An ,Bình,  /  /,THS,GV,891,17,Thỉnh giảng
+392,Nguyễn Thanh ,Nghĩa,  /  /,KS,TG,164,17,Thỉnh giảng
+393,Cung Hữu ,Đức,  /  /,THS,GV,2207,17,Thỉnh giảng
+394,Phạm Văn ,Chiến,  /  /,THS,TG,144,17,Thỉnh giảng
+395,Nguyễn ,Thới,1/4/1985 0:00,THS,GV,1,13,Cơ hữu
+396,Nguyễn Anh ,Tuấn,5/8/1957 0:00,THS,GVC,8,13,Cơ hữu
+397,Nguyễn Hoàng Vĩnh ,Lộc,  /  /,THS,GV,2207,17,Thỉnh giảng
+398,Lê Thị Minh ,Tuyến,  /  /,THS,TG,2104,17,Thỉnh giảng
+399,Lê Minh ,Trí,  /  /,THS,GV,162,17,Thỉnh giảng
+400,Nguyễn Thị Mỹ ,Phương,  /  /,KS,TG,162,17,Thỉnh giảng
+401,Ngô Quốc,Cường_,  /  /,KS,TG,162,17,Thỉnh giảng
+402,Nguyễn Thanh ,Liêm,  /  /,THS,GV,891,17,Thỉnh giảng
+403,Nguyễn Chí ,Hiếu,  /  /,THS,TG,710,17,Thỉnh giảng
+404,Huỳnh Thị Mỹ ,Vân,17/11/1987,DH,GV,21,13,Cơ hữu
+405,Trần Thị ,Hà,  /  /,THS,GV,1914,17,Thỉnh giảng
+406,Phạm Minh ,Vương,  /  /,TS,GVC,220,17,Thỉnh giảng
+407,Nguyễn Ngọc Đăng ,Khoa,  /  /,THS,GV,750,17,Thỉnh giảng
+408,Nguyễn Khắc ,Hiếu,21/09/1981,THS,GV,22,13,Cơ hữu
+409,Huỳnh Đinh Thái ,Linh,  /  /,THS,GV,2206,17,Thỉnh giảng
+410,Nguyễn Thành ,Chiến,24/11/1982,THS,TSU,229,17,Thỉnh giảng
+411,Nguyễn Trường,Duy_,20-9-1977,THS,TG,652,17,Thỉnh giảng
+412,Võ Xuân ,Thành,10/10/1976 0:00,THS,GV,3,13,Cơ hữu
+413,Trần Đức ,Long,  /  /,CN,GV,330,17,Thỉnh giảng
+414,Nguyễn Thanh ,Phong,  /  /,KS,GV,330,17,Thỉnh giảng
+415,Nguyễn Phương ,Thúy,16/10/1987,THS,GV,22,13,Cơ hữu
+416,Phạm Thanh Hải ,Triều,  /  /,THS,GV,2207,17,Thỉnh giảng
+417,Phùng Văn ,Phúc,  /  /,THS,GV,220,17,Thỉnh giảng
+418,Nguyễn Hoàng ,Sơn,  /  /,THS,TG,220,17,Thỉnh giảng
+419,Trịnh Công ,Luận,9/10/1986 0:00,THS,GV,4,13,Cơ hữu
+420,Trần Thị Thanh ,Kiều,21/09/1987,DH,GV,21,13,Cơ hữu
+421,Phan Thành ,Trung,1/11/1978 0:00,THS,GV,4,13,Cơ hữu
+422,Trần Minh ,Anh,  /  /,THS,GV,417,17,Thỉnh giảng
+423,Bùi Tấn ,Nghĩa,  /  /,THS,GV,703,17,Thỉnh giảng
+424,Nguyễn Đức ,Cường,  /  /,THS,GV,703,17,Thỉnh giảng
+425,Nguyễn Văn ,Dũng,  /  /,THS,GV,710,17,Thỉnh giảng
+426,Huỳnh Tấn ,Liêm,  /  /,THS,GV,1701,17,Thỉnh giảng
+427,Nguyễn Quang ,Huy,25/09/1986,THS,GV,17,13,Cơ hữu
+428,Nguyễn Đình ,Lập,  /  /,THS,GV,1701,17,Thỉnh giảng
+429,Đinh Nguyễn Anh ,Trung,  /  /,THS,GV,1701,17,Thỉnh giảng
+430,Nguyễn Mai ,Hưng,  /  /,THS,GV,1701,17,Thỉnh giảng
+431,Lê Trung ,Nghĩa,  /  /,THS,TG,1701,17,Thỉnh giảng
+432,Trần Thứ ,Ba,  /  /,THS,GV,1701,17,Thỉnh giảng
+433,Nguyễn Văn ,Hùng,  /  /,THS,GV,1701,17,Thỉnh giảng
+434,Nguyễn Minh ,Trí,  /  /,THS,GV,1701,17,Thỉnh giảng
+435,Nguyễn ,Điệp,  /  /,CN,GV,1701,17,Thỉnh giảng
+436,Lê Văn ,Hợp,  /  /,THS,TG,1914,17,Thỉnh giảng
+437,Nguyễn Hữu ,Chí,  /  /,THS,GV,1914,17,Thỉnh giảng
+438,Phạm Văn ,Khoa,20/10/1988,THS,GV,1,13,Cơ hữu
+439,Lê Hoàng Việt ,Lâm,  /  /,THS,TG,1905,17,Thỉnh giảng
+440,Nguyễn Quốc ,Cường,  /  /,THS,GVC,1905,17,Thỉnh giảng
+441,Vương Thị Thanh ,Chi,  /  /,CN,TG,1701,17,Thỉnh giảng
+442,Nguyễn Thị Thu ,Hà,  /  /,THS,GV,1701,17,Thỉnh giảng
+443,Lê Quang ,Long,  /  /,THS,GV,1701,17,Thỉnh giảng
+444,Nguyễn Hoàng Lê ,Na,  /  /,THS,GV,651,17,Thỉnh giảng
+445,Hồ Thị Duyên ,Thuỳ,  /  /,THS,TSU,1702,13,Cơ hữu
+446,Nguyễn Văn ,ý,  /  /,THS,GV,1701,17,Thỉnh giảng
+447,Trương Thị ,Dung,  /  /,THS,GV,1701,17,Thỉnh giảng
+448,Huỳnh Phước ,Thọ,  /  /,THS,GV,1701,17,Thỉnh giảng
+449,Nguyễn Đoàn Hoàng ,Giang,  /  /,THS,GV,1914,17,Thỉnh giảng
+450,Võ Việt ,Nhung,  /  /,THS,GV,1914,17,Thỉnh giảng
+451,Nguyễn Thuý Hoàng ,Vy,  /  /,CN,GV,2104,17,Thỉnh giảng
+452,Nguyễn Thị Minh ,Trang,  /  /,THS,GV,417,17,Thỉnh giảng
+453,Nguyễn Văn ,Sáng,  /  /,THS,TG,146,17,Thỉnh giảng
+454,Nguyễn Văn Đông ,Hải,1/1/1986 0:00,THS,GV,1,13,Cơ hữu
+455,Phùng ,Quán,  /  /,THS,GV,703,17,Thỉnh giảng
+456,Nguyễn Ngọc ,Duy,  /  /,THS,GV,703,17,Thỉnh giảng
+457,Trịnh Thị Diệu ,Bình,  /  /,THS,GV,703,17,Thỉnh giảng
+458,Nguyễn Văn ,Tâm,3/1/1978 0:00,THS,TG,26,17,Thỉnh giảng
+459,Ngô Thị Ngọc ,Anh,  /  /,THS,GV,2207,17,Thỉnh giảng
+460,Phan Thị Bảo ,Quyên,  /  /,THS,GV,2207,17,Thỉnh giảng
+461,Trần Thị Hoàng ,Châu,  /  /,THS,TG,2207,17,Thỉnh giảng
+462,Lê Quang ,Thông,  /  /,THS,GVC,2206,17,Thỉnh giảng
+463,Đặng Thị Uyên ,Phương,  /  /,THS,GV,651,17,Thỉnh giảng
+464,Cù Hoàng ,Hùng,  /  /,THS,TG,229,17,Thỉnh giảng
+465,Nguyễn Phan ,Hùng,21/02/1987,THS,GV,22,17,Thỉnh giảng
+466,Nguyễn Minh ,Nhựt,  /  /,THS,GV,555,17,Thỉnh giảng
+467,Nguyễn Thành ,Phương,3/4/1984 0:00,THS,GV,5,13,Cơ hữu
+468,Ngô Xuân ,Tăng,  /  /,THS,GVC,1913,17,Thỉnh giảng
+469,Phạm Thị Xuân ,Nguyệt,  /  /,THS,GV,1885,17,Thỉnh giảng
+470,Nguyễn Thị Huỳnh ,Mai,  /  /,THS,TG,1879,17,Thỉnh giảng
+471,Nguyễn Văn ,Chung,  /  /,THS,GVC,1881,17,Thỉnh giảng
+472,Nguyễn Thành ,Sơn,  /  /,THS,GVC,1881,17,Thỉnh giảng
+473,Nguyễn Thành ,Nam,  /  /,THS,GV,1881,17,Thỉnh giảng
+474,Ngô Quang ,Thành,  /  /,THS,GV,2206,17,Thỉnh giảng
+475,Nguyễn Huy ,Vũ,  /  /,THS,GV,710,17,Thỉnh giảng
+476,Hoàng Thị Mỹ ,Hương,  /  /,THS,GV,710,17,Thỉnh giảng
+477,Nguyễn Văn ,Danh,  /  /,KS,TG,710,17,Thỉnh giảng
+478,Hoàng Thị Thúy ,Phượng,9/5/1987 0:00,DH,GV,5,13,Cơ hữu
+479,Đinh Quốc ,Hùng,  /  /,THS,GV,164,17,Thỉnh giảng
+480,Trương Ngọc ,Thành,  /  /,KS,TG,164,17,Thỉnh giảng
+481,Mai Thị Bích ,Vân,  /  /,THS,GV,162,17,Thỉnh giảng
+482,Trần Văn ,Trịnh,  /  /,THS,TG,146,17,Thỉnh giảng
+483,Trần Văn ,Thanh,  /  /,THS,TG,146,17,Thỉnh giảng
+484,Lê Thị ,Thương,  /  /,CN,TG,2207,17,Thỉnh giảng
+485,Mai Thị Bích ,Vân,  /  /,THS,GV,162,17,Thỉnh giảng
+486,Lê Văn ,Hốt,  /  /,TS,PGS,2206,17,Thỉnh giảng
+487,Lê Văn ,Khánh,  /  /,KS,TG,1913,17,Thỉnh giảng
+488,Nguyễn Thế Trường ,Phong,10/3/1987 0:00,THS,GV,4,13,Cơ hữu
+489,Nguyễn Thanh ,Tú,16/02/1987,THS,GV,4,13,Cơ hữu
+490,Nguyễn Công ,Tráng,  /  /,THS,GV,145,17,Thỉnh giảng
+491,Nguyễn Đoàn Thanh ,Vinh,  /  /,THS,GV,1702,17,Thỉnh giảng
+492,Đoàn Trí ,Dũng,  /  /,TS,GVC,1702,17,Thỉnh giảng
+493,Nguyễn Phi ,Trung,2/11/1984 0:00,CD,GV,2,13,Cơ hữu
+494,Phan Thị Thanh ,Hiền,6/5/1987 0:00,THS,GV,22,13,Cơ hữu
+495,Nguyễn Thị Anh ,Vân,19/07/1988,THS,GV,22,13,Cơ hữu
+496,Nguyễn Thanh ,Nhiên,  /  /,THS,GV,2206,17,Thỉnh giảng
+497,Lê Thị ,Thương,  /  /,THS,GV,2207,17,Thỉnh giảng
+498,Trần Thụy Ái ,Phương,14/10/1985,THS,GV,22,13,Cơ hữu
+499,Nguyễn Thị Hoàng ,Anh,4/9/1986 0:00,THS,GV,22,13,Cơ hữu
+500,Phạm Đức ,Tân,  /  /,THS,GV,2207,17,Thỉnh giảng
+501,Nguyễn Thị Thu ,Hồng,13/02/1987,THS,GV,22,13,Cơ hữu
+502,Phạm Bình ,Linh,  /  /,THS,TG,2104,17,Thỉnh giảng
+503,Lâm Ngọc Minh ,Thùy,  /  /,THS,TG,2104,17,Thỉnh giảng
+504,Nguyễn Phú ,Châu,  /  /,THS,TG,2104,17,Thỉnh giảng
+505,Võ Thị Thiên ,Ân,  /  /,THS,TG,2104,17,Thỉnh giảng
+506,Phùng Thanh ,Loan,5/8/1988 0:00,DH,GV,21,13,Cơ hữu
+507,Đặng Thị Lệ ,Hằng,  /  /,THS,TSU,2104,17,Thỉnh giảng
+508,Nguyễn Ngọc,Hùng_,29-7-1969,THS,GV,225,17,Thỉnh giảng
+509,Đinh Thị Thanh ,Hằng,14/08/1987,THS,GV,21,13,Cơ hữu
+510,Trần Đình Thanh ,Long,9/7/1988 0:00,DH,GV,21,13,Cơ hữu
+511,Trần Thị Mỹ ,Dung,  /  /,THS,GVC,2104,17,Thỉnh giảng
+512,Khưu Minh ,Phong,  /  /,THS,GV,651,17,Thỉnh giảng
+513,Nguyễn Thị Bích ,Liễu,15/11/1984,THS,GV,4,13,Cơ hữu
+514,Nguyễn Minh ,Hải,  /  /,THS,GV,750,17,Thỉnh giảng
+515,Nguyễn Thị Thu ,Thảo,19/09/1983,THS,GV,7,13,Cơ hữu
+516,Vũ Văn ,Quang,  /  /,THS,GV,710,17,Thỉnh giảng
+517,Lê Duy ,Tân,  /  /,THS,GV,891,17,Thỉnh giảng
+518,Mai Thị Anh ,Đào,  /  /,THS,GV,1702,17,Thỉnh giảng
+519,Võ Thị Vân ,Anh,13/06/1987,THS,GV,17,13,Cơ hữu
+520,Vũ Thị Lệ ,Thuỷ,  /  /,THS,GV,1701,17,Thỉnh giảng
+521,Bốc Minh ,Hùng,  /  /,THS,TG,146,17,Thỉnh giảng
+522,Phan Duy ,Nhất,  /  /,THS,GV,1701,17,Thỉnh giảng
+523,Đỗ Minh ,Thái,  /  /,KS,TG,164,17,Thỉnh giảng
+524,Nguyễn Hoàng ,Anh,  /  /,THS,GV,1879,17,Thỉnh giảng
+525,Nguyễn Thanh ,Phước,  /  /,THS,GV,1879,17,Thỉnh giảng
+526,Lê Thành ,Lộc,  /  /,THS,GV,225,17,Thỉnh giảng
+527,Võ Thị An ,Phú,  /  /,THS,TG,2104,17,Thỉnh giảng
+528,Huỳnh Minh ,Tuấn,  /  /,THS,TG,2104,17,Thỉnh giảng
+529,Khổng Kim ,Ngân,  /  /,CN,TG,2104,17,Thỉnh giảng
+530,Võ Thị Ngọc ,Dung,  /  /,THS,TG,224,17,Thỉnh giảng
+531,Phan Trần Phú ,Lộc,  /  /,THS,GV,890,17,Thỉnh giảng
+532,Nguyễn Thị Thu ,Hà,  /  /,THS,TG,750,17,Thỉnh giảng
+533,Lê ái ,Quốc,  /  /,THS,GV,2206,17,Thỉnh giảng
+534,Nguyễn Văn ,Đề,  /  /,THS,TG,1905,17,Thỉnh giảng
+535,Trần Tấn ,Tài,  /  /,THS,GVC,890,17,Thỉnh giảng
+536,Nguyễn Thị Kim ,Phượng,  /  /,THS,GVC,750,17,Thỉnh giảng
+537,Vòng Thình ,Nam,1/11/1970 0:00,THS,GV,22,13,Cơ hữu
+538,Phan Thanh ,Tú,  /  /,THS,GV,145,17,Thỉnh giảng
+539,Nguyễn Hoàng ,Nghiêm,  /  /,THS,GVC,710,17,Thỉnh giảng
+540,Lê Thị Kim ,Liên,  /  /,THS,GV,651,17,Thỉnh giảng
+541,Huỳnh Thanh ,Phong,  /  /,KS,TG,750,17,Thỉnh giảng
+542,Trần Thị Thu ,Trà,  /  /,THS,GV,651,17,Thỉnh giảng
+543,Nguyễn Thị Bạch ,Tuyết,12/9/1980 0:00,DH,TG,4,13,Cơ hữu
+544,Phan Khoa Nguyễn ,Kyung,  /  /,THS,GV,652,17,Thỉnh giảng
+545,Nguyễn Văn ,Chấn,  /  /,KS,GV,330,17,Thỉnh giảng
+546,Trần Thị Thúy ,Hằng,11/11/1980 0:00,THS,GV,21,13,Cơ hữu
+547,Trần Đức ,Long,  /  /,THS,GV,330,17,Thỉnh giảng
+548,Phạm Thị Kim ,Ánh,20/03/1986,THS,GV,21,13,Cơ hữu
+549,Nguyễn Lương Văn ,Minh,  /  /,THS,TG,145,17,Thỉnh giảng
+550,Nguyễn Mạnh ,Thắng,  /  /,THS,GV,145,17,Thỉnh giảng
+551,Nguyễn Thanh ,Vân,  /  /,THS,GV,224,17,Thỉnh giảng
+552,Hoàng Kim ,Anh,  /  /,THS,GV,750,17,Thỉnh giảng
+553,Đỗ Thị Nguyệt ,Thu,  /  /,THS,GV,1915,17,Thỉnh giảng
+554,Nguyễn Thị Hà ,Phương,  /  /,THS,TG,1915,17,Thỉnh giảng
+555,Đỗ Hoàng ,Long,25/11/1986,THS,GV,19,13,Cơ hữu
+556,Đỗ Xuân ,Hòa,  /  /,THS,TG,2207,17,Thỉnh giảng
+557,Lâm Ngọc Minh ,Thuỳ_0,  /  /,THS,TG,2104,17,Thỉnh giảng
+558,Tô Quang ,Nghĩa,  /  /,CN,TG,1913,17,Thỉnh giảng
+559,Dương Thị Kim ,Oanh,21/09/1976,TS,PGS,8,13,Cơ hữu
+560,Trần Văn ,Lợi,  /  /,THS,GV,146,17,Thỉnh giảng
+561,Huỳnh Trung ,Hiếu,18/12/1984,DH,TG,18,13,Cơ hữu
+562,Trương Thị Ngọc ,Phượng,26/09/1983,THS,GV,18,13,Cơ hữu
+563,Huỳnh Nguyễn Anh ,Tuấn,15/07/1980,THS,GV,7,13,Cơ hữu
+564,Trần Minh ,Đạo,  /  /,THS,GV,1702,17,Thỉnh giảng
+565,Tạ Thị Kiều ,Hạnh,  /  /,THS,GV,1702,17,Thỉnh giảng
+566,Lê Thị ,Quế,  /  /,THS,GVC,1702,17,Thỉnh giảng
+567,Trần Bảo ,Sang,  /  /,THS,GV,1915,17,Thỉnh giảng
+568,Lê Quốc ,Kiệt,24/12/1988,THS,TSU,2137,13,Cơ hữu
+569,Hồ Thị Quỳnh ,Mai,  /  /,THS,TG,2104,17,Thỉnh giảng
+570,Nguyễn Anh ,Văn,  /  /,THS,TG,1913,17,Thỉnh giảng
+571,Bùi Phạm Đức ,Tường,20/12/1984,THS,GV,4,13,Cơ hữu
+572,Đặng Hạnh ,Quyên,  /  /,THS,GV,2206,17,Thỉnh giảng
+573,Phạm Xuân ,Cường,  /  /,THS,GV,2206,17,Thỉnh giảng
+574,Nguyễn Thị ,Quý,  /  /,THS,TG,2206,17,Thỉnh giảng
+575,Nguyễn Thị ,Mai,  /  /,THS,GV,2206,17,Thỉnh giảng
+576,Nguyễn Thị Thu ,Trang,  /  /,THS,TG,2104,17,Thỉnh giảng
+577,Đặng Bá ,Ngoạn,26/06/1988,DH,GV,21,13,Cơ hữu
+578,Nguyễn Thị Thanh ,Nhàng,  /  /,CN,TG,2104,17,Thỉnh giảng
+579,Phan Vũ Bình ,Minh,22/01/1988,DH,GV,21,13,Cơ hữu
+580,Phạm Ngọc ,Sơn,  /  /,THS,TSU,164,13,Cơ hữu
+581,Trần Quang ,Long,15/05/1988,DH,GV,1,13,Cơ hữu
+582,Nguyễn Văn ,Hiếu,  /  /,THS,GVC,225,17,Thỉnh giảng
+583,Nguyễn Hoàng Minh ,Thuận,  /  /,THS,GV,1913,17,Thỉnh giảng
+584,Hà Thị Kim ,Thoa,  /  /,THS,GV,1913,17,Thỉnh giảng
+585,Ca Hoàng Vĩnh ,Hảo,  /  /,THS,GV,417,17,Thỉnh giảng
+586,Phạm Phú ,Cường,  /  /,TS,GV,417,17,Thỉnh giảng
+587,Trần Văn ,Tiếng,28/08/1983,TS,GV,4,13,Cơ hữu
+588,Nguyễn,Hoàng,,TS,GV,27,17,Thỉnh giảng
+589,Trần,Nguyên,,THS,GV,27,17,Thỉnh giảng
+590,Nguyễn,Chí,,TS,GV,27,17,Thỉnh giảng
+591,Trịnh,Hiền,,KS,TG,6,17,Thỉnh giảng
+592,Thân,Quyên,,KS,TG,6,17,Thỉnh giảng
+593,Lê,Mẫn,,THS,GV,27,17,Thỉnh giảng
+594,Lê,Mỹ,,THS,GV,27,17,Thỉnh giảng
+595,Đinh,Hải,,THS,GV,1701,17,Thỉnh giảng
+596,Nguyễn,Huy,,TS,GV,27,17,Thỉnh giảng
+597,Hoàng Xuân,Bách,23/11/1988,THS,TSU,164,13,Cơ hữu
+598,Nguyễn Đình ,Khiêm,  /  /,THS,GV,2207,17,Thỉnh giảng
+599,Đỗ Văn Thùy ,Duyên,9/10/1988 0:00,DH,GV,5,13,Cơ hữu
+600,Trần Thái ,Sơn,21/08/1982,THS,GV,2,13,Cơ hữu
+601,Nguyễn Tấn ,Nó,1/1/1988 0:00,DH,TSU,229,17,Thỉnh giảng
+602,Bùi Tuấn ,Anh,19/08/1988,THS,GV,229,17,Thỉnh giảng
+603,Trần Lê Tuyết ,Quỳnh,  /  /,THS,GV,225,17,Thỉnh giảng
+604,Nguyễn Minh ,Khai,17/09/1982,TS,TSU,2,13,Cơ hữu
+605,Nguyễn Thanh ,Nam,  /  /,TS,PGS,229,17,Thỉnh giảng
+606,Trần Thị ,Thuận,  /  /,KS,GV,226,17,Thỉnh giảng
+607,Trần Tấn ,Nguyện,  /  /,KS,TG,145,17,Thỉnh giảng
+608,Trần Phi ,Vũ,24/11/1988,DH,GV,1,13,Cơ hữu
+609,Phạm Hoàng ,Thông,1/11/1987 0:00,DH,GV,1,13,Cơ hữu
+610,Đặng Xuân ,Ba,18/10/1985,THS,TSU,146,13,Cơ hữu
+611,Nguyễn Hoài ,Bảo,  /  /,THS,TG,146,17,Thỉnh giảng
+612,Nguyễn Minh ,Tuấn,  /  /,THS,GV,2727C,17,Thỉnh giảng
+613,Trần Bá ,Nhẫn,  /  /,THS,GVC,2727C,17,Thỉnh giảng
+614,Trần Tiến ,Lộc,  /  /,THS,GV,2207,17,Thỉnh giảng
+615,Hoàng Minh ,Thuần,  /  /,THS,GV,2206,17,Thỉnh giảng
+616,Nguyễn Văn ,Minh,22/10/1984,DH,GV,227,13,Cơ hữu
+617,Lê Thị Hồng ,Na,  /  /,TS,GVC,2727C,17,Thỉnh giảng
+618,Nguyễn Thị Minh ,Anh,  /  /,THS,GV,2727C,17,Thỉnh giảng
+619,Đào Phú ,Minh,  /  /,THS,GV,2727C,17,Thỉnh giảng
+620,Vũ Trần Mai ,Trâm,24/01/1984,THS,GV,5,13,Cơ hữu
+621,Phạm Bá ,Hưng,  /  /,THS,GV,2727C,17,Thỉnh giảng
+622,Phan Vĩnh ,Lộc,  /  /,THS,GV,162,17,Thỉnh giảng
+623,Trần Nhật ,Quang,2/8/1988 0:00,DH,GV,18,13,Cơ hữu
+624,Phạm Quân ,Anh,16/03/1986,DH,GV,2,13,Cơ hữu
+625,Nguyễn Phan Anh ,Huy,28/05/1985,THS,GV,22,13,Cơ hữu
+626,Trương Nguyễn ,Vũ,  /  /,TS,GVC,229,17,Thỉnh giảng
+627,Nguyễn Văn ,Thuận,  /  /,THS,GV,2207,17,Thỉnh giảng
+628,Nguyễn,Cường,,THS,GV,7,17,Thỉnh giảng
+630,Đoàn,Khanh,,THS,GV,1701,17,Thỉnh giảng
+631,Nguyễn Duy,Liêm,10/7/1974 0:00,TS,TSU,GT,13,Cơ hữu
+632,Nguyễn Minh ,Thu,  /  /,THS,GV,1905,17,Thỉnh giảng
+633,Vũ ,Tình,  /  /,THS,PGS,1905,17,Thỉnh giảng
+634,Phan Thị Xuân ,Yến,  /  /,THS,GVC,1905,17,Thỉnh giảng
+635,Phạm Đình ,Trực,  /  /,THS,GVC,144,17,Thỉnh giảng
+636,Nguyễn Quang ,Nam,  /  /,THS,GVC,144,17,Thỉnh giảng
+637,Lê Văn ,Hưng,  /  /,THS,GV,2206,17,Thỉnh giảng
+638,Nguyễn ,Quyết,  /  /,THS,GV,2206,17,Thỉnh giảng
+639,Phan Thị Bảo ,Quyên,  /  /,THS,GV,2206,17,Thỉnh giảng
+640,Lương Vĩ ,Minh,  /  /,THS,GV,1879,17,Thỉnh giảng
+641,Nguyễn Ngọc ,Tú,  /  /,TS,GVC,2727C,17,Thỉnh giảng
+642,Nguyễn Trường ,Sơn,  /  /,THS,GV,2727C,17,Thỉnh giảng
+643,Võ Phước ,Long,  /  /,THS,GV,2727C,17,Thỉnh giảng
+644,Trương Thị ,Hòa,15/08/1988,THS,GV,22,13,Cơ hữu
+645,Nguyễn,Hạm,,TS,GV,26,17,Thỉnh giảng
+646,Phan,Dũng,,TS,GV,26,17,Thỉnh giảng
+647,Trần,Sơn,,TS,GV,26,17,Thỉnh giảng
+648,Lê,Đức,,TS,GV,26,17,Thỉnh giảng
+649,Võ,Việt,,TS,GV,26,17,Thỉnh giảng
+650,Nguyễn,Hảo,,TS,GV,26,17,Thỉnh giảng
+651,Phạm,Hoàng,,TS,GV,26,17,Thỉnh giảng
+652,Hồ,Hưng,,TS,GV,26,17,Thỉnh giảng
+653,Trần,Thanh,,TS,GV,1702,17,Thỉnh giảng
+654,Đỗ,Huy,,THS,GV,1702,17,Thỉnh giảng
+655,Nguyễn,Liêm,,TS,TSU,419,13,Cơ hữu
+656,Lê Trung,Hiếu,6/11/1988 0:00,THS,TSU,1061,13,Cơ hữu
+657,Nguyễn Văn,Chiến,2/9/1984 0:00,THS,TSU,10,13,Cơ hữu
+658,Nguyễn,sơn,,KS,TG,332,17,Thỉnh giảng
+659,Huỳnh,Trinh,,THS,GV,162,17,Thỉnh giảng
+660,Trần,Hương,,TS,PGS,8,,
+661,Dương,Tâm,,TS,GV,8,,
+662,Phạm Thị,Hoàn,26/07/1985,TS,TSU,750,,
+663,Đặng Tấn,Tín,16/11/1976,TS,GV,2137,,
+664,Nguyễn,Dự,,THS,GV,229,,
+665,Lê,Nghiêm,,THS,GV,710,,
+666,Nguyễn Thị Phương ,Đông,25/04/1985,THS,GV,1701,17,Thỉnh giảng
+667,Nguyễn Thanh ,Tân,5/7/1987 0:00,DH,GV,2,13,Cơ hữu
+668,Nguyễn Văn ,Thức,15/10/1986,DH,GV,2,13,Cơ hữu
+669,Nguyễn Thái ,Anh,16/12/1983,THS,GV,7,13,Cơ hữu
+670,Võ Văn ,Thái,  /  /,KS,TG,710,17,Thỉnh giảng
+671,Tôn Thất ,Lãng,  /  /,TS,GVC,710,17,Thỉnh giảng
+672,Ngô Ngọc ,Vinh,  /  /,KS,GV,710,17,Thỉnh giảng
+673,Nguyễn Ngọc ,Thiệp,  /  /,THS,GV,710,17,Thỉnh giảng
+674,Đặng Viết ,Hùng,  /  /,TS,GV,710,17,Thỉnh giảng
+675,Nguyễn Như ,Hiền,  /  /,THS,GV,710,17,Thỉnh giảng
+676,Nguyễn Thị ,Nhân,  /  /,THS,GV,140,17,Thỉnh giảng
+677,Nguyễn Tấn ,Thịnh,  /  /,THS,TG,140,17,Thỉnh giảng
+678,Nguyễn Tiến ,Lực,20/09/1958,TS,TG,7,13,Cơ hữu
+679,Lê Đình ,Quốc,  /  /,THS,GV,417,17,Thỉnh giảng
+680,Nguyễn Minh ,Tâm,  /  /,TS,GVC,417,17,Thỉnh giảng
+681,Lương Văn ,Hải,  /  /,THS,GVC,417,17,Thỉnh giảng
+682,Nguyễn Văn ,Hiếu,  /  /,TS,GVC,417,17,Thỉnh giảng
+683,Vũ Thị ,Tâm,  /  /,THS,GVC,651,17,Thỉnh giảng
+684,Thái Thị Thu ,Hà,  /  /,TS,PGS,229,17,Thỉnh giảng
+685,Đặng Văn ,Nghìn,  /  /,TS,PGS,229,17,Thỉnh giảng
+686,Nguyễn Thị Thanh,Thúy_,  /  /,THS,GV,2207,17,Thỉnh giảng
+687,Nguyễn Thị Thu ,Hồng,  /  /,THS,GV,2206,17,Thỉnh giảng
+688,Đinh Tấn ,Ngọc,16/06/1985,DH,GV,3,13,Cơ hữu
+689,Thái Văn ,Phước,14/05/1986,THS,GV,2,13,Cơ hữu
+690,Nguyễn Văn ,Minh,29/09/1985,THS,GV,2,13,Cơ hữu
+691,Nguyễn Bạch ,Long,16/11/1988,DH,GV,1,13,Cơ hữu
+692,Phạm Ngọc ,Sơn,  /  /,THS,TSU,164,17,Thỉnh giảng
+693,Nguyễn Thành ,Vinh,  /  /,THS,GV,710,17,Thỉnh giảng
+694,Nguyễn Thị Nguyệt ,Hoa,  /  /,THS,GV,144,17,Thỉnh giảng
+695,Võ Thị Hồng ,Dúng,  /  /,THS,TG,145,17,Thỉnh giảng
+696,Lâm Phát ,Thuận,15/08/1986,THS,GV,4,13,Cơ hữu
+697,Cao Minh ,Thuần,  /  /,THS,GV,144,17,Thỉnh giảng
+698,Trần Thị Ngọc ,Lam,5/2/1989 0:00,DH,GV,17,13,Cơ hữu
+699,Nguyễn Tri Quang,Hưng,  /  /,TS,GVC,710,17,Thỉnh giảng
+700,Vương Đức ,Hải,  /  /,THS,GV,710,17,Thỉnh giảng
+701,Nguyễn Ngọc ,Thảo,23/12/1983,THS,GV,21,13,Cơ hữu
+702,Trần Thị Kim ,An,  /  /,THS,GV,2104,17,Thỉnh giảng
+703,Nguyễn Liên ,Hương,  /  /,THS,GV,2104,17,Thỉnh giảng
+704,Trần Thị Phương ,Ly,19/09/1989,DH,GV,21,13,Cơ hữu
+705,Phạm Thị Kiều ,Oanh,20/05/1989,THS,GV,21,13,Cơ hữu
+706,Ngô Quang ,Huy,  /  /,DH,TG,2104,17,Thỉnh giảng
+707,Nguyễn Thị ,Huyền,  /  /,DH,TG,2104,17,Thỉnh giảng
+708,Lê Thị Kim ,Thu,  /  /,THS,TG,2104,17,Thỉnh giảng
+709,Trần Thị Như ,Trang,8/2/1987 0:00,THS,GV,21,13,Cơ hữu
+710,Phan Phương ,Dung,27/10/1989,THS,GV,17,13,Cơ hữu
+711,Ngô Văn ,Hoà,  /  /,THS,GV,1701,17,Thỉnh giảng
+712,Châu Đình ,Thành,27/07/1975,TS,GV,4,13,Cơ hữu
+713,Phạm Văn ,Khanh,20/02/1989,DH,GV,21,13,Cơ hữu
+714,Đào Thị Kim ,Yến,2/11/1978 0:00,THS,GV,22,13,Cơ hữu
+715,Võ Thạch ,Ngọc,  /  /,THS,GV,2206,17,Thỉnh giảng
+716,Nguyễn Đức ,Vinh,20/10/1984,THS,GV,417,17,Thỉnh giảng
+717,Nguyễn Ngọc ,Sơn,  /  /,THS,GV,651,17,Thỉnh giảng
+718,Mai Đình ,Quý,  /  /,THS,GV,710,17,Thỉnh giảng
+719,Phạm Huy ,Tuân,15/05/1982,TS,GV,2,13,Cơ hữu
+720,Ngô Bá Nam ,Phương,  /  /,THS,GV,2727C,17,Thỉnh giảng
+721,Hồ Chí ,Thông,  /  /,THS,GV,710,17,Thỉnh giảng
+722,Đặng Minh ,Phát,  /  /,KS,TG,710,17,Thỉnh giảng
+723,Nguyễn Thời ,Trung,  /  /,TS,GVC,223,17,Thỉnh giảng
+724,Lê Trung ,Kiên,1/9/1975 0:00,TS,GV,4,13,Cơ hữu
+725,Nguyễn Trọng ,Phước,  /  /,TS,GVC,417,17,Thỉnh giảng
+726,Nguyễn Quốc ,Hùng,  /  /,TS,GVC,417,17,Thỉnh giảng
+727,Phạm Thị Thanh ,Tâm,  /  /,TS,GVC,332,17,Thỉnh giảng
+728,Lê Thanh Tấn ,Lâm,  /  /,THS,GV,710,17,Thỉnh giảng
+729,Nguyễn Huy ,Hùng,  /  /,THS,GV,163,17,Thỉnh giảng
+730,Trương Tấn ,Phong,  /  /,THS,GV,163,17,Thỉnh giảng
+731,Lê Thị,Hoàng_,  /  /,THS,GV,651,17,Thỉnh giảng
+732,Trần Quốc ,Hiền,  /  /,TS,GVC,651,17,Thỉnh giảng
+733,Đào Nguyên ,Bình,  /  /,KS,TG,651,17,Thỉnh giảng
+734,Lê Thị Kim ,Phụng,  /  /,TS,GV,750,17,Thỉnh giảng
+735,Phạm Duy ,Hải,  /  /,THS,GV,750,17,Thỉnh giảng
+736,Phạm Văn ,Hưng,  /  /,THS,GV,750,17,Thỉnh giảng
+737,Bùi Quang ,Anh,  /  /,THS,GV,145,17,Thỉnh giảng
+738,Nguyễn Thị Thúy,Kiều,,CN,GV,2137,17,Thỉnh giảng
+739,Nguyễn Thị Yến,Hoa,,CN,GV,2137,17,Thỉnh giảng
+740,Đặng Hoàng Thanh,Sơn,,THS,GV,710,17,Thỉnh giảng
+741,Trần,Hạnh,,THS,GV,710,17,Thỉnh giảng
+742,Đỗ,Thảo,,THS,GV,710,,
+743,Nguyễn,Hải,,THS,GV,703,,
+744,Hoàng,Kiên,,TS,TSU,2601,,
+745,Phan,Minh,,KS,GV,162,,
+746,Lê,Thọ,,THS,GV,710,,
+747,Nguyễn,Giàu,,KS,GV,1,,
+748,Võ,Phát,,KS,GV,1,,
+749,Nguyễn,Chương,,THS,GV,1,,
+751,Nguyễn,Nhân,,TS,GV,229,,
+752,Nguyễn,Hà,,TS,PGS,225,,
+753,Phạm,Nam,,KS,GV,331,,
+754,Nguyễn,Hải,,TS,GV,225,,
+755,Trần,Thưởng,,TS,GV,333,,
+756,Lý,Hà,,TS,GV,17,,
+757,Bùi,Thanh,,TS,GV,17,,
+758,Ông,Hải,,TS,GV,17,,
+759,Nghiêm,Nga,,KS,GV,2135,,
+760,Trần,Toại,,CN,GV,1885,,
+761,Nguyễn,Mạnh,,THS,GV,331,,
+762,Nguyễn,Hiếu,,THS,GV,140,,
+763,Phan,Phương,,THS,GV,710,,
+770,Trần,Sơn,,TS,GV,22,,
+771,Nguyễn,Quang,,THS,GV,22,,
+772,Nguyễn,Ngọc,,THS,GV,22,,
+773,Nguyễn,Hằng,,TS,GV,22,,
+777,Tạ Thị ,Lê,  /  /,THS,GV,1905,17,Thỉnh giảng
+778,Trần Tấn,Khoa,,TS,GV,2711,17,Thỉnh giảng
+779,Nguyễn,Lý,,THS,GV,7,17,Thỉnh giảng
+801,Nguyễn Thanh,Phương,,TS,GV,2606,17,Thỉnh giảng
+802,Lê Thị,Hoa,,TS,PGS,2607,17,Thỉnh giảng
+803,Đoàn Thị Huệ,Dung,,TS,GV,2607,17,Thỉnh giảng
+804,Nguyễn ,Lộc,,TS,GS,2607,17,Thỉnh giảng
+805,Nguyễn Đình,Thiên,,THS,GV,2626,17,Thỉnh giảng
+806,Nguyễn Văn,Cường,,TS,GV,2607,17,Thỉnh giảng
+807,Nguyễn Văn,Nhờ,,TS,PGS,2606,17,Thỉnh giảng
+808,Nguyễn Thanh,Nam,,TS,PGS,2601,17,Thỉnh giảng
+809,Phan Văn,Nhân,,TS,PGS,2607,17,Thỉnh giảng
+810,Bùi Ngọc,Hùng,,TS,GV,2626,17,Thỉnh giảng
+811,Đinh Hoàng,Bách,,TS,GV,2626,17,Thỉnh giảng
+812,Dương Hoài,Nghĩa,,TS,PGS,2626,17,Thỉnh giảng
+813,Hồ Văn Nhật,Chương,,TS,PGS,2626,17,Thỉnh giảng
+814,Hồ Văn,Hiến,,TS,GV,2626,17,Thỉnh giảng
+816,Hoàng Đình,Chiến,,TS,PGS,2626,17,Thỉnh giảng
+817,Hoàng ,Trang,,TS,GV,2626,17,Thỉnh giảng
+818,Lê Chí,Thông,,TS,GV,2626,17,Thỉnh giảng
+819,Lê Minh,Phương,,TS,PGS,2626,17,Thỉnh giảng
+820,Lê Ngọc,Bích,,TS,GV,2626,17,Thỉnh giảng
+821,Lê Tiến,Thường,,TS,PGS,2626,17,Thỉnh giảng
+824,Lương Hồng,Sâm,,TS,GV,2626,17,Thỉnh giảng
+825,Lương Vinh Quốc,Danh,,TS,GV,2626,17,Thỉnh giảng
+826,Lưu Đức,Tiến,,TS,GV,2626,17,Thỉnh giảng
+827,Lưu Thanh,Trà,,TS,GV,2626,17,Thỉnh giảng
+828,Ngô Cao,Cường,,TS,GV,2626,17,Thỉnh giảng
+829,Nguyễn Chí,Ngôn,,TS,GV,2626,17,Thỉnh giảng
+830,Nguyễn Đức,Nam,,TS,GV,2626,17,Thỉnh giảng
+831,Nguyễn Hữu,Hường,,TS,PGS,2626,17,Thỉnh giảng
+832,Nguyễn Hữu,Phúc,,TS,PGS,2626,17,Thỉnh giảng
+833,Nguyễn Huy,Bích,,TS,GV,2626,17,Thỉnh giảng
+834,Nguyễn Lê,Ninh,,TS,PGS,2626,17,Thỉnh giảng
+835,Nguyễn Ngọc,Dũng,,TS,GV,2626,17,Thỉnh giảng
+836,Nguyễn ,Nước,,TS,GV,2626,17,Thỉnh giảng
+837,Nguyễn Thành,Tâm,,TS,GV,2626,17,Thỉnh giảng
+838,Nguyễn Thị Diệu,Thảo,,TS,GV,2626,17,Thỉnh giảng
+839,Nguyễn ,Toàn,,TS,GV,2626,17,Thỉnh giảng
+840,Nguyễn Văn,Y,,TS,GV,2626,17,Thỉnh giảng
+841,Ninh Văn,Bình,,TS,GV,2626,17,Thỉnh giảng
+842,Phan Thị Thanh,Bình,,TS,PGS,2626,17,Thỉnh giảng
+845,Trần Thanh,Thưởng,,TS,GV,2626,17,Thỉnh giảng
+846,Võ Văn,Lộc,,TS,PGS,2626,17,Thỉnh giảng
+847,Võ Văn,Nam,,TS,GV,2626,17,Thỉnh giảng
+848,Vũ Phan,Tú,,TS,GV,2626,17,Thỉnh giảng
+849,Nguyễn Trần,Nghĩa,,TS,GVC,2607,17,Thỉnh giảng
+850,Vũ Minh,Hùng,,TS,GV,2607,17,Thỉnh giảng
+851,Nguyễn Văn,Thái,,TS,GV,2606,17,Thỉnh giảng
+852,Lê ,Kỷ,,TS,GV,2603,17,Thỉnh giảng
+853,Lê Văn,Cường,,TS,GV,2603,17,Thỉnh giảng
+854,Nguyễn Mạnh,Hùng,,TS,GV,2603,17,Thỉnh giảng
+855,Lê Văn,Cảnh,,TS,GV,2604,17,Thỉnh giảng
+856,Trần Minh ,Toàn,1/1/1985 0:00,THS,GV,19,13,Cơ hữu
+857,Nguyễn ,Hùng,,TS,GV,2604,17,Thỉnh giảng
+858,Nguyễn Bách,Phúc,,TS,GV,2604,17,Thỉnh giảng
+859,Võ Ngọc,Điều,,TS,GV,2604,17,Thỉnh giảng
+860,Nguyễn Thanh,Dũng,,TS,GV,2606,17,Thỉnh giảng
+861,Hoàng Minh,Trí,,TS,GV,2604,17,Thỉnh giảng
+862,Nguyễn Ngọc,Linh,,TS,GV,2603,17,Thỉnh giảng
+863,Nguyễn Khắc,Huân,,TS,GV,2603,17,Thỉnh giảng
+864,Nguyễn Chí,Thanh,,TS,GV,2603,17,Thỉnh giảng
+865,Cao Hùng,Phi,,TS,GV,2603,17,Thỉnh giảng
+866,Phạm Thị ,Nhiên,  /  /,THS,GV,2207,17,Thỉnh giảng
+867,Hoàng Mai,Khanh,,TS,GV,2607,17,Thỉnh giảng
+868,Huỳnh Châu,Duy,,TS,GV,2604,17,Thỉnh giảng
+869,Nguyễn Vũ,Quỳnh,,TS,GV,2604,17,Thỉnh giảng
+870,Ngô Mạnh,Dũng,,TS,GV,2604,17,Thỉnh giảng
+871,Ngô Tấn,Tiến,,TS,GV,2604,17,Thỉnh giảng
+872,Trần Thanh Hải,Tùng,,TS,PGS,2603,17,Thỉnh giảng
+873,Lê Thanh,Hải,,TS,GV,2601,17,Thỉnh giảng
+874,Trần Quốc,Dũng,,TS,GV,2601,17,Thỉnh giảng
+875,Phan Thị Thanh,Bình,,TS,PGS,2604,17,Thỉnh giảng
+876,Đỗ Đình,Thuấn,,TS,GV,2603,17,Thỉnh giảng
+877,Phạm Xuân,Mai,,TS,PGS,2603,17,Thỉnh giảng
+878,Nguyễn Văn,Hiếu,,TS,GV,2601,17,Thỉnh giảng
+879,Đinh Thị,Chiến,,TS,GV,2607,17,Thỉnh giảng
+880,Bùi Hà,Đức,,TS,GV,2609,13,Cơ hữu
+881,Wang ,Dung-An,,TS,GS,26,17,Thỉnh giảng
+882,Nguyễn Đình,Uyên,,TS,GV,2609,17,Thỉnh giảng
+883,Phạm Ngọc,Tuấn,,TS,PGS,2609,17,Thỉnh giảng
+884,Nguyễn Tấn,Tiến,,TS,PGS,2609,17,Thỉnh giảng
+900,Lê Thị Mai ,Trang,11/10/1987 0:00,THS,GV,17,13,Cơ hữu
+901,Nguyễn Ngọc ,Ngôn,  /  /,THS,GV,2206,17,Thỉnh giảng
+920,Nguyễn,Du,,KS,GV,332,,
+921,Nguyễn,Thái,,KS,GV,332,,
+922,Thái Văn ,Phước,  /  /,THS,GV,225,17,Thỉnh giảng
+923,Mã,Quang,,CN,TG,1702,17,Thỉnh giảng
+924,Thạch,Trung,,CN,TG,1702,17,Thỉnh giảng
+925,Trương,Châu,,THS,GV,1702,17,Thỉnh giảng
+926,Trương,Sang,,KS,GV,332,,
+975,Nguyễn Thị Thanh ,Nhiên,  /  /,THS,GV,2206,17,Thỉnh giảng
+981,Lê Quang ,Vũ,10/7/1984 0:00,DH,GV,3,13,Cơ hữu
+982,Lưu Gia ,Thiện,  /  /,KS,GV,1702,17,Thỉnh giảng
+983,Nguyễn Hữu ,Vấn,  /  /,THS,TG,331,17,Thỉnh giảng
+984,Đặng Phước Hải ,Trang,30/12/1983,THS,GV,1,13,Cơ hữu
+985,Lê Xuân ,Thái,  /  /,KS,GS,651,17,Thỉnh giảng
+986,Đào Thị Mỹ ,Chi,  /  /,KS,GV,163,17,Thỉnh giảng
+987,Đoàn Đức ,Hiếu,20/04/1953,TS,PGS,19,13,Cơ hữu
+988,Trần Quốc ,Hiền,  /  /,THS,GVC,651,17,Thỉnh giảng
+989,Lê Thanh ,Tâm,  /  /,KS,TG,750,17,Thỉnh giảng
+990,Phan Thị Lan ,Anh,  /  /,THS,GV,2104,17,Thỉnh giảng
+991,Hoàng Thị Tố ,Uyên,  /  /,KS,TG,651,17,Thỉnh giảng
+992,Nguyễn Anh ,Vũ,  /  /,KS,GV,145,17,Thỉnh giảng
+993,Huỳnh Văn ,Vạn,  /  /,KS,GV,145,17,Thỉnh giảng
+994,Nguyễn Thị Bạch ,Hường,  /  /,KS,GV,890,17,Thỉnh giảng
+996,Đoàn Chí ,Thành,  /  /,CN,GV,890,17,Thỉnh giảng
+997,Nguyễn Minh ,Tú,  /  /,THS,TG,890,17,Thỉnh giảng
+998,Nguyễn Thị ,Phong,  /  /,THS,GV,890,17,Thỉnh giảng
+999,Nguyễn Thành ,Danh,  /  /,THS,GV,703,17,Thỉnh giảng
+10000,Giáo viên địa,phương,,THS,GV,2626,17,Thỉnh giảng
+1001,Nguyễn Dư ,Xứng,  /  /,KS,GVC,142,17,Thỉnh giảng
+1002,Lê Công ,Thành,30/12/1960,THS,GVC,1,13,Cơ hữu
+1003,Vũ Thị ,Ngọc,10/1/1965 0:00,THS,GV,1,13,Cơ hữu
+1004,Phạm Quang ,Huy,2/1/1958 0:00,DH,GV,1,13,Cơ hữu
+1005,Nguyễn Xuân ,Đông,27/02/1971,DH,GV,146,17,Thỉnh giảng
+1006,Nguyễn Minh ,Tâm,2/12/1971 0:00,TS,GV,1,13,Cơ hữu
+1007,Lưu Văn ,Quang,19/06/1958,THS,GVC,1,13,Cơ hữu
+1008,Phạm Hoàng ,Tuấn,21/03/1956,DH,GV,1,13,Cơ hữu
+1009,Đinh Thị Yên ,Hòa,7/10/1967 0:00,THS,GV,1,13,Cơ hữu
+1010,Nguyễn Hữu Minh ,Luân,  /  /,KS,TG,890,17,Thỉnh giảng
+1011,Quách Thanh ,Hải,20/05/1972,TS,GVC,2237,13,Cơ hữu
+1012,Vũ Đỗ ,Cường,27/04/1964,THS,GV,146,17,Thỉnh giảng
+1013,Nguyễn Xuân ,Khai,  /  /,THS,GVC,140,17,Thỉnh giảng
+1014,Nguyễn Việt ,Hùng,13-9-1953,THS,GVC,164,17,Thỉnh giảng
+1015,Trần Thanh ,Mai,  /  /,THS,GV,140,17,Thỉnh giảng
+1016,Nguyễn Phương ,Quang,10/4/1966 0:00,THS,GVC,1,13,Cơ hữu
+1017,Thái Hữu ,Tài,  /  /,KS,GV,418,17,Thỉnh giảng
+1018,Lê Thanh ,Đạo,1/3/1960 0:00,THS,GVC,1,13,Cơ hữu
+1019,Hà A ,Thồi,23/10/1963,DH,GV,1,13,Cơ hữu
+1020,Nguyễn Huy ,Hùng,  /  /,KS,GV,140,17,Thỉnh giảng
+1021,Nguyễn Đình ,Phú,13/02/1972,THS,GVC,1,13,Cơ hữu
+1022,Vi Đình ,Phương,7/5/1954 0:00,DH,GV,162,17,Thỉnh giảng
+1023,Trần Tùng ,Giang,1/12/1967 0:00,THS,GVC,1,13,Cơ hữu
+1024,Nguyễn Trọng ,Thắng,  /  /,THS,GVC,2727C,17,Thỉnh giảng
+1025,Bùi Tiến ,Dũng,  /  /,KS,TG,224,17,Thỉnh giảng
+1026,Hồ Xuân ,Thanh,  /  /,PTS,PGS,141,17,Thỉnh giảng
+1027,Nguyễn Văn ,Quang,  /  /,PTS,GVC,141,17,Thỉnh giảng
+1028,Vũ Bảo ,Tuyên,  /  /,KS,GV,144,17,Thỉnh giảng
+1029,Trần Minh ,Chánh,17/02/1956,DH,GV,707,13,Cơ hữu
+1030,Nguyễn Thị Thanh,Thúy_,  /  /,THS,GV,224,17,Thỉnh giảng
+1031,Nguyễn Nam ,Thắng,6/3/1971 0:00,DH,GV,202,13,Cơ hữu
+1032,Phạm Xuân ,Hổ,12/7/1960 0:00,THS,GVC,1,13,Cơ hữu
+1033,Nguyễn Ngọc ,Đào,24/10/1952,THS,GVC,224,17,Thỉnh giảng
+1034,Bùi Thế ,Quân,  /  /,THS,GV,1701,17,Thỉnh giảng
+1035,Phan Minh ,Thanh,2/1/1954 0:00,THS,GVC,225,17,Thỉnh giảng
+1036,Hồ Viết ,Bình,5/10/1956 0:00,DH,GV,2,13,Cơ hữu
+1037,Nguyễn Hoài ,Nam,22/01/1968,THS,GV,3320,13,Cơ hữu
+1038,Vũ Minh ,Hùng,  /  /,THS,GV,890,17,Thỉnh giảng
+1039,Trần Ngọc ,Hào,14/04/1956,TS,GVC,808,13,Cơ hữu
+1040,Võ Duy ,Lân,  /  /,THS,GV,890,17,Thỉnh giảng
+1041,Trần Quốc ,Hùng,12/11/1959 0:00,THS,GVC,2,13,Cơ hữu
+1042,Đặng Thiện ,Ngôn,10/3/1969 0:00,TS,PGS,2,13,Cơ hữu
+1043,Nguyễn Tiến ,Dũng,25/08/1958,TS,GVC,2124,13,Cơ hữu
+1044,Trương Ngọc ,Thục,  /  /,TS,PGS,225,17,Thỉnh giảng
+1045,Nguyễn Thị ,Lưỡng,6/12/1976 0:00,TS,GV,1,13,Cơ hữu
+1046,Nguyễn Tử ,Định,9/8/1949 0:00,DH,GV,226,17,Thỉnh giảng
+1047,Trần Thế ,San,12/12/1953 0:00,THS,GVC,226,17,Thỉnh giảng
+1048,Vũ Minh ,Hạnh,1/7/1963 0:00,THS,GVC,6,13,Cơ hữu
+1049,Nguyễn Trần ,Nghĩa,  /  /,TS,GVC,890,17,Thỉnh giảng
+1050,Lê Kim ,Dưỡng,22/03/1954,THS,GVC,332,17,Thỉnh giảng
+1051,Hồ Sĩ ,Hùng,6/3/1960 0:00,THS,GV,2,13,Cơ hữu
+1052,Huỳnh Văn ,Thắm,  /  /,THS,GV,226,17,Thỉnh giảng
+1053,Võ Văn ,Lập,21/03/1947,TCCN,GV,226,17,Thỉnh giảng
+1054,Nguyễn Hướng ,Dương,10/10/1960 0:00,DH,GV,2,13,Cơ hữu
+1055,Mạch Tấn ,Đạt,  /  /,THS,GV,226,17,Thỉnh giảng
+1056,Võ Đông ,Lao,14/11/1957,TCCN,GV,2,13,Cơ hữu
+1057,Lê Đăng ,Hoành,  /  /,KS,GVC,227,17,Thỉnh giảng
+1058,Nguyễn Văn ,Phước27,  /  /,THS,GV,227,17,Thỉnh giảng
+1059,Dương Văn ,Linh,10/5/1956 0:00,THS,GVC,2,13,Cơ hữu
+1060,Nguyễn Tất ,Toản,18/01/1958,DH,GV,2,13,Cơ hữu
+1061,Đỗ Khắc ,Huy,19/08/1958,DH,GV,2,13,Cơ hữu
+1062,Phạm Văn ,Giấy,10/6/1961 0:00,DH,GV,2,13,Cơ hữu
+1063,Nguyễn Văn ,Hồng,4/10/1963 0:00,DH,GV,2,13,Cơ hữu
+1064,Trần Như ,Tiến,  /  /,THS,GVC,2206,17,Thỉnh giảng
+1065,Phạm Thế ,Gia,10/4/1947 0:00,KS,GV,1060,17,Thỉnh giảng
+1066,Lý Minh ,Sỹ,1/1/1955 0:00,DH,GV,2,17,Thỉnh giảng
+1067,Hoàng ,Trí,1/9/1956 0:00,THS,GVC,2,13,Cơ hữu
+1068,Phan Nguyễn Quí ,Tâm,2/12/1981 0:00,THS,GV,27,13,Cơ hữu
+1069,Nguyễn Văn,Hiệp_,  /  /,THS,GV,1905,17,Thỉnh giảng
+1070,Võ Đình ,Dương,26/09/1977,THS,GV,8,13,Cơ hữu
+1071,Nguyễn Văn ,Chánh,17/06/1966,DH,GV,2,13,Cơ hữu
+1072,Nguyễn Thế ,Hùng,5/11/1963 0:00,THS,GVC,229,17,Thỉnh giảng
+1073,Nguyễn Đức ,Sâm,19/05/1958,THS,GV,3320,13,Cơ hữu
+1074,Đỗ Thị ,Chỉ,14/05/1952,TCCN,GV,227,17,Thỉnh giảng
+1075,Ngô Thị ,Vân,  /  /,KS,TG,227,17,Thỉnh giảng
+1076,Thái ,Thí,18/03/1947,DH,GV,228,17,Thỉnh giảng
+1077,Nguyễn Văn ,Hờ,15/06/1945,CD,GV,228,17,Thỉnh giảng
+1078,Lê Văn ,Dũng,  /  /,CN,GV,1914,17,Thỉnh giảng
+1079,Nguyễn Tấn ,Lộc,14/04/1958,DH,GV,3,13,Cơ hữu
+1080,Nguyễn Văn ,Thượng,  /  /,THS,TG,330,17,Thỉnh giảng
+1081,Nguyễn Xuân ,Phú,  /  /,THS,GV,145,17,Thỉnh giảng
+1082,Phan Văn ,Đáo,  /  /,THS,GVC,330,17,Thỉnh giảng
+1083,Trương Phi ,Đức,  /  /,THS,GVC,652,17,Thỉnh giảng
+1084,Lê Xuân ,Tới,26/10/1951,DH,GV,330,17,Thỉnh giảng
+1085,Bùi Quang ,Dũng,23/09/1954,DH,GV,330,17,Thỉnh giảng
+1086,Châu Quang ,Hải,29/01/1964,THS,GVC,3,13,Cơ hữu
+1087,Võ Văn ,Nhuận,  /  /,KS,GVC,330,17,Thỉnh giảng
+1088,Đinh Quốc ,Trí,  /  /,THS,GV,330,17,Thỉnh giảng
+1089,Đỗ Quốc ,Ấm,13/07/1965,THS,GVC,3,13,Cơ hữu
+1090,Nguyễn Văn ,Thình,9/2/1959 0:00,THS,GVC,3,13,Cơ hữu
+1091,Đỗ Văn ,Dũng,10/1/1961 0:00,TS,PGS,0,13,Cơ hữu
+1092,Bùi Văn ,Vũ,  /  /,KS,TSU,890,17,Thỉnh giảng
+1093,Nguyễn Quốc ,Đạt,21/02/1959,THS,TG,2237,13,Cơ hữu
+1094,Nguyễn Văn ,Đồng,  /  /,THS,GVC,2206,17,Thỉnh giảng
+1095,Phạm Thị Thanh ,Tâm,  /  /,THS,GVC,332,17,Thỉnh giảng
+1096,Trần Vinh ,Quang,  /  /,TS,GVC,332,17,Thỉnh giảng
+1097,Lê Xuân ,Trường,  /  /,CN,GV,1701,17,Thỉnh giảng
+1098,Nguyễn Trường ,Thịnh,26/10/1973,TS,PGS,2,13,Cơ hữu
+1099,Dương Tấn ,Lộc,  /  /,KS,TG,1905,17,Thỉnh giảng
+1110,Lê Hoàng ,Bình,  /  /,THS,GV,421,17,Thỉnh giảng
+1111,Trần Trọng ,Hỉ,18/05/1958,THS,GVC,4,13,Cơ hữu
+1112,Đặng Thanh ,Tân,4/4/1955 0:00,THS,GVC,15,17,Thỉnh giảng
+1113,Nguyễn ,Chuyển,16-7-1953,DH,GV,421,17,Thỉnh giảng
+1114,Hồ Thị ,Phụng,9/12/1969 0:00,DH,TSU,2,13,Cơ hữu
+1115,Bùi Văn ,Hưng,  /  /,KS,TG,144,17,Thỉnh giảng
+1116,Nguyễn Hoài ,Sơn,13/03/1955,TS,PGS,4,13,Cơ hữu
+1117,Nguyễn Thái Anh ,Tuấn,  /  /,KS,TG,229,17,Thỉnh giảng
+1118,Trần Đức ,Thắng,5/2/1946 0:00,DH,GV,220,17,Thỉnh giảng
+1119,Tạ ,Phương,  /  /,KS,TG,162,17,Thỉnh giảng
+1120,Tô Hoài ,Phong,10/12/1953 0:00,DH,GV,220,17,Thỉnh giảng
+1121,Nguyễn Văn ,Trường,20/10/1952,DH,GV,220,17,Thỉnh giảng
+1122,Nguyễn Đức ,Tôn,7/7/1958 0:00,THS,GVC,2,13,Cơ hữu
+1123,Trương Minh ,Trí,19/02/1959,THS,GVC,2,13,Cơ hữu
+1124,Hồ Ngọc ,Bốn,20/10/1960,THS,GVC,2,13,Cơ hữu
+1125,Nguyễn Thị Kim ,Chung,27/11/1956,THS,GV,418,17,Thỉnh giảng
+1126,Man Tấn ,Chính,  /  /,THS,GVC,421,17,Thỉnh giảng
+1127,Huỳnh Nguyễn ,Dũng,25/11/1958,DH,GV,4,13,Cơ hữu
+1128,Nguyễn Đình ,Hiển,  /  /,TS,GVC,419,17,Thỉnh giảng
+1129,Bùi Thị ,Sương,  /  /,THS,TG,750,17,Thỉnh giảng
+1130,Nguyễn Anh ,Thuận,  /  /,CN,GV,1913,17,Thỉnh giảng
+1131,Nguyễn Thị Thanh ,Thảo,6/5/1985 0:00,THS,TG,41THKT1,13,Cơ hữu
+1132,Nguyễn Mộng ,Hùng,  /  /,TS,GV,229,17,Thỉnh giảng
+1133,Nguyễn Văn ,Giáp,  /  /,TS,GV,229,17,Thỉnh giảng
+1134,Bùi Thị Minh ,Thủy,30/11/1952,THS,GVC,750,17,Thỉnh giảng
+1135,Lê Trung ,Trực,  /  /,THS,TG,225,17,Thỉnh giảng
+1136,Bùi Hữu ,Thuận,  /  /,KS,TG,1881,17,Thỉnh giảng
+1137,Phạm Thị ,Quý,10/7/1953 0:00,THS,GVC,651,17,Thỉnh giảng
+1138,Nguyễn Thị Thanh ,Vân,28/07/1977,THS,GV,18,13,Cơ hữu
+1139,Trần Thị ,Thêu,4/2/1956 0:00,THS,GVC,651,17,Thỉnh giảng
+1140,Nguyễn Phi ,Phụng,15/08/1952,THS,GVC,651,17,Thỉnh giảng
+1141,Bùi Công ,Trường,  /  /,KS,TG,2727C,17,Thỉnh giảng
+1142,Lê Thị Hồng ,Nhung,16/12/1983,THS,GV,1,13,Cơ hữu
+1143,Lê Hoàng ,Nghiêm,  /  /,TS,GVC,710,17,Thỉnh giảng
+1144,Nguyễn Tuyết ,Hạnh,  /  /,THS,GV,2104,17,Thỉnh giảng
+1145,Hoàng Thục ,Quyên,  /  /,KS,TG,144,17,Thỉnh giảng
+1146,Đặng Thị Mỹ ,Dung,  /  /,THS,GV,1702,17,Thỉnh giảng
+1147,Nguyễn ,Phương,5/11/1979 0:00,TS,GV,26,13,Cơ hữu
+1148,,,,,,,,
+1149,Nguyễn Thị ,Lan,  /  /,THS,GVC,891,17,Thỉnh giảng
+1150,Quách Văn ,Thiêm_0,  /  /,KS,GV,228,17,Thỉnh giảng
+1151,Hoàng Thị Thu ,Hiền,24/10/1961,THS,GVC,8,13,Cơ hữu
+1152,Phan ,Long,7/10/1955 0:00,TS,GVC,8,13,Cơ hữu
+1153,Lê Văn ,Anh,  /  /,THS,GVC,1905,17,Thỉnh giảng
+1154,Võ Thị ,Xuân,11/4/1958 0:00,TS,PGS,8,13,Cơ hữu
+1155,Phạm Trần Trọng ,Trí,  /  /,KS,TG,1913,17,Thỉnh giảng
+1156,Ngô Anh ,Vương,  /  /,KS,TG,224,17,Thỉnh giảng
+1157,Phạm Văn ,Xuất,  /  /,THS,GV,1905,17,Thỉnh giảng
+1158,Tạ Huy ,Phong,  /  /,THS,GV,144,17,Thỉnh giảng
+1159,Nguyễn Kim ,Hưng,  /  /,THS,TG,750,17,Thỉnh giảng
+1160,Nguyễn Quang ,Minh,  /  /,KS,TG,144,17,Thỉnh giảng
+1161,Vũ Bá ,Minh,  /  /,THS,GVC,710,17,Thỉnh giảng
+1162,Đặng Vũ Bích ,Hạnh,  /  /,THS,GV,710,17,Thỉnh giảng
+1163,Trần Thanh ,Phương,  /  /,TS,GVC,1905,17,Thỉnh giảng
+1164,Nguyễn Thành ,Được,  /  /,CN,TG,2104,17,Thỉnh giảng
+1165,Trương Hoàng ,Lệ,  /  /,KS,GVC,2104,17,Thỉnh giảng
+1166,Huỳnh Trọng ,Luân,3/6/1984 0:00,THS,GV,21,13,Cơ hữu
+1167,Trần Phương ,Thảo,13/07/1984,THS,GV,2,13,Cơ hữu
+1168,Nguyễn Văn ,Hiến,  /  /,KS,TG,710,17,Thỉnh giảng
+1169,Nguyễn Kim ,Lợi,  /  /,KS,GVC,710,17,Thỉnh giảng
+1170,Thái Vũ ,Bình,  /  /,KS,GV,710,17,Thỉnh giảng
+1171,Bùi Thị Cẩm ,Nhi,  /  /,KS,GV,710,17,Thỉnh giảng
+1172,Trương Thành ,Long,  /  /,TS,GVC,750,17,Thỉnh giảng
+1173,Phan Minh ,Thuỳ,  /  /,THS,GV,750,17,Thỉnh giảng
+1174,Nguyễn Văn ,Quyền,  /  /,KS,GV,555,17,Thỉnh giảng
+1175,Lê Phi ,Hùng,  /  /,CN,TG,652,17,Thỉnh giảng
+1176,Nguyen Ngoc ,Tai,  /  /,THS,GV,651,17,Thỉnh giảng
+1177,Nguyễn Tấn ,Đời,7/3/1974 0:00,THS,GV,1,13,Cơ hữu
+1178,Võ Viết ,Cường,7/2/1975 0:00,TS,GVC,27,13,Cơ hữu
+1179,Lê Chí ,Kiên,28/01/1975,TS,GV,1,13,Cơ hữu
+1180,Trương Thị Bích ,Ngà,31/10/1974,THS,GV,1,13,Cơ hữu
+1181,Nguyễn Thanh ,Tùng,17/07/1961,THS,GV,332,17,Thỉnh giảng
+1182,Đào Phú ,Minh,  /  /,THS,GV,141,17,Thỉnh giảng
+1183,Trần Thị Minh ,Kiều,10/10/1973 0:00,DH,GV,652,17,Thỉnh giảng
+1184,Nguyễn Thanh ,Bình,18/06/1976,THS,GV,1,13,Cơ hữu
+1185,Trương Thành ,Công,22-1-1975,THS,GV,227,13,Cơ hữu
+1186,Phùng Anh ,Sơn,11/11/1976 0:00,THS,GV,1,17,Thỉnh giảng
+1187,Nguyễn Ngọc ,Châu,29/08/1976,TS,GV,6,13,Cơ hữu
+1188,Ngô Văn ,Thuyên,10/10/1976 0:00,TS,GV,0,13,Cơ hữu
+1189,Võ Thị ,Ngà,9/3/1975 0:00,TS,GV,7,13,Cơ hữu
+1190,Võ Vĩnh ,Trường,  /  /,TS,GVC,1702,17,Thỉnh giảng
+1191,Nguyễn Đình ,Thu,30/09/1955,TS,GVC,21,13,Cơ hữu
+1192,Đinh Thành ,Pháp,  /  /,KS,TG,226,17,Thỉnh giảng
+1193,Tăng Hữu ,Tân,  /  /,CN,GV,1905,17,Thỉnh giảng
+1194,Võ Thị ,Hồng(05,  /  /,TS,GVC,1905,17,Thỉnh giảng
+1195,Phạm Thị Hạ ,Nguyên,  /  /,CN,GVC,1905,17,Thỉnh giảng
+1196,Đinh Văn ,Bính,  /  /,CN,GVC,1905,17,Thỉnh giảng
+1197,Lưu Thị Kim ,Hoa,  /  /,CN,GVC,2206,17,Thỉnh giảng
+1198,Đặng Danh ,Lợi,  /  /,CN,GVC,2206,17,Thỉnh giảng
+1199,Trần Thanh ,Dũng,  /  /,CN,GVC,1905,17,Thỉnh giảng
+1200,Hoàng An ,Quốc,  /  /,TS,GVC,1905,17,Thỉnh giảng
+1201,Nguyễn Thị Tú ,Oanh,  /  /,CN,GVC,1905,17,Thỉnh giảng
+1202,Nguyễn Vinh ,Thắng,2/1/1954 0:00,THS,GVC,1914,17,Thỉnh giảng
+1203,Hoàng Công ,Minh,  /  /,THS,GVC,1905,17,Thỉnh giảng
+1204,Nguyễn Thị Yến ,Tuyết,3/8/1968 0:00,DH,GV,1,13,Cơ hữu
+1205,Nguyễn Văn Long ,Giang,30/04/1975,THS,GV,3,13,Cơ hữu
+1206,Lê Hiếu ,Giang,15/07/1972,TS,PGS,0,13,Cơ hữu
+1207,Lê Thị Thanh ,Hoàng,4/1/1974 0:00,THS,GV,1,13,Cơ hữu
+1208,Trương Văn ,Hiền,12/2/1975 0:00,THS,GV,1,13,Cơ hữu
+1209,Trần ,Dũng,18/08/1974,THS,TG,163,17,Thỉnh giảng
+1210,Mạnh ,Tùng,  /  /,THS,GV,163,17,Thỉnh giảng
+1211,Trần Quang ,Việt,  /  /,THS,GV,163,17,Thỉnh giảng
+1212,Nguyễn Mậu ,Tùng,  /  /,KS,TG,651,17,Thỉnh giảng
+1213,Hoàng Thị Tuyết ,Nhung,14/04/1982,THS,GV,7,13,Cơ hữu
+1214,Ngô Thị Bích ,Liên,  /  /,CN,GV,2104,17,Thỉnh giảng
+1215,Đinh ,Điền,  /  /,KS,GVC,1880,17,Thỉnh giảng
+1216,Vũ Minh ,Nam,  /  /,CN,GV,1880,17,Thỉnh giảng
+1217,Vũ Thanh ,Hiền,  /  /,KS,GV,1880,17,Thỉnh giảng
+1218,Nguyễn Văn ,Hiệp,3/2/1982 0:00,THS,GV,1,13,Cơ hữu
+1219,Trần Thị Kim ,Anh,  /  /,KS,GV,710,13,Cơ hữu
+1220,Nguyễn Đình ,Tuấn,  /  /,TS,PGS,710,17,Thỉnh giảng
+1221,Đinh Xuân ,Thắng,  /  /,TS,GVC,710,17,Thỉnh giảng
+1222,Lê Quang ,Trung,  /  /,TS,GVC,417,17,Thỉnh giảng
+1223,Lê Trọng ,Nghĩa,  /  /,TS,GVC,417,17,Thỉnh giảng
+1224,Nguyễn Thị Hồng ,Ngọc,  /  /,CN,TG,2104,17,Thỉnh giảng
+1225,Nguyễn Công ,Kiên,  /  /,THS,GV,891,17,Thỉnh giảng
+1226,Lê Võ Thanh ,Lâm,  /  /,THS,GV,1905,17,Thỉnh giảng
+1229,Võ Phương ,Thức,28/10/1978,THS,GV,419,17,Thỉnh giảng
+1230,Phan Đức ,Hùng,18/02/1978,TS,GV,4,13,Cơ hữu
+1231,Nguyễn Văn ,Hậu,2/9/1977 0:00,THS,GV,4,13,Cơ hữu
+1232,Trương Quang ,Hùng,17/12/1978,THS,GV,418,17,Thỉnh giảng
+1233,Chế Thị Kiều ,Nhi,25/07/1979,THS,GV,5,13,Cơ hữu
+1234,Trần Xuân ,Thọ,  /  /,CN,GVC,417,17,Thỉnh giảng
+1235,Lê Văn ,Tùng,  /  /,CN,GVC,417,17,Thỉnh giảng
+1236,Lê Văn Phước ,Nhân,  /  /,CN,GV,417,17,Thỉnh giảng
+1237,Nguyễn Thị Tịnh ,Ấu,23/10/1975,THS,GV,7,13,Cơ hữu
+1238,Mai Chiếm ,Hiếu,  /  /,THS,GV,2206,17,Thỉnh giảng
+1239,Nguyễn Quỳnh ,Mai,18/04/1981,THS,GV,7,13,Cơ hữu
+1240,Dương Tuấn,Tùng_,15-7-1980,THS,GV,331,17,Thỉnh giảng
+1241,Lại Hoài ,Nam,7/1/1983 0:00,THS,GV,3,13,Cơ hữu
+1242,Đoàn Minh ,Hùng,9/5/1982 0:00,DH,GV,3,13,Cơ hữu
+1243,Nguyễn Bá ,Hải,21/07/1983,TS,GV,4141,13,Cơ hữu
+1244,Nguyễn Tấn ,Vinh,  /  /,THS,GV,1905,17,Thỉnh giảng
+1245,Võ Hữu ,Phước,  /  /,THS,GV,2206,17,Thỉnh giảng
+1246,Nguyễn Văn ,Điển,  /  /,THS,GVC,2206,17,Thỉnh giảng
+1247,Nguyễn Thị Tú , Trinh,  /  /,KS,TG,651,17,Thỉnh giảng
+1248,Lê Trọng ,Nghĩa,  /  /,KS,GVC,417,17,Thỉnh giảng
+1249,Hoàng Trung ,Ngôn,  /  /,THS,GV,710,17,Thỉnh giảng
+1250,Nguyễn Thị Trúc ,Đào,1/5/1979 0:00,THS,GV,6,13,Cơ hữu
+1251,Trần Quang ,Hạ,  /  /,KS,GVC,417,17,Thỉnh giảng
+1252, ,Dũng,  /  /,KS,GV,750,17,Thỉnh giảng
+1253,Bùi Thị Phương ,Hạ,  /  /,CN,GV,652,17,Thỉnh giảng
+1254,Lê Thùy ,Trang,20/05/1984,THS,GV,6,13,Cơ hữu
+1255,Vũ Thị Ngọc ,Lan,  /  /,THS,GV,2104,17,Thỉnh giảng
+1256,Nguyễn Công ,Thương,17/02/1983,THS,GV,18,13,Cơ hữu
+1257,Nguyễn Thanh ,Thuỷ,  /  /,THS,GVC,890,17,Thỉnh giảng
+1258,Nguyễn Hữu ,Trí,  /  /,KS,TG,651,17,Thỉnh giảng
+1259,Nguyễn Thị Vân ,Khánh,  /  /,KS,GV,1701,17,Thỉnh giảng
+1260,Trần Thanh ,Bình,  /  /,THS,GV,1701,17,Thỉnh giảng
+1261,Bùi Đình ,Thắng,  /  /,THS,GV,1701,17,Thỉnh giảng
+1262,Nguyễn Đức Bảo ,Quỳnh,  /  /,CN,TG,2104,17,Thỉnh giảng
+1263,Cao Xuân ,Long,  /  /,THS,GV,1905,17,Thỉnh giảng
+1264,Trương Ngọc ,Sơn,  /  /,THS,GV,164,17,Thỉnh giảng
+1265,Phan Thế ,Đồng,  /  /,KS,TG,750,17,Thỉnh giảng
+1266,Lê Phương ,Bình,28/09/1985,THS,GV,4,13,Cơ hữu
+1267,Trương Ngọc ,Sơn,  /  /,KS,GV,163,17,Thỉnh giảng
+1268,Nguyễn Thị Vân ,Hà,  /  /,THS,GV,710,17,Thỉnh giảng
+1269,Nguyễn Thị ,Bảy,  /  /,THS,GVC,710,17,Thỉnh giảng
+1270,Nguyễn Thị Bích ,Ngọc,  /  /,THS,GV,710,17,Thỉnh giảng
+1271,Huỳnh Thị Tố ,Anh,  /  /,KS,TG,2104,17,Thỉnh giảng
+1272,Âu Minh ,Triết,  /  /,THS,GV,2104,17,Thỉnh giảng
+1273,Mai Ngọc ,Châu,  /  /,KS,TG,163,17,Thỉnh giảng
+1274,Huỳnh ,ái,  /  /,CN,GV,2104,17,Thỉnh giảng
+1275,Phan Nguyễn Huyền ,Châu,  /  /,CN,GV,2104,17,Thỉnh giảng
+1276,Nguyễn Thị Thùy ,Dương,20/03/1983,TS,GV,079000G07,13,Cơ hữu
+1277,Phạm Thị Thu ,Thủy,  /  /,THS,GV,891,17,Thỉnh giảng
+1278,Nguyễn Văn ,Chúng,4/1/1979 0:00,THS,GV,4,13,Cơ hữu
+1279,Nguyễn Thanh ,Khương,  /  /,THS,GV,750,17,Thỉnh giảng
+1280,Cao Xuân ,Thủy,  /  /,THS,GV,750,17,Thỉnh giảng
+1281,Lương Hồng ,Quang,  /  /,THS,GV,750,17,Thỉnh giảng
+1282,Phan Xuân ,Thạnh,  /  /,THS,GV,710,17,Thỉnh giảng
+1283,Đặng Viết ,Hùng,  /  /,THS,GV,710,17,Thỉnh giảng
+1284,Đặng Viết ,Hưng,  /  /,THS,GV,710,17,Thỉnh giảng
+1285,Trình Thị Giang ,Thanh,15/10/1981,THS,GV,21,13,Cơ hữu
+1286,Trương Thị Mỹ ,Châu,15/11/1958,THS,GVC,1915,17,Thỉnh giảng
+1287,Hồ Thị Thu ,Nga,  /  /,TS,GVC,225,17,Thỉnh giảng
+1288,Nguyễn Văn,Tuấn,,THS,GV,2711,17,Thỉnh giảng
+1289,Nguyễn Thiên,Kim,,TS,GV,2711,17,Thỉnh giảng
+1290,Nguyễn Bá,Tiến,,THS,GV,2711,17,Thỉnh giảng
+1291,Lê,Phong,,THS,GV,1170,17,Thỉnh giảng
+1700,Nguyễn,Triết,,TS,GV,1701,,
+1701,Lê,Thiện,,TS,GV,1701,,
+1818,Hồ Thị Thu ,Trang,20/02/1985,DH,GV,7,13,Cơ hữu
+1872,Nguyễn Trung ,Hiếu,17/10/1988,DH,GV,3,13,Cơ hữu
+1873,Tô Trần Lam,Giang,26/03/1983,THS,TSU,12.3,13,Cơ hữu
+1999,Phạm Thị Thu ,Hương,  /  /,CN,TG,1905,17,Thỉnh giảng
+2000,Dương Minh ,Tín,  /  /,THS,GV,419,17,Thỉnh giảng
+2001,Đỗ Cao ,Tín,3/12/1986 0:00,THS,GV,4,13,Cơ hữu
+2002,Nguyễn Phạm Huyền ,Châu,  /  /,CN,GV,2104,17,Thỉnh giảng
+2003,Hoàng Thị Minh,Nhựt_,  /  /,THS,GVC,2136,17,Thỉnh giảng
+2004,Phan Đức ,Huynh,17/02/1978,TS,GV,4,13,Cơ hữu
+2005,Châu Mỹ ,Anh,  /  /,KS,GVC,417,17,Thỉnh giảng
+2006,Nguyễn Tuyết,Hạnh_,  /  /,CN,GV,2136,17,Thỉnh giảng
+2007,Nguyễn Thị Xuân ,Chi,  /  /,KS,TG,2136,17,Thỉnh giảng
+2008,Vũ Thế ,Đảng,  /  /,PTS,GV,140,17,Thỉnh giảng
+2009,Phạm Trần Minh ,Hiếu,  /  /,THS,GV,140,17,Thỉnh giảng
+2010,Huỳnh Lê Minh ,Thiện,  /  /,THS,GV,162,17,Thỉnh giảng
+2011,Lý Minh ,Tiên,  /  /,KS,GVC,891,17,Thỉnh giảng
+2012,Nguyễn Tấn ,Quốc,21/02/1961,THS,GVC,15,13,Cơ hữu
+2013,Nguyễn Văn ,Trọng,  /  /,KS,TG,1061,17,Thỉnh giảng
+2015,Nguyễn Văn ,Phụng,  /  /,TS,PGS,331,17,Thỉnh giảng
+2016,Đặng ,Quý,22/12/1959,THS,GVC,3,13,Cơ hữu
+2017,Lê Anh ,Hùng,  /  /,KS,GV,331,17,Thỉnh giảng
+2018,Nguyễn Văn ,Toàn,11/9/1958 0:00,THS,GVC,3,13,Cơ hữu
+2019,Nguyễn Ngọc ,Bích,30/06/1956,THS,GVC,27,13,Cơ hữu
+2021,Nguyễn Văn ,Phước,  /  /,KS,GV,331,17,Thỉnh giảng
+2022,Trần Quốc ,Trung,  /  /,KS,GV,331,17,Thỉnh giảng
+2023,Nguyễn ,Ngân,18/07/1976,THS,GV,555,17,Thỉnh giảng
+2024,Nguyễn Long ,Giang,1/7/1975 0:00,THS,GV,5,13,Cơ hữu
+2025,Nguyễn Thị Bích ,Ngọc,2/10/1959 0:00,THS,GVC,332,17,Thỉnh giảng
+2026,Trần Ngọc ,Đảm,6/6/1977 0:00,TS,GV,2,13,Cơ hữu
+2027,Đặng Vũ ,Ngoạn,  /  /,KS,TG,226,17,Thỉnh giảng
+2028,Đoàn Tất ,Linh,25/12/1976,THS,GV,27,13,Cơ hữu
+2029,Trương Nguyễn Luân ,Vũ,15/09/1977,TS,PGS,27,13,Cơ hữu
+2030,Phạm Hùng ,Quân,  /  /,KS,GV,2104,17,Thỉnh giảng
+2031,Nguyễn Thị ,Thúy,19/01/1980,THS,GV,6,13,Cơ hữu
+2032,Nguyễn Đình ,Cả,10/2/1958 0:00,TS,GVC,19,13,Cơ hữu
+2035,Lê Xuân ,Hòa,18/05/1961,TS,GVC,3,13,Cơ hữu
+2036,Nguyễn Thị ,Luyên,7/11/1980 0:00,THS,TSU,6,13,Cơ hữu
+2037,Nguyễn Tuấn ,Anh,12/9/1979 0:00,TS,GV,6,13,Cơ hữu
+2038,Nguyễn Xuân ,Trà,25/08/1977,THS,GV,6,13,Cơ hữu
+2039,Phùng Thị Bích ,Dung,19/11/1981,THS,GV,6,13,Cơ hữu
+2040,Nguyễn Công ,Thành,  /  /,THS,GV,890,17,Thỉnh giảng
+2041,Võ Thị ,Hoa,  /  /,TS,GVC,1914,17,Thỉnh giảng
+2042,Trần Tiến,Khoa,,TS,GV,229,17,Thỉnh giảng
+2050,Chế Quốc ,Long,20/11/1969,DH,GV,5,13,Cơ hữu
+2051,Đinh Thị ,Điều,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2052,Phan Khánh ,Bằng,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2053,Lương Xuân ,Cán,  /  /,THS,GVC,417,17,Thỉnh giảng
+2055,Trần Phương ,Nam,  /  /,TS,GVC,145,17,Thỉnh giảng
+2056,Phạm Sơn,Minh_,22-11-1982,TS,GV,224,17,Thỉnh giảng
+2057,Đoàn Văn ,Phúc,  /  /,THS,GV,1701,17,Thỉnh giảng
+2058,Lê Thị ,Bình,  /  /,THS,GV,1905,17,Thỉnh giảng
+2059,Võ Minh ,Trung,  /  /,THS,TG,891,17,Thỉnh giảng
+2060,Bùi Thị Thu ,Lan,  /  /,THS,GV,891,17,Thỉnh giảng
+2061,Hà Thị ,Vân,  /  /,THS,GV,1905,17,Thỉnh giảng
+2062,Hoàng Minh ,Thuấn,  /  /,CN,GV,1905,17,Thỉnh giảng
+2063,Tưởng Phước ,Thọ,2/7/1982 0:00,THS,GV,2,13,Cơ hữu
+2064,Đinh Văn ,Vương,  /  /,KS,TG,417,17,Thỉnh giảng
+2065,Nguyễn Minh ,Thạnh,  /  /,TS,GVC,417,17,Thỉnh giảng
+2066,Phan Ngọc ,Châu,  /  /,TS,GS,417,17,Thỉnh giảng
+2067,Nguyễn Quốc ,Thông,  /  /,THS,GV,417,17,Thỉnh giảng
+2068,Lê Tuấn ,Khoa,  /  /,THS,GV,417,17,Thỉnh giảng
+2069,Lê Trọng ,Nghĩa,  /  /,TS,GVC,417,17,Thỉnh giảng
+2070,Bùi Công ,Thành,  /  /,TS,GS,417,17,Thỉnh giảng
+2071,Trần Tiến ,Đắc,  /  /,THS,GV,417,17,Thỉnh giảng
+2072,Phạm Hồng ,Luân,  /  /,TS,GVC,417,17,Thỉnh giảng
+2073,Trần Quang ,Hộ,  /  /,TS,GVC,417,17,Thỉnh giảng
+2075,Lê Văn ,Xin,  /  /,CN,GV,710,17,Thỉnh giảng
+2076,Nguyễn Minh ,Thạnh,  /  /,TS,GVC,223,17,Thỉnh giảng
+2077,Nguyễn Ngọc ,Tứ,20/09/1985,THS,GV,17,13,Cơ hữu
+2078,Phạm Thị Ngọc ,Thảo,  /  /,CN,GV,2206,17,Thỉnh giảng
+2079,Nguyễn Thị ,Trâm,  /  /,CN,TG,2206,17,Thỉnh giảng
+2080,Võ Minh ,Huân,4/9/1982 0:00,TS,GV,1,13,Cơ hữu
+2081,Lê Thị Anh ,Đào,  /  /,THS,GV,2206,17,Thỉnh giảng
+2082,Lê Anh,Tuấn,15/05/1979,TS,TSU,703,13,Cơ hữu
+2085,Phạm Thanh ,Sơn,  /  /,THS,GV,1701,17,Thỉnh giảng
+2086,Lê Thị Hồng ,Thư,6/10/1977 0:00,THS,GV,22,13,Cơ hữu
+2087,Võ Thị Thúy ,Hà,  /  /,THS,TG,2206,17,Thỉnh giảng
+2088,Nguyễn Thị Huyền ,Trâm,2/10/1980 0:00,THS,GV,22,13,Cơ hữu
+2089,Đường Võ ,Hùng,  /  /,THS,GVC,2206,17,Thỉnh giảng
+2090,Lê Hoàng,Lâm_,2/3/1983 0:00,THS,GV,144,17,Thỉnh giảng
+2091,Lê Trọng ,Nghĩa,22/09/1987,THS,GV,1,13,Cơ hữu
+2092,Nguyễn Đức ,Quyền,  /  /,KS,TG,146,17,Thỉnh giảng
+2102,,,,,,,,
+2103,Trần Thu ,Hà,18/08/1966,TS,PGS,1,13,Cơ hữu
+2104,Lê Viết ,Phú,  /  /,KS,GV,164,17,Thỉnh giảng
+2105,Nguyễn Thị Tác ,ánh,  /  /,KS,GV,226,17,Thỉnh giảng
+2106,Võ Hoàng ,Thanh,  /  /,KS,GV,226,17,Thỉnh giảng
+2107,Trần Văn ,Niên,  /  /,THS,GV,226,17,Thỉnh giảng
+2108,Trương Tuấn ,Hảo,  /  /,THS,GV,417,17,Thỉnh giảng
+2109,Trần Thị Vân ,Anh,  /  /,THS,GVC,223,17,Thỉnh giảng
+2110,Quyền Huy ,Ánh,31/05/1954,TS,PGS,1,13,Cơ hữu
+2111,Dương Đăng ,Danh,8/11/1958 0:00,THS,GVC,3320,13,Cơ hữu
+2112,Văn Hữu ,Thịnh,16/09/1958,TS,GVC,2,13,Cơ hữu
+2113,Hoàng Công ,Khương,  /  /,TS,GVC,223,17,Thỉnh giảng
+2114,Hà Trọng ,Thà,  /  /,TS,GVC,1905,17,Thỉnh giảng
+2115,Hoàng Quốc ,Bảo,2/2/1951 0:00,THS,GVC,223,17,Thỉnh giảng
+2116,Vũ Như Phan ,Thiện,25/08/1966,THS,GVC,223,17,Thỉnh giảng
+2117,Nguyễn Đức ,Thắngml,  /  /,THS,TG,1905,17,Thỉnh giảng
+2118,Nguyễn Văn ,Thêm,  /  /,TS,PGS,421,17,Thỉnh giảng
+2119,Lương Thị Kim ,Tuyến,  /  /,THS,GVC,703,17,Thỉnh giảng
+2120,Nguyễn Thị ,Hồng(50,  /  /,THS,GVC,651,17,Thỉnh giảng
+2121,Phạm Thị Vân ,Anh,  /  /,CN,GV,750,17,Thỉnh giảng
+2122,Trần Thị Bích ,Vân,  /  /,THS,GVC,651,17,Thỉnh giảng
+2123,Phạm Thị ,Hưng,11/5/1971 0:00,THS,GVC,6,13,Cơ hữu
+2124,Trần Thanh ,Hương,21/05/1968,THS,GVC,6,13,Cơ hữu
+2125,Huỳnh Thị Kim ,Phiến,30/06/1954,DH,GV,651,17,Thỉnh giảng
+2126,Nguyễn Thị Việt ,Thảo,23/03/1953,THS,GVC,891,17,Thỉnh giảng
+2127,Lê Thị ,Hoàng,  /  /,THS,GVC,890,17,Thỉnh giảng
+2128,Nguyễn Thị Phương ,Hoa,18/08/1962,THS,GVC,101,13,Cơ hữu
+2129,Châu Kim ,Lang,  /  /,THS,GVC,890,17,Thỉnh giảng
+2130,Võ Thị Ngọc ,Lan,25/08/1962,TS,GVC,8,13,Cơ hữu
+2131,Nguyễn Văn ,Tuấn,20/06/1964,TS,PGS,8,13,Cơ hữu
+2132,Phạm Thị ,Nga,  /  /,THS,GV,144,17,Thỉnh giảng
+2133,Đặng Văn ,Thành,24/12/1954,TS,GVC,8,13,Cơ hữu
+2134,Nguyễn Lê ,Trung,  /  /,THS,GV,891,17,Thỉnh giảng
+2135,Hoàng Ngọc ,Văn,8/12/1958 0:00,THS,GVC,1,13,Cơ hữu
+2136,Nguyễn Văn ,Mang,15/12/1964,DH,GV,2,13,Cơ hữu
+2137,Nguyễn Minh ,Chính,4/7/1956 0:00,DH,GV,2,13,Cơ hữu
+2138,Vương Anh ,Kiệt,1/9/1962 0:00,THS,GV,227,17,Thỉnh giảng
+2139,Nguyễn Văn ,Phước,  /  /,KS,TG,224,17,Thỉnh giảng
+2140,Đỗ Mạnh ,Long,26/03/1961,DH,GV,2,13,Cơ hữu
+2141,Đỗ Mạnh ,Cường,3/10/1957 0:00,TS,GVC,8,13,Cơ hữu
+2142,Nguyễn ,Kim,20/03/1959,THS,GVC,3,13,Cơ hữu
+2143,Bùi Thuận ,Ninh,3/6/1958 0:00,DH,GV,1,13,Cơ hữu
+2144,Trần Đình ,Quý,14/01/1965,THS,GVC,3,13,Cơ hữu
+2145,Phạm Thanh ,Chính,  /  /,THS,TG,144,17,Thỉnh giảng
+2146,Trần Thanh ,Hà,19/06/1969,THS,GVC,27,13,Cơ hữu
+2147,Bùi Huy ,Quỳnh,7/2/1945 0:00,DH,GVC,1885,17,Thỉnh giảng
+2148,Nguyễn Đăng ,Quang,23/08/1965,THS,GVC,27,13,Cơ hữu
+2149,Nguyễn Thành ,Sơn,8/7/1963 0:00,THS,GVC,18,13,Cơ hữu
+2150,Nguyễn Minh ,Đạo,4/5/1967 0:00,THS,GVC,18,13,Cơ hữu
+2151,Nguyễn Quang ,Ngọc,17/03/1967,THS,GV,18,13,Cơ hữu
+2152,Hồ Quý ,Thạch,  /  /,KS,GV,417,17,Thỉnh giảng
+2153,Nguyễn Thị Thanh,Ngọc,,DH,TG,2104,17,Thỉnh giảng
+2154,Nguyễn Văn ,Mạnh,  /  /,KS,GV,1061,17,Thỉnh giảng
+2155,Lê Thị Bích ,Hợp,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2156,Nguyễn Văn ,Tỉnh,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2157,Đỗ Đức ,Túy,2/10/1944 0:00,TS,GVC,1060,17,Thỉnh giảng
+2158,Phạm Minh ,Đức,30/11/1979,THS,GV,2,13,Cơ hữu
+2159,Trần Thị Thuý ,Hằng,  /  /,KS,GV,651,17,Thỉnh giảng
+2160,Hoàng Tăng ,Cường,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2161,Huỳnh Nguyễn ,Hoàng,25/07/1966,TS,GV,10,13,Cơ hữu
+2162,Trần Kỳ ,Đồng,  /  /,THS,TG,1905,17,Thỉnh giảng
+2164,Nguyễn Thanh ,Lý,  /  /,THS,GV,144,17,Thỉnh giảng
+2165,Nguyễn Tấn ,Luân,  /  /,KS,GV,1060,17,Thỉnh giảng
+2167,Nguyễn Thi Ngọc ,Hà(02),  /  /,THS,GV,1702,17,Thỉnh giảng
+2168,Lê Chí ,Cương,6/11/1971 0:00,TS,PGS,2,13,Cơ hữu
+2169,Bùi ,Tuyên,25/01/1955,TS,GV,3,17,Thỉnh giảng
+2170,Trần Văn ,Hải,16/10/1966,DH,GV,19,13,Cơ hữu
+2171,Hoàng An ,Quốc,13/05/1974,TS,PGS,1909,13,Cơ hữu
+2172,Nguyễn Đức ,Thành,  /  /,THS,TG,144,17,Thỉnh giảng
+2173,Hồ Thị Thanh,Thúy,,DH,TG,2104,17,Thỉnh giảng
+2174,X ,X,  /  /,KS,GV,1884,17,Thỉnh giảng
+2175,Nguyễn Ngọc ,Phước,  /  /,THS,GV,1708,17,Thỉnh giảng
+2176,Tăng Văn ,Hậu,  /  /,THS,GV,1708,17,Thỉnh giảng
+2177,Trần Văn ,Trọng,6/1/1955 0:00,DH,GV,10,17,Thỉnh giảng
+2178,Ngô Quang ,Hà,2/7/1954 0:00,THS,GVC,1061,17,Thỉnh giảng
+2179,Châu Chí ,Đức,11/2/1971 0:00,THS,GV,1061,17,Thỉnh giảng
+2180,Nguyễn Ngọc ,Phương,1/7/1957 0:00,TS,PGS,101,13,Cơ hữu
+2181,Lê Trung ,Tuyến,  /  /,CN,GVC,1905,17,Thỉnh giảng
+2183,Hồ Vĩnh ,An,16/01/1954,THS,GVC,1060,17,Thỉnh giảng
+2184,Dương Bình ,Nam,  /  /,KS,GV,225,17,Thỉnh giảng
+2185,Lý Tú ,Nga,  /  /,KS,TG,140,17,Thỉnh giảng
+2186,Nguyễn Anh,Tuấn_,  /  /,THS,GVC,1060,17,Thỉnh giảng
+2187,Huỳnh Kim ,Ba,5/10/1954 0:00,CD,GV,10,17,Thỉnh giảng
+2188,Nguyễn Khắc ,Nhàn,6/7/1959 0:00,THS,GVC,10,13,Cơ hữu
+2189,Nguyễn Tấn ,Luân,  /  /,THS,GV,1060,17,Thỉnh giảng
+2190,Nguyễn Quốc ,Định,6/3/1953 0:00,TCCN,GV,1060,17,Thỉnh giảng
+2191,Chế Văn ,Hưng,12/7/1956 0:00,DH,GV,1060,17,Thỉnh giảng
+2192,Võ Thanh ,Lý,  /  /,CN,TG,228,17,Thỉnh giảng
+2193,Nguyễn Duy ,Thảo,6/11/1976 0:00,THS,GV,1,13,Cơ hữu
+2194,Bùi Văn ,Hồng,5/1/1975 0:00,TS,GV,40THKT0,13,Cơ hữu
+2195,Trần Quang ,Thọ,15/09/1973,THS,GV,1,13,Cơ hữu
+2196,Trần Phi ,Long,22/07/1973,THS,GV,144,17,Thỉnh giảng
+2197,Nguyễn Ngọc ,Âu,20/12/1970,THS,GV,1,13,Cơ hữu
+2198,Đỗ Bình ,Dương,22/12/1974,THS,GV,1061,17,Thỉnh giảng
+2199,Nguyễn Hoàng Minh ,Vũ,  /  /,THS,GV,142,17,Thỉnh giảng
+2200,Đậu Trọng ,Hiển,1/1/1977 0:00,THS,GV,1,13,Cơ hữu
+2201,Trần Văn ,Dũng,7/10/1976 0:00,THS,GV,164,17,Thỉnh giảng
+2202,Nguyễn Ngọc ,Hùng,29/07/1969,THS,GV,1,13,Cơ hữu
+2203,Lê Hoàng ,Minh,23/10/1974,DH,GV,1,13,Cơ hữu
+2204,Nguyễn Ngô ,Lâm,6/8/1975 0:00,THS,GV,27,13,Cơ hữu
+2205,Trần Đức ,Lợi,18/03/1976,THS,GV,1,13,Cơ hữu
+2206,Lê Minh ,Thành,20/01/1977,THS,GV,1,13,Cơ hữu
+2207,Cao Thị Mỹ ,Dung,  /  /,THS,GV,1702,17,Thỉnh giảng
+2208,Phạm Minh ,Đức,  /  /,THS,TG,417,17,Thỉnh giảng
+2209,Hà Thanh Bích ,Loan,  /  /,CN,TG,2104,17,Thỉnh giảng
+2210,Nguyễn Thị Thanh ,Phương,30/07/1978,DH,TG,3233,13,Cơ hữu
+2211,Hoàng Nguyên ,Lý,9/5/1982 0:00,THS,GV,17,13,Cơ hữu
+2212,Nguyễn Hoa ,Mai,11/2/1985 0:00,THS,TSU,6,13,Cơ hữu
+2213,Trương Nguyễn Ái ,Nhân,15/11/1984,DH,GV,651,17,Thỉnh giảng
+2214,Phan Ngọc Mỹ ,Túy,24/08/1979,THS,GV,4,17,Thỉnh giảng
+2215,Nguyễn Thị ,Hoa,  /  /,THS,GV,710,17,Thỉnh giảng
+2216,Trịnh Văn ,Dũng,  /  /,TS,PGS,710,17,Thỉnh giảng
+2217,Bùi Đức ,Kính,  /  /,THS,GV,710,17,Thỉnh giảng
+2218,Nguyễn Đại ,Tân,  /  /,THS,GV,651,17,Thỉnh giảng
+2219,Nguyễn Quốc ,Dũng,26/08/1985,THS,GV,7,13,Cơ hữu
+2220,Nguyễn Thị ,Bình,  /  /,CN,GV,2104,17,Thỉnh giảng
+2221,Lê Thị Bích ,Thuận,  /  /,CN,TG,2104,17,Thỉnh giảng
+2222,Nguyễn Thị Ngọc ,Mai,  /  /,CN,TG,2104,17,Thỉnh giảng
+2223,Tống Thị Kim ,Ngân,  /  /,CN,TG,2104,17,Thỉnh giảng
+2224,Phan Thị Mỹ ,Thiện,  /  /,CN,TG,2104,17,Thỉnh giảng
+2225,Trần Thị Tường ,Vi,  /  /,CN,TG,2104,17,Thỉnh giảng
+2226,Nguyễn Thị Ngọc ,Hoa,  /  /,CN,TG,2104,17,Thỉnh giảng
+2227,Nguyễn Đức ,Vượng,27/06/1978,DH,TG,707,13,Cơ hữu
+2229,Lê Đức ,Thắng,  /  /,THS,GV,1701,17,Thỉnh giảng
+2230,Phạm Thành ,Trí,  /  /,THS,GV,1701,17,Thỉnh giảng
+2231,Nguyễn Thị Thanh ,Tâm,  /  /,THS,GV,703,17,Thỉnh giảng
+2232,Nguyễn Huỳnh Mai ,Hạnh,  /  /,THS,GV,703,17,Thỉnh giảng
+2233,Đặng Văn ,Sử,  /  /,THS,GVC,703,17,Thỉnh giảng
+2234,Nguyễn Hoài ,Lê,13/01/1983,THS,GV,18,13,Cơ hữu
+2235,Đào Thị ,Trang,  /  /,THS,GV,1701,17,Thỉnh giảng
+2249,Nguyễn Quốc ,ý,  /  /,TS,GV,703,17,Thỉnh giảng
+2250,Nguyễn Thành ,Hậu,27/01/1978,THS,GV,6,13,Cơ hữu
+2251,Đào Như ,Thiết,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2252,Vũ Đức ,Khiển,  /  /,TS,GVC,1905,17,Thỉnh giảng
+2253,Nguyễn Công ,Quyết,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2254,Nguyễn Minh ,Hằng,  /  /,THS,GVC,1905,17,Thỉnh giảng
+2255,Nguyễn Thế ,Hùng,  /  /,KS,GV,651,17,Thỉnh giảng
+2256,Nguyễn Văn ,Nguyện,  /  /,KS,GVC,750,17,Thỉnh giảng
+2257,Đặng Thị Tuyết ,Loan,  /  /,KS,GV,750,17,Thỉnh giảng
+2258,Nguyễn Hà ,Châu,  /  /,TS,GVC,651,17,Thỉnh giảng
+2259,Trịnh Phương ,Nam,  /  /,KS,GV,750,17,Thỉnh giảng
+2260,Trần Văn ,Tuyền_0,  /  /,CN,GV,1913,17,Thỉnh giảng
+2261,Nguyễn Kim ,Luyện,  /  /,THS,GV,890,17,Thỉnh giảng
+2262,Nguyễn Văn ,Thọ,1/2/1982 0:00,DH,GV,1,13,Cơ hữu
+2263,Nguyễn Công ,Hưng,  /  /,TS,GVC,2207,17,Thỉnh giảng
+2264,Trần Thanh ,An,  /  /,KS,TG,2207,17,Thỉnh giảng
+2265,Nguyễn Việt ,Bắc,  /  /,THS,TG,146,17,Thỉnh giảng
+2266,Nguyễn Quốc ,Tiến,  /  /,THS,GV,1701,17,Thỉnh giảng
+2275,Lê Trường Diễm ,Trang,6/11/1974 0:00,THS,GV,22,13,Cơ hữu
+2453,Lê Phan Tuyết ,Quỳnh,  /  /,THS,GV,229,17,Thỉnh giảng
+2918,Lê Văn ,Điện,  /  /,THS,GV,333,17,Thỉnh giảng
+2919,Bùi Văn ,Học,2/6/1955 0:00,DH,TG,404,17,Thỉnh giảng
+2920,Nguyễn Lan ,Anh,  /  /,THS,GV,140,17,Thỉnh giảng
+2921,Đinh Thị Mộng ,Cầm,  /  /,KS,GV,1702,17,Thỉnh giảng
+2922,Lê Mỹ ,Hà,1/12/1981 0:00,TS,GV,1,13,Cơ hữu
+2923,Nguyễn Hồng ,Nhung,6/8/1982 0:00,THS,GV,17,13,Cơ hữu
+2924,Nguyễn Văn ,Cường,  /  /,KS,TG,144,17,Thỉnh giảng
+2943,Lương Chấn Nguyên ,Vũ,  /  /,THS,TG,164,17,Thỉnh giảng
+2944,Lưu Ngọc ,Mai,  /  /,THS,GV,146,17,Thỉnh giảng
+2945,Nguyễn Ngọc ,Linh,  /  /,THS,GV,146,17,Thỉnh giảng
+2946,Phạm Sỹ ,Định,  /  /,THS,TG,162,17,Thỉnh giảng
+2947,Đồng Văn ,Cường,  /  /,THS,TG,162,17,Thỉnh giảng
+2948,Đặng Bảo ,Ly,  /  /,THS,GV,651,17,Thỉnh giảng
+2949,Trần Quý ,Hữu,  /  /,THS,GV,146,17,Thỉnh giảng
+2950,Trần Thị Chi ,Lan,  /  /,THS,TG,163,17,Thỉnh giảng
+2951,Phạm Hữu ,Thái,1/9/1985 0:00,THS,GV,10,13,Cơ hữu
+2952,Phạm Minh ,Khánh,  /  /,THS,GV,162,17,Thỉnh giảng
+2953,Trương Ngọc ,Hà,3/2/1981 0:00,THS,GV,1,13,Cơ hữu
+2954,Nguyễn Thị Kim ,Ngân,  /  /,THS,TG,2104,17,Thỉnh giảng
+2955,Huỳnh Hữu ,Công,  /  /,CN,GV,2104,17,Thỉnh giảng
+2956,Đỗ Mạnh ,Cương,  /  /,THS,GV,2104,17,Thỉnh giảng
+2957,Phan Thanh ,Tuấn,  /  /,THS,GV,2104,17,Thỉnh giảng
+2958,Nguyễn Vũ Phương ,Thảo,  /  /,THS,TG,145,17,Thỉnh giảng
+2959,Hà,Kha,,TS,GV,20,17,Thỉnh giảng
+2960,Huỳnh Thanh ,Toàn,  /  /,THS,GV,1701,17,Thỉnh giảng
+2961,Vũ Đình ,Huấn,22/04/1986,THS,GV,3,13,Cơ hữu
+2962,Nguyễn Thị Thanh ,Thúy,14/03/1987,THS,GV,22,13,Cơ hữu
+2963,Trương Thị,Hoà_,15-8-1988,DH,GV,2207,17,Thỉnh giảng
+2964,Đào Thị Kim ,Yến,  /  /,THS,GV,2207,17,Thỉnh giảng
+2965,Phạm Chí,Công,,THS,GV,2206,17,Thỉnh giảng
+2987,Thái Huy,Phát_,  /  /,DH,GV,331,17,Thỉnh giảng
+2988,Bùi Tấn,Phúc,,TS,GV,555,13,Cơ hữu
+2989,Vũ Văn,Quế,,THS,GV,1914,17,Thỉnh giảng
+2990,Nguyễn Hoàng,Minh,,THS,GV,1914,17,Thỉnh giảng
+2991,Lê,Anh,,TS,GV,710,17,Thỉnh giảng
+2992,Nguyễn,Ngân,,THS,GV,710,17,Thỉnh giảng
+2993,Nguyễn,Quân,,THS,GV,710,17,Thỉnh giảng
+2994,Nguyễn,Âu,,THS,GV,710,17,Thỉnh giảng
+3186,Bùi Thị Minh ,Thuỷ,  /  /,THS,GV,750,17,Thỉnh giảng
+3213,Nguyễn Triều ,Lan,  /  /,THS,GV,1702,17,Thỉnh giảng
+3512,Nguyễn Kế ,Tường,  /  /,THS,GV,418,17,Thỉnh giảng
+3513,Lê Văn,Sỹ,,TS,GV,2711,17,Thỉnh giảng
+3579,Lê ,Na,  /  /,THS,GV,651,17,Thỉnh giảng
+3680,Đoàn Văn,Huy,,THS,GV,2711,17,Thỉnh giảng
+3681,Hồ Thanh ,Nhân,  /  /,THS,GV,144,17,Thỉnh giảng
+3812,Nguyễn Hùng ,Anh,31/08/1983,THS,GV,19,13,Cơ hữu
+3813,Nguyễn ,Tú,  /  /,THS,TG,1913,17,Thỉnh giảng
+3816,Nguyễn Thụy Ngọc ,Thủy,15/09/1981,TS,GV,17,13,Cơ hữu
+3817,Trương Thị Trân ,Châu,13/09/1989,THS,GV,17,13,Cơ hữu
+3845,Nguyễn Thị Tuyết ,Mai,  /  /,THS,GV,1915,17,Thỉnh giảng
+3856,Lê Hữu ,Đức,  /  /,THS,GV,2206,17,Thỉnh giảng
+3857,Đinh Nguyễn Khôi ,Nguyên,  /  /,THS,GV,2206,17,Thỉnh giảng
+3859,Nguyễn Minh ,Ngọc,  /  /,THS,GVC,163,17,Thỉnh giảng
+3860,Trần Quang ,Thuận,  /  /,THS,GV,163,17,Thỉnh giảng
+3862,Trần Hoàng ,Linh,  /  /,THS,GV,2104,17,Thỉnh giảng
+3866,Phan Vũ Bình ,Minh,  /  /,THS,TSU,2104,17,Thỉnh giảng
+3871,Trần Tuấn ,Anh,6/3/1985 0:00,TS,GV,17,13,Cơ hữu
+3872,Trương Thanh,Tú,,THS,GV,2206,17,Thỉnh giảng
+3891,Võ Thị Xuân ,Hạnh,6/2/1987 0:00,THS,GV,22,13,Cơ hữu
+3892,Nguyễn Thị,Huyền,,THS,TG,703,17,Thỉnh giảng
+3907,Trần Hoàng ,Linh,23/11/1976,THS,GV,21,13,Cơ hữu
+3909,Trương Vĩnh ,An,15/10/1976,THS,GV,17,13,Cơ hữu
+3921,Nguyễn Văn ,Đại,  /  /,THS,GV,2206,17,Thỉnh giảng
+3925,Phạm Sơn ,Minh,22/11/1982,TS,GV,27,13,Cơ hữu
+3934,Đỗ Lư Công ,Minh,  /  /,THS,GV,1701,17,Thỉnh giảng
+3935,Nguyễn Minh ,Tùng,  /  /,THS,GV,1701,17,Thỉnh giảng
+3941,Lai Văn ,Phút,  /  /,THS,GV,1701,17,Thỉnh giảng
+3942,Huỳnh Kim ,Truyện,  /  /,THS,GV,1701,17,Thỉnh giảng
+3943,Nguyễn Hữu,Thành,,TS,GV,417,17,Thỉnh giảng
+3945,Đặng Thị Đoan ,Phương,12/12/1984 0:00,DH,GV,2206,17,Thỉnh giảng
+3951,Nguyễn Thanh ,Minh,  /  /,THS,GV,1915,17,Thỉnh giảng
+3952,Huỳnh Xuân ,Phụng,1/1/1989 0:00,DH,GV,18,13,Cơ hữu
+3955,Lê Nguyễn Bảo ,Thư,  /  /,THS,GV,1702,17,Thỉnh giảng
+3956,Trần Thị Thu ,Hường,  /  /,THS,GV,652,17,Thỉnh giảng
+3957,Trịnh Khánh ,Sơn,7/1/1977 0:00,TS,GV,7,13,Cơ hữu
+3958,Thái Phúc ,Huy,  /  /,THS,GV,2207,17,Thỉnh giảng
+3960,Đoàn Trần Anh ,Thư,29/06/1985,THS,GV,21,13,Cơ hữu
+3962,Nguyễn Thị Thanh ,Vân,  /  /,THS,GV,2207,17,Thỉnh giảng
+3970,Nguyễn Trí ,Tri,  /  /,THS,GV,2207,17,Thỉnh giảng
+3971,Nguyễn Xuân ,Đạo,  /  /,THS,GV,2207,17,Thỉnh giảng
+3972,Lưu Xuân ,Lộc,  /  /,THS,GVC,417,17,Thỉnh giảng
+3973,Phan Đình Xuân ,Vinh,  /  /,THS,GV,417,17,Thỉnh giảng
+3974,Trần Thị Phương ,Loan,  /  /,CN,TG,2104,17,Thỉnh giảng
+3975,Lê Thị Quỳnh ,Diễm,  /  /,CN,TG,1913,17,Thỉnh giảng
+3977,Dương Tuấn ,Lộc,  /  /,THS,GV,1905,17,Thỉnh giảng
+3978,Vũ Thị Ngọc ,Thu,30/09/1982,THS,GV,1,13,Cơ hữu
+3979,Đặng Thị ,Phượng,  /  /,KS,GV,2206,17,Thỉnh giảng
+3980,Trần Minh Thế ,Uyên,2/3/1981 0:00,THS,GV,2,13,Cơ hữu
+3982,Nguyễn Lê ,Duy,17/03/1984,THS,GV,3,17,Thỉnh giảng
+3984,Nguyễn Thanh ,Tuấn,12/5/1982 0:00,THS,GV,18,13,Cơ hữu
+3985,Nguyễn Anh ,Hào,  /  /,THS,GV,1884,17,Thỉnh giảng
+3989,Nguyễn Tiến ,Huy,  /  /,THS,GV,2206,17,Thỉnh giảng
+3991,Nguyễn Minh ,Hải,  /  /,THS,GV,1701,17,Thỉnh giảng
+3992,Trần Ngọc ,Chung,28/11/1985,THS,GV,19,13,Cơ hữu
+3993,Nguyễn Siêu ,Đẳng,  /  /,KS,TG,164,17,Thỉnh giảng
+3995,Lê Thị Minh ,Châu,6/4/1983 0:00,THS,GV,18,13,Cơ hữu
+3996,Trần Thị Hồng ,Duyên,  /  /,THS,GV,2206,17,Thỉnh giảng
+3997,Nguyễn Trung ,Hiếu,  /  /,DH,TG,2104,17,Thỉnh giảng
+3998,Trần Tường ,Vy,  /  /,CN,TG,2104,17,Thỉnh giảng
+3999,Nguyễn Phan Như ,Ngọc,20/11/1988,THS,GV,22,13,Cơ hữu
+4001,Thái Văn ,Nam,  /  /,TS,GVC,710,17,Thỉnh giảng
+4002,Trần Lan ,Hương,  /  /,CN,TG,2104,17,Thỉnh giảng
+4003,Lương Hà Chúc ,Quỳnh,  /  /,CN,TG,2104,17,Thỉnh giảng
+4004,Huỳnh Ngọc Anh,Tuấn,,THS,GV,703,17,Thỉnh giảng
+4008,Nguyễn Thanh ,Thái,  /  /,THS,GV,163,17,Thỉnh giảng
+4009,Trần Hữu Khiêm (Không sử,dụng),  /  /,THS,GV,163,17,Thỉnh giảng
+4010,Bùi Huy ,Bình,  /  /,THS,GV,2207,17,Thỉnh giảng
+4011,Trịnh Khánh ,Sơn,  /  /,TS,GV,703,17,Thỉnh giảng
+4012,Lê Khánh ,Tân,31/10/1988,THS,GV,3,13,Cơ hữu
+4013,Nguyễn Trung,Hiếu_,  /  /,CN,TG,333,17,Thỉnh giảng
+4014,Hồ Thị Hồng ,Xuyên,18/07/1988,DH,GV,22,13,Cơ hữu
+4015,Huỳnh Hoàng ,Hà,5/12/1989 0:00,DH,GV,1,13,Cơ hữu
+4016,Trương Quang ,Phúc,30/11/1988,THS,GV,1,13,Cơ hữu
+4017,Cái Việt Anh ,Dũng,27/03/1982,TS,TG,2,13,Cơ hữu
+4018,Nguyễn Như ,Hiển,  /  /,THS,GV,710,17,Thỉnh giảng
+4019,Trịnh Đình ,Thao,  /  /,THS,GV,710,17,Thỉnh giảng
+4020,Trần Việt ,Hồng,  /  /,TS,GVC,229,17,Thỉnh giảng
+4021,Thái Thụy Hàn ,Uyển,18/11/1986,THS,GV,18,13,Cơ hữu
+4022,Lâm Xuân ,Bình,9/10/1983 0:00,TS,GV,4,13,Cơ hữu
+4023,Nguyễn ,Tổng,1/12/1988 0:00,DH,GV,4,13,Cơ hữu
+4024,Đỗ Đại ,Thắng,  /  /,TS,GVC,417,17,Thỉnh giảng
+4025,Hồ ,Vũ,  /  /,THS,GV,1701,17,Thỉnh giảng
+4026,Lê Mai Hiền ,Trang,12/3/1987 0:00,THS,GV,21,13,Cơ hữu
+4027,Hoàng Ngọc ,Trang,1/12/1984 0:00,THS,GV,21,13,Cơ hữu
+4028,Huỳnh Thị Ngọc ,Dung,28/09/1989,DH,TSU,1879,13,Cơ hữu
+4030,Phan Văn ,Ca,18/06/1979,TS,GV,1,13,Cơ hữu
+4033,Trần Vi ,Đô,18/08/1989,DH,GV,1,13,Cơ hữu
+4034,Vũ Văn ,Phong,5/10/1984 0:00,THS,GV,1,13,Cơ hữu
+4035,Nguyễn Thế ,Hiển,  /  /,KS,GV,145,17,Thỉnh giảng
+4036,Nguyễn Phát ,Lợi,  /  /,KS,TG,145,17,Thỉnh giảng
+4037,Phan Thanh ,Vũ,20/05/1985,THS,GV,2,13,Cơ hữu
+4038,Vũ Trực ,Phức,  /  /,TS,GV,557,17,Thỉnh giảng
+4039,Đặng Xuân ,Trường,  /  /,THS,GV,417,17,Thỉnh giảng
+4040,Chế Đình ,Lý,  /  /,TS,GVC,710,17,Thỉnh giảng
+4041,Hoàng Ngọc ,Tuyến,  /  /,THS,GV,163,17,Thỉnh giảng
+4042,Nguyễn Kim ,Suyên,  /  /,THS,TG,163,17,Thỉnh giảng
+4043,Nguyễn,Hòa,,TS,GV,7,17,Thỉnh giảng
+4046,Lê ,Phương,6/6/1989 0:00,THS,GV,4,13,Cơ hữu
+4047,Bùi Xuân ,Thành,  /  /,TS,GVC,710,17,Thỉnh giảng
+4048,Huỳnh Nhật ,Vỹ,  /  /,THS,GV,1701,17,Thỉnh giảng
+4049,Trần Thị ,Liên,  /  /,THS,GV,710,17,Thỉnh giảng
+4050,Phạm Văn ,Danh,  /  /,THS,TG,710,17,Thỉnh giảng
+4051,Nguyễn Thế ,Vinh,  /  /,TS,GVC,710,17,Thỉnh giảng
+4052,Trần Tiến ,Khôi,  /  /,TS,GV,710,17,Thỉnh giảng
+4053,Điền Hòa Anh ,Kiệt,  /  /,THS,GV,417,17,Thỉnh giảng
+4054,Phạm Thị Mai ,Thảo,  /  /,TS,GVC,710,17,Thỉnh giảng
+4055,Nguyễn Thanh,Điểu,,THS,GV,226,17,Thỉnh giảng
+4078, ,A,  /  /,THS,GV,1702,17,Thỉnh giảng
+4079,Nguyễn Thị Minh,Đức,,THS,GV,2207,17,Thỉnh giảng
+4080,Nguyễn Quốc,Vinh,,THS,GV,419,17,Thỉnh giảng
+4081,Ngô Quang,Huân,,TS,GV,22,17,Thỉnh giảng
+4082,Nguyễn Mai,Chi,,THS,GV,22,17,Thỉnh giảng
+4083,Nguyễn Văn,Nhật,,TS,GV,22,17,Thỉnh giảng
+4084,Hồ Thành ,Công,1/5/1968 0:00,DH,TG,2237,13,Cơ hữu
+4101,Phan Dương Thụy ,Vy,  /  /,THS,TG,141,17,Thỉnh giảng
+4102,Huỳnh Văn ,Ngon,  /  /,THS,GV,1913,17,Thỉnh giảng
+4103,Nguyễn Phước Xuân ,Mai,  /  /,THS,GVC,1913,17,Thỉnh giảng
+4104,Đinh Thị Tuyết ,Hường,  /  /,CN,GV,1913,17,Thỉnh giảng
+4105,Bùi Ngọc ,Phương,  /  /,CD,GV,1913,17,Thỉnh giảng
+4106,Trần Phong ,Vinh,1/1/1978 0:00,THS,GV,19,13,Cơ hữu
+4107,Nguyễn Xuân ,Khoa,  /  /,THS,GV,417,17,Thỉnh giảng
+4108,Nguyễn Thanh,Bình_,  /  /,KS,GV,163,17,Thỉnh giảng
+4109,Dương Tuấn ,Tùng,15/07/1980,THS,GV,3,13,Cơ hữu
+4110,Bùi Công ,Thành,  /  /,TS,PGS,417,17,Thỉnh giảng
+4111,Nguyễn Quốc ,Thông,  /  /,THS,GVC,417,17,Thỉnh giảng
+4112,Phan Ngọc ,Châu,  /  /,THS,PGS,417,17,Thỉnh giảng
+4113,Lê Tuấn ,Khoa,  /  /,THS,GVC,417,17,Thỉnh giảng
+4114,Phạm Hồng ,Luân,  /  /,TS,GVC,417,17,Thỉnh giảng
+4115,Nguyễn Thị Hoàng ,Yến,  /  /,THS,GV,417,17,Thỉnh giảng
+4116,Bùi Văn ,Trí,  /  /,THS,GV,144,17,Thỉnh giảng
+4117,Phan Thị Anh ,Đào,15/09/1983,THS,GV,7,13,Cơ hữu
+4118,Trang Tấn ,Triển,5/7/1982 0:00,THS,GV,4,13,Cơ hữu
+4119,Hà Đình ,Hiếu,10/12/1983 0:00,THS,GV,7,13,Cơ hữu
+4120,Trần Thị Kim ,Anh,28/05/1982,THS,GV,710,17,Thỉnh giảng
+4121,Nguyễn Mỹ ,Linh,9/11/1983 0:00,THS,GV,7,13,Cơ hữu
+4122,Dương Thế ,Phong,12/2/1983 0:00,THS,GV,2,13,Cơ hữu
+4123,Quách Văn ,Thiêm,2/12/1977 0:00,TS,GV,2,13,Cơ hữu
+4124,Huỳnh Nguyên ,Chính,2/9/1983 0:00,THS,GV,3030,13,Cơ hữu
+4125,Đỗ Thị Kim ,Thanh,  /  /,CN,TSU,2104,17,Thỉnh giảng
+4126,Cao Thị Diễm ,Trang,  /  /,CN,GV,2206,17,Thỉnh giảng
+4127,Lê Thị ,An,  /  /,CN,GV,1905,17,Thỉnh giảng
+4128,Nguyễn Thành ,Đạt,  /  /,THS,GVC,417,17,Thỉnh giảng
+4129,Nguyễn Tài ,My,  /  /,THS,GVC,417,17,Thỉnh giảng
+4130,Nguyễn Minh ,Khánh,  /  /,KS,GV,417,17,Thỉnh giảng
+4131,Nguyễn Quốc ,Hiến,  /  /,THS,PGS,710,17,Thỉnh giảng
+4132,Nguyễn Thị ,Lê,  /  /,THS,GV,1702,17,Thỉnh giảng
+4201,Trần Thanh ,Tài,25/01/1989,DH,GV,4,13,Cơ hữu
+4202,Nguyễn ,Bốn,  /  /,THS,GV,652,17,Thỉnh giảng
+4203,Nguyễn Thùy ,Linh,  /  /,THS,GV,750,17,Thỉnh giảng
+4410,Nguyễn Thị Hải,Hà,,CN,TG,21,17,Thỉnh giảng
+4411,Nguyễn Khoa Thanh,Vân,,THS,GV,417,17,Thỉnh giảng
+4418,,,,,,,,
+4444,Nguyễn Kiên ,Cường,14/05/80,THS,TG,1881,17,Thỉnh giảng
+4445,Trần Văn ,San,  /  /,KS,GV,1701,17,Thỉnh giảng
+4446,Lê Thanh ,Quang,  /  /,KS,GV,1701,17,Thỉnh giảng
+4447,Trương Thế ,Trung,20/06/1980,DH,GV,5,13,Cơ hữu
+4448,Nguyễn Thị Xuân,Hạnh,,THS,GV,710,17,Thỉnh giảng
+4500,Trịnh Ngọc ,Thành,8/5/1989 0:00,THS,GV,21,13,Cơ hữu
+4501,Đỗ Thị ,Hà,30/04/1985,THS,TSU,2136,13,Cơ hữu
+4520,,,,,,,,
+4552,Nguyễn Khánh ,Hùng,1/5/1987 0:00,THS,TSU,164,13,Cơ hữu
+4553,Chu Thị Tuyết,Lan,16/12/79,THS,GV,19,17,Thỉnh giảng
+4554,Nguyễn Tấn ,Như,22/08/1989,DH,GV,1,13,Cơ hữu
+4555C,Lê Quý,Minh,,THS,GV,27,17,Thỉnh giảng
+4556C,Huỳnh ,Lợi,,TS,GVC,27,17,Thỉnh giảng
+4557C,Trần Trí,Tri,,THS,GV,27,17,Thỉnh giảng
+4558C,Nguyễn Chí,Đức,,TS,GV,27,17,Thỉnh giảng
+4559C,Đặng Văn,Dân,,TS,GV,27,17,Thỉnh giảng
+4562,Nguyễn Thị Ánh ,Tuyết,20/05/1979,THS,GV,4,13,Cơ hữu
+4563,Nguyễn Ngọc,Án,,THS,GV,419,17,Thỉnh giảng
+4566,Phạm Đức ,Thiện,6/10/1984 0:00,TS,GV,4,13,Cơ hữu
+4567,Nguyễn Hồng,Phúc,,CN,TG,21,17,Thỉnh giảng
+4568,Phan Thị Đỗ,Uyên,,THS,GV,21,17,Thỉnh giảng
+4569,Quan Diễm,Hương,,CN,TG,21,17,Thỉnh giảng
+4570,Lưu Việt ,Hùng,5/10/1978 0:00,TS,TG,17,13,Cơ hữu
+4571,Phạm Đức ,Hậu,19/05/1982,THS,GV,19,13,Cơ hữu
+4572,Nguyễn Thanh ,Bình,27/09/1989,DH,GV,19,13,Cơ hữu
+4573,Nguyễn Sỹ ,Hùng,19/09/1976,TS,TG,4,13,Cơ hữu
+4574,Nguyễn Hữu,Lân,,TS,PGS,417,17,Thỉnh giảng
+4576,Nguyễn Ngọc ,Dương,1/2/1983 0:00,THS,TSU,417,13,Cơ hữu
+4577,Bành Đức ,Dũng,29/07/1977,TS,GV,17,13,Cơ hữu
+4578,Trần Minh,Hiền,,CN,TG,1701,17,Thỉnh giảng
+4579,Nguyễn Thị Như ,Thúy,22/06/1983,THS,GV,19,13,Cơ hữu
+4580,Nguyễn Thị Lan ,Anh,10/10/1988 0:00,THS,GV,27,13,Cơ hữu
+4581,Nguyễn Thị,Misa,,TS,GV,145,17,Thỉnh giảng
+4582,Phạm Thị,Hằng,,DH,TG,145,17,Thỉnh giảng
+4587,Bùi Thanh,Trung,,CN,TG,2206,17,Thỉnh giảng
+4588,Tạ Thị ,Thùy,11/11/1985 0:00,THS,GV,19,13,Cơ hữu
+4589,Bùi Thu ,Anh,18/09/1985,THS,GV,22,13,Cơ hữu
+4590,Hà Duy,Khánh,5/10/1986 0:00,TS,TSU,419,13,Cơ hữu
+4591,Lê Phú,Cường,,THS,GV,419,17,Thỉnh giảng
+4592,Nguyễn Trọng,Phước,,TS,GV,419,17,Thỉnh giảng
+4600C,Nguyễn Quốc,Khánh,,TS,GV,27,17,Thỉnh giảng
+4601C,Lương Đức,Thuận,,THS,TG,27,17,Thỉnh giảng
+4602C,Trần Văn,Hưng,,THS,GV,27,17,Thỉnh giảng
+4603C,Nguyễn Thanh,Hải,,TS,GV,27,17,Thỉnh giảng
+4604,,,,,,,,
+4604C,Vũ Hải,Yến,,THS,GV,27,17,Thỉnh giảng
+4605,Vũ Quốc,Huy,,CN,TG,1701,17,Thỉnh giảng
+4606,Võ Minh,Triết,,CN,TG,1702,17,Thỉnh giảng
+4607,Đỗ Thị Thanh,Hải,,CN,TG,1702,17,Thỉnh giảng
+4608,Nguyễn Trúc,Ly,,CN,TG,1702,17,Thỉnh giảng
+4609,Huỳnh Chí,Cường,,THS,GV,1702,17,Thỉnh giảng
+4620,,,,,,,,
+4627,,,,,,,,
+4666,,,,,,,,
+4688,Đào Tăng,Tín,,THS,GV,145,17,Thỉnh giảng
+4690,Nguyễn Bảo,Quốc,,THS,GV,145,17,Thỉnh giảng
+4691,Trần Đình,Cương,,THS,GV,145,17,Thỉnh giảng
+4692,Nguyễn Tường,Dũng,,TS,GV,162,17,Thỉnh giảng
+4694,Trần Hữu,Khiêm,,THS,GV,145,17,Thỉnh giảng
+4695,Ngô,Việt,,THS,GV,1,17,Thỉnh giảng
+4701,Nguyễn Bá,Duy,,THS,GV,421,17,Thỉnh giảng
+4702,Trần Thị Kim,Hương,,THS,GV,1913,17,Thỉnh giảng
+4703,Nguyễn Hoàng,Anh,,KS,TG,332,17,Thỉnh giảng
+4704,Nguyễn Ngọc,Trường,,CN,TG,1702,17,Thỉnh giảng
+4710,Ngô Quang Thanh ,Thanh,18/04/1985,THS,GV,10,13,Cơ hữu
+4711,Nguyễn Trà Kim ,Quyên,1/1/1989 0:00,DH,GV,10,13,Cơ hữu
+4713,Bùi Tá,Long,,TS,PGS,27,17,Thỉnh giảng
+4715,Đỗ Duy ,Tân,21/03/1987,THS,TSU,1,13,Cơ hữu
+4716,Lương Đức,Minh,,KS,TG,417,17,Thỉnh giảng
+4717,Nguyễn Vinh ,Tiến,28/08/1985,TS,TSU,703,13,Cơ hữu
+4718,Huỳnh ,Phú,,TS,GV,710,17,Thỉnh giảng
+4719,Nguyễn Quang,Trưởng,,TS,GV,27,17,Thỉnh giảng
+4720,Trần Thiên,Phúc,,TS,PGS,27,17,Thỉnh giảng
+4721,Nguyễn Thanh ,Hải,20/07/1968,TS,TG,1,13,Cơ hữu
+4722,Vũ Phan,Tú,,TS,GV,145,17,Thỉnh giảng
+4723,Trương Quang,Tri,,TS,GV,421,17,Thỉnh giảng
+4726,Đỗ Thị Kim,Quyên,,KS,TG,6,17,Thỉnh giảng
+4730,Nguyễn Văn,Tuyên,,TS,GVC,27,17,Thỉnh giảng
+4731,Phạm Minh,Nhựt,,THS,GV,27,17,Thỉnh giảng
+4738,Bùi Thị Mai,Châu,,THS,GV,1885,17,Thỉnh giảng
+4740,Nguyễn Uyên,Chi,,THS,GV,22,17,Thỉnh giảng
+4745,Nguyễn Thị Cát,Uyển,,THS,GV,2206,17,Thỉnh giảng
+4746,Thái Châu,Á,,THS,GV,652,17,Thỉnh giảng
+4747,Ngô Thái,Uyên,,KS,GV,652,17,Thỉnh giảng
+4748,Đinh Quang,Trung,,KS,GV,652,17,Thỉnh giảng
+4749,Phạm Thị Bích,Hà,,CN,GV,652,17,Thỉnh giảng
+4750,Nguyễn Thị Bảo,Nhân,,CN,TG,651,17,Thỉnh giảng
+4751,Lê Văn,Vui,,THS,GV,651,17,Thỉnh giảng
+4752,Chu Mạnh,Đăng,,THS,GV,710,17,Thỉnh giảng
+4753,Nguyễn Duy,Đạt,,THS,GV,710,17,Thỉnh giảng
+4754,Vũ Đình,Khang,,THS,GV,710,17,Thỉnh giảng
+4755,Nguyễn Văn,Huy,,THS,GV,710,17,Thỉnh giảng
+4756,Lê Hồng,Quang,,THS,GV,750,17,Thỉnh giảng
+4757,Trần Thị Ngọc,Yên,,TS,GV,750,17,Thỉnh giảng
+4758,Lê Hồng,Phú,,TS,GV,750,17,Thỉnh giảng
+4759,Nguyễn Văn,Thuận,,THS,GV,2727C,17,Thỉnh giảng
+4760,Lê Thanh,Phong,,THS,GV,750,17,Thỉnh giảng
+4761,Võ Minh,Thạnh,,THS,GV,163,17,Thỉnh giảng
+4762,Nguyễn Thanh,Tâm,,THS,GV,163,17,Thỉnh giảng
+4763,Trần Thanh,Mai,,THS,GVC,163,17,Thỉnh giảng
+4764,Lê Quang ,Chung,15/01/1988,THS,GV,19,13,Cơ hữu
+4766,Nguyễn Phú,Đức,,KS,TG,332,17,Thỉnh giảng
+4771,Võ Thị Ngọc,Dung,,THS,GS,651,17,Thỉnh giảng
+4774,trần thị ,hạnh,18/03/1989,THS,TSU,1701,13,Cơ hữu
+4775,Nguyễn Khánh,Dương,,THS,GV,2206,17,Thỉnh giảng
+4776,Trần Thị Quỳnh ,Như,20/04/1984,THS,GV,140,13,Cơ hữu
+4783,Nguyễn Xuân,Trưởng,,THS,GV,2206,17,Thỉnh giảng
+4784,Nguyễn Minh,Đức,21/03/1987,TS,TSU,418,13,Cơ hữu
+4785,Trần Vũ,Tự,,TS,GV,419,17,Thỉnh giảng
+4786,Nguyễn Quang,Trung,,CN,GV,1913,17,Thỉnh giảng
+4787,Đoàn Thị Hoàng,Hải,,KS,GV,651,17,Thỉnh giảng
+4788,Nguyễn,Nguyên,,THS,GV,6,17,Thỉnh giảng
+4789,Nguyễn,Huấn,,CN,GV,6,17,Thỉnh giảng
+4790,Dương,Thương,,CN,GV,6,17,Thỉnh giảng
+4791,Bùi,Ngọc,,CN,GV,6,17,Thỉnh giảng
+4792,Nguyễn,Khoa,,CN,GV,6,17,Thỉnh giảng
+4793,Hà,Hiểu,,THS,GV,4,17,Thỉnh giảng
+4801,Trần Thị Bích,Lam,,TS,GV,750,17,Thỉnh giảng
+4804,Lê Thị Cẩm,Tú,,THS,GV,1702,17,Thỉnh giảng
+4805,Phan Thị Thùy,Giang,,CN,GV,1702,17,Thỉnh giảng
+4806,Phạm Ngọc,Toàn,,TS,GV,2206,17,Thỉnh giảng
+4807,Nguyễn Minh,Trí,,THS,GV,1913,17,Thỉnh giảng
+4808,Ung Văn,Tuyền,,THS,GV,710,17,Thỉnh giảng
+4809,Nguyễn Minh,Kỳ,21/03/1987,TS,TSU,223,13,Cơ hữu
+4810,Trần Vũ ,Tự,2/8/1982 0:00,TS,GV,419,13,Cơ hữu
+4817,Nguyễn Thị Thu,Thủy,,THS,GV,1701,17,Thỉnh giảng
+4818,Vũ Trung,Kiên,,THS,GV,2206,17,Thỉnh giảng
+4825,Vũ Ngàn,Thương,16/10/1982,THS,TSU,556,13,Cơ hữu
+4836,Nguyễn Trọng,Thắng,,THS,TG,145,17,Thỉnh giảng
+4839,Trần Hương ,Lan,7/10/1986 0:00,TS,TSU,17,13,Cơ hữu
+4888,Nguyễn Trung,Dũng,,THS,GV,710,17,Thỉnh giảng
+4889,Lâm Vĩnh,Sơn,,THS,GV,710,17,Thỉnh giảng
+4902,Nguyễn Anh,Tuấn,,TS,GV,27,17,Thỉnh giảng
+4903,Lê Ngọc,Thạch,,THS,GV,27,17,Thỉnh giảng
+4904,Phạm Tỷ ,Phú,17/02/1989,DH,GV,1,13,Cơ hữu
+4905,Phan Thị Thúy,Liễu,,THS,GV,653,17,Thỉnh giảng
+4906,Lê Thị,Phượng, ,KS,GV,653,17,Thỉnh giảng
+4907,Nguyễn Văn,Nhựt,,CN,GV,653,17,Thỉnh giảng
+4954,Phó,Đăng,,THS,GV,2727C,,
+4956,Trịnh,Ân,,THS,GV,162,,
+4968,Lê,Đức,,TS,PGS,2626,,
+4970,Nguyễn,Bảo,,TS,GV,2610,,
+4972,Phan,Nhàn,,TS,GV,223,,
+4992,Phan,Phương,,THS,GV,2711,,
+6000,Đồng Sĩ ,Linh,6/5/1982 0:00,DH,GV,4343,13,Cơ hữu
+6001,Huỳnh Thị Ngọc ,Thường,29/09/1975,THS,GV,10,13,Cơ hữu
+6002,Trần Kế ,Thuận,5/11/1969 0:00,THS,GV,10,13,Cơ hữu
+6003,Nguyễn Sơn ,Hà,  /  /,THS,GVC,1701,17,Thỉnh giảng
+6004,Trần Thị Bích ,Thủy,  /  /,THS,GVC,1702,17,Thỉnh giảng
+6005,Hoàng Thị Thu ,Hà,  /  /,THS,GV,1702,17,Thỉnh giảng
+6006,Trần Thị Mỹ ,Dung,  /  /,KS,GVC,2138,17,Thỉnh giảng
+6007,Hồ Lê Thụy ,Khanh,  /  /,KS,GVC,2138,17,Thỉnh giảng
+6008,Mai Tường ,Vi,  /  /,KS,GV,2136,17,Thỉnh giảng
+6009,Nguyễn Thị Hồng ,Mỹ,1/1/1962 0:00,THS,GV,21,13,Cơ hữu
+6010,Lê Văn ,Đồng,  /  /,THS,GV,1701,17,Thỉnh giảng
+6011,Phạm Thị Ngọc ,Ánh,14/05/1972,THS,GV,21,13,Cơ hữu
+6012,Trần Đăng ,Thịnh,12/5/1958 0:00,TS,GVC,22,13,Cơ hữu
+6013,Nguyễn Văn ,Quận,13/03/1959,THS,GV,19,13,Cơ hữu
+6014,Lê Thị Oanh ,Oanh,  /  /,TCCN,GV,1913,17,Thỉnh giảng
+6015,Nguyễn Quang ,Huy,  /  /,THS,TG,651,17,Thỉnh giảng
+6301,Nguyễn Văn ,Khải,  /  /,KS,TG,163,17,Thỉnh giảng
+6302,Trương Tấn ,Phát,  /  /,KS,TG,163,17,Thỉnh giảng
+6303,Lương Hữu ,Linh,  /  /,CN,TG,2104,17,Thỉnh giảng
+6304,Nguyễn Thị Bích ,Mai,4/11/1983 0:00,THS,GV,1,13,Cơ hữu
+6305,Nguyễn Thị Mi ,Sa,24/04/1984,TS,GV,1,13,Cơ hữu
+6306,Phan Thị Xuân,Hạnh,,THS,GV,710,17,Thỉnh giảng
+6310,,,,,,,,
+6629,,,,,,,,
+6666,Trương Vĩnh,An_,  /  /,THS,GV,1701,17,Thỉnh giảng
+6725,Vũ,Việt,26/11/1973,CN,GV,2626,,
+6813,Vũ Trọng,Luật,2/1/1975 0:00,THS,TG,3519,13,Cơ hữu
+6868,Trần Nguyên ,Thái,6/8/1983 0:00,DH,TG,26,13,Cơ hữu
+6869,Đinh Nhật,Huy,24/05/1988,THS,TSU,229,13,Cơ hữu
+7036,Lê Thanh ,Lâm,22/08/1986,THS,GV,1,13,Cơ hữu
+7037,Lê Tấn Thanh ,Tùng,10/6/1986 0:00,THS,GV,1,13,Cơ hữu
+7038,Nguyễn Ngọc ,Hiển,  /  /,KS,TG,145,17,Thỉnh giảng
+7039,Lê Ngô Đông ,Đỉnh,  /  /,THS,GV,163,17,Thỉnh giảng
+7040,Phan Vân ,Hoàn,22/01/1986,THS,GV,1,13,Cơ hữu
+7041,Trần Đức ,Thiện,6/10/1987 0:00,THS,GV,1,13,Cơ hữu
+7042,Trần Vũ ,Hoàng,18/03/1990,DH,GV,1,13,Cơ hữu
+7489,Huỳnh Ngọc ,Mai,  /  /,THS,GV,163,17,Thỉnh giảng
+7490,Trần Văn ,Sướng_0,  /  /,THS,TG,146,17,Thỉnh giảng
+7777,Nguyễn Kiên ,Cường,14/05/80,THS,TG,2207,17,Thỉnh giảng
+7913,Nguyễn Lan ,Anh,  /  /,THS,GV,162,17,Thỉnh giảng
+7914,Lê Thị Ngọc ,Lan,  /  /,THS,GV,2207,17,Thỉnh giảng
+8436,Nguyễn Trung,Thắng,,THS,TG,145,17,Thỉnh giảng
+8796,Nguyễn Thanh ,Hải,  /  /,THS,GVC,141,17,Thỉnh giảng
+8797,Vũ Thị Tường ,Vân,  /  /,THS,GVC,890,17,Thỉnh giảng
+8798,Trịnh Xuân ,Thu,  /  /,THS,GVC,890,17,Thỉnh giảng
+8799,Đỗ Thị ,Hồng,  /  /,THS,GV,890,17,Thỉnh giảng
+8810,,,,,,,,
+8888,Nguyễn Văn ,Long,20/02/1978,DH,TG,18,13,Cơ hữu
+8980,Đặng Văn,Giáp,,CN,TG,1913,17,Thỉnh giảng
+8981,Tạ Thị Ngọc ,Nhung,  /  /,KS,TG,651,17,Thỉnh giảng
+8982,Trần Thị Cẩm ,Tú,2/1/1985 0:00,THS,GV,6,13,Cơ hữu
+8983,Nguyễn Vũ ,Tuân,  /  /,KS,TG,651,17,Thỉnh giảng
+8984, ,Quy,  /  /,CN,TG,651,17,Thỉnh giảng
+8985,Nguyễn Hữu ,Lộc,  /  /,TS,GS,223,17,Thỉnh giảng
+8986,Nguyễn Đắc ,Hưng,  /  /,THS,TG,225,17,Thỉnh giảng
+8987,Ngô ,Sỹ,  /  /,THS,GV,140,17,Thỉnh giảng
+8988,Võ Bá ,Tầm,  /  /,THS,GVC,417,17,Thỉnh giảng
+8989,Bùi Văn ,Chúng,  /  /,THS,GVC,417,17,Thỉnh giảng
+8990,Phạm Đức ,Phương,  /  /,THS,GV,710,17,Thỉnh giảng
+8991,Lê Đình ,Tuân,  /  /,CN,GVC,421,17,Thỉnh giảng
+900,Nguyễn Vinh ,Quan,15/03/1963,THS,GV,1,13,Cơ hữu
+9000,Nguyễn Ngọc ,Linh,  /  /,THS,GV,162,17,Thỉnh giảng
+9001,Sử Thị Ái ,Mỹ,2/5/1970 0:00,THS,GV,21,13,Cơ hữu
+9002,Nguyễn Thị,Nga_,  /  /,THS,GV,2104,17,Thỉnh giảng
+9003,Trần Thị Thanh ,Loan,  /  /,THS,TG,2104,17,Thỉnh giảng
+9004,Nguyễn Thị Minh ,Tâm,31/10/1973,THS,GV,2137,17,Thỉnh giảng
+9005,Nguyễn Phúc ,Châu,  /  /,THS,GVC,555,17,Thỉnh giảng
+9006,Phan Ngọc Mỹ ,Tuý,  /  /,THS,GV,421,17,Thỉnh giảng
+9007,Ngô Anh ,Tuấn,15/11/1970,TS,PGS,8,13,Cơ hữu
+9008,Nguyễn Ngọc ,Sơn(55),  /  /,THS,GVC,555,17,Thỉnh giảng
+9009,Nguyễn Thị Chung ,Ly,  /  /,THS,GVC,555,17,Thỉnh giảng
+9010,Ngô Thị Thùy ,Hương,  /  /,THS,GVC,555,17,Thỉnh giảng
+9011,Đinh Xuân ,Lộc,  /  /,CN,GVC,1701,17,Thỉnh giảng
+9012,Ngô Hữu ,Tâm,24/02/1971,DH,GV,17,13,Cơ hữu
+9013,Cao Thị Thanh ,Hà,  /  /,KS,GVC,1701,17,Thỉnh giảng
+9014,Phạm Phú ,Mai,20/06/1954,DH,GV,1701,17,Thỉnh giảng
+9015,Đỗ ,Hoàng,15/09/1950,DH,GV,703,17,Thỉnh giảng
+9016,Huỳnh Minh ,Ngọc,9/6/1962 0:00,THS,GV,7,13,Cơ hữu
+9017,Võ Văn ,Hoàng,  /  /,TS,GVC,1702,17,Thỉnh giảng
+9018,Nguyễn Trung ,Kiên,30/10/1978,TS,PGS,4,13,Cơ hữu
+9019,Huỳnh Quang ,Chiến,25/10/1968,THS,GV,17,13,Cơ hữu
+9020,Nguyễn Ngọc ,Thích,  /  /,TS,GVC,750,17,Thỉnh giảng
+9021,Hồ Thị Yêu ,Ly,30/07/1976,TS,GV,7,13,Cơ hữu
+9022,Nguyễn Thanh ,Mẫn,  /  /,THS,GV,1701,17,Thỉnh giảng
+9023,Đỗ Thị ,Bình,  /  /,CN,GV,2104,17,Thỉnh giảng
+9024,Nguyễn Vinh,Quan_,  /  /,THS,GV,145,17,Thỉnh giảng
+9025,Nguyễn Văn ,Lợi,  /  /,CN,GV,2104,17,Thỉnh giảng
+9026,Trần Văn ,Lợt,  /  /,THS,GV,1609,17,Thỉnh giảng
+9027,Võ Thị Thu ,Như,15/02/1979,THS,GV,7,13,Cơ hữu
+9028,Trần Trung,Thắng,,THS,GV,145,17,Thỉnh giảng
+9031,Trương Thị Thu,Hương,,THS,GV,2206,17,Thỉnh giảng
+9032,Phạm Kim ,Tuyền,  /  /,TS,GVC,1702,17,Thỉnh giảng
+9033,Trần Thị Thiên ,Hương,28/06/1954,THS,GVC,1702,17,Thỉnh giảng
+9034,Lê Đình ,Viện,  /  /,THS,GVC,750,17,Thỉnh giảng
+9035,Nguyễn Thị Ngọc ,Thắm,  /  /,THS,GVC,652,17,Thỉnh giảng
+9036,Anh ,Thư(av),  /  /,THS,GV,2104,17,Thỉnh giảng
+9037,Đào Duy ,Thanh,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9038,Lương Văn ,Hùng,  /  /,THS,GV,750,17,Thỉnh giảng
+9039,Vũ Trọng ,Duyệt,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9040,Phương ,Liên,  /  /,THS,GV,1905,17,Thỉnh giảng
+9041,Lê Thượng ,Nhạ,  /  /,THS,GVC,1702,17,Thỉnh giảng
+9042,Đinh Thị ,Hài,  /  /,THS,GV,1702,17,Thỉnh giảng
+9043,Nguyễn Văn ,Dụng,  /  /,CN,GV,1702,17,Thỉnh giảng
+9044,Hoàng Đình ,Sơn,26/07/1945,DH,GVC,703,17,Thỉnh giảng
+9045,Thầy ,Văn,  /  /,THS,GV,1708,17,Thỉnh giảng
+9046,Khúc Thành ,Quế,  /  /,THS,GV,1708,17,Thỉnh giảng
+9047,Nguyễn Văn ,Đoàn,5/6/1981 0:00,THS,GV,2,13,Cơ hữu
+9048,Nguyễn Văn ,Ngạn,  /  /,THS,GV,1708,17,Thỉnh giảng
+9049,Lâm Thị ,Thảo,3/11/1958 0:00,THS,GVC,1609,17,Thỉnh giảng
+9050,Nguyễn Văn ,Trưởng,30/07/1954,DH,GV,1609,17,Thỉnh giảng
+9051,Bùi Văn ,Nhiều,11/2/1950 0:00,DH,GV,1609,17,Thỉnh giảng
+9052,Võ Thanh ,Bình,18/02/1959,DH,TG,41THKT1,13,Cơ hữu
+9053,Vương Bạch ,Tuyết,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9054,Lê Thị Mỹ ,Phước,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9055,Lâm Thanh ,Hiền,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9056,Lê Thanh ,Phúc,5/7/1981 0:00,TS,GV,26,13,Cơ hữu
+9057,Trần Thanh ,Hải,  /  /,KS,TG,143,17,Thỉnh giảng
+9058,Trần Văn ,Tuyền_0,  /  /,THS,GV,1913,17,Thỉnh giảng
+9059,Đặng Duy ,Mai,  /  /,THS,GV,1702,17,Thỉnh giảng
+9060,Phạm Kim ,Anh,  /  /,CN,GV,1702,17,Thỉnh giảng
+9061,Đặng Thị Diệu ,Hiền,10/12/1978 0:00,THS,GV,8,13,Cơ hữu
+9062,Dương Quang ,Thiện,  /  /,THS,GV,421,17,Thỉnh giảng
+9063,Nguyễn Ngọc ,Trung,  /  /,THS,GV,421,17,Thỉnh giảng
+9064,Nguyễn Hữu ,Long,  /  /,KS,GV,1913,17,Thỉnh giảng
+9065,Nguyễn Lê ,Tuấn,  /  /,CN,GV,1702,17,Thỉnh giảng
+9066,Đinh Huyền ,Hương,  /  /,THS,GV,1702,17,Thỉnh giảng
+9067,Nguyễn Duy ,Thanh,  /  /,THS,GVC,1701,17,Thỉnh giảng
+9068,Trần Anh ,Tuấn,  /  /,THS,GV,1701,17,Thỉnh giảng
+9069,Dương Ngọc ,Hảo,21/12/1974,THS,GV,1701,17,Thỉnh giảng
+9070,Trần ,Hành,  /  /,THS,GVC,1701,17,Thỉnh giảng
+9071,Phạm Quang ,Vinh,  /  /,THS,GV,1701,17,Thỉnh giảng
+9072,Phan Tường ,Linh,  /  /,THS,GV,1701,17,Thỉnh giảng
+9073,Nguyễn Nhật ,Minh,  /  /,THS,GV,1701,17,Thỉnh giảng
+9074,Nguyễn Đức ,Lượng,  /  /,KS,GV,750,17,Thỉnh giảng
+9075,Tô Quang ,Nghĩa,  /  /,THS,GV,1905,17,Thỉnh giảng
+9076,Huỳnh Văn ,Hường,  /  /,CN,GV,1701,17,Thỉnh giảng
+9077,Trần Quốc ,Trị,  /  /,THS,GVC,1708,17,Thỉnh giảng
+9078,Nguyễn Quốc ,Văn,  /  /,THS,GV,1708,17,Thỉnh giảng
+9079,Trần Tiến ,Đức,20/07/1962,THS,GVC,18,13,Cơ hữu
+9080,Cô ,Hồng,  /  /,THS,GV,1881,17,Thỉnh giảng
+9081,Thầy ,Lai,  /  /,THS,GVC,555,17,Thỉnh giảng
+9082,Nguyễn Văn ,Phước,  /  /,THS,GV,1702,17,Thỉnh giảng
+9083,Phạm Văn ,Chung,  /  /,THS,GVC,1879,17,Thỉnh giảng
+9084,Bùi Bích ,Ngọc,  /  /,THS,GV,1884,17,Thỉnh giảng
+9085,Đặng Trường ,Sơn,1/9/1966 0:00,TS,GV,606,13,Cơ hữu
+9086,Lê Hồng ,Sơn,  /  /,KS,TG,144,17,Thỉnh giảng
+9095,Nguyễn Mạnh ,Huy,  /  /,THS,GVC,555,17,Thỉnh giảng
+9096,Hồ Đức ,Hùng,  /  /,KS,PGS,651,17,Thỉnh giảng
+9097,Trần Thị ,Rồi,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9098,Đặng Thanh ,Bình,  /  /,CN,TG,1881,17,Thỉnh giảng
+9099,Mai Chiêm ,Tuấn,  /  /,KS,TG,1881,17,Thỉnh giảng
+9100,Đinh Huy ,Nhân,2/9/1954 0:00,THS,GVC,1905,17,Thỉnh giảng
+9101,Đàm Anh ,Tuấn,  /  /,KS,GVC,1905,17,Thỉnh giảng
+9102,Trần Thị Minh ,Sa,  /  /,KS,GV,652,17,Thỉnh giảng
+9103,Lê Sỹ ,Hoàng,  /  /,THS,CG,652,17,Thỉnh giảng
+9104,Lê Văn ,Khoan,  /  /,KS,GV,1879,17,Thỉnh giảng
+9105,Dương Đức ,Hưng,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9106,Dương Đình ,Đức,  /  /,CN,GV,1702,17,Thỉnh giảng
+9107,Dương Tôn ,Đảm,  /  /,TS,GVC,1701,17,Thỉnh giảng
+9108,Lâm Ngọc ,ánh,  /  /,THS,GV,703,17,Thỉnh giảng
+9109,Lê Thị Kim ,Chi,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9110,Bạch Quốc ,Trám,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9111,Hồ Thị Ánh ,Tuyết,5/12/1963 0:00,THS,GV,4343,13,Cơ hữu
+9112,Lê Công ,Lượng,  /  /,THS,GV,651,17,Thỉnh giảng
+9113,Trần Hưng ,Vinh,18/09/1969,THS,GV,2727C,17,Thỉnh giảng
+9114,Đào Như ,Nguyện,  /  /,THS,GV,2104,17,Thỉnh giảng
+9115,Nguyễn Văn ,Đức,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9116,Nguyễn Thiên ,Bảo,4/4/1980 0:00,THS,GV,18,13,Cơ hữu
+9117,Ngô ,Đạt,  /  /,THS,GVC,2206,17,Thỉnh giảng
+9118,Nguyễn Tấn ,Phước,  /  /,KS,TG,146,17,Thỉnh giảng
+9119,Nguyễn Nhân ,Bổn,19/02/1974,THS,GV,1,13,Cơ hữu
+9120,Huỳnh Thị ,Lành,  /  /,KS,GVC,1702,17,Thỉnh giảng
+9121,Trương Thị Tây ,Hà (02),  /  /,THS,GV,1702,17,Thỉnh giảng
+9122,Hoàng Thị Minh ,Hà (02),  /  /,KS,GV,1702,17,Thỉnh giảng
+9123,Vũ Thị Hồng ,Thuỷ,  /  /,KS,GV,703,17,Thỉnh giảng
+9124,Trương Đình ,Bảo,  /  /,THS,GVC,555,17,Thỉnh giảng
+9125,Phan Minh ,Tùng,  /  /,THS,GV,555,17,Thỉnh giảng
+9126,Nguyễn Nam ,Điện,  /  /,THS,GVC,555,17,Thỉnh giảng
+9127,Trần Tiến ,Khoa,  /  /,THS,GV,1881,17,Thỉnh giảng
+9128,Tạ Minh ,Hải,  /  /,THS,GV,1881,17,Thỉnh giảng
+9129,Lê Anh ,Thư(55),  /  /,THS,GVC,555,17,Thỉnh giảng
+9130,Nguyễn Khoa ,Cát,  /  /,THS,GV,555,17,Thỉnh giảng
+9131,Lê Đức ,Khánh,  /  /,THS,GV,555,17,Thỉnh giảng
+9132,Thầy ,Định(in,  /  /,THS,GVC,555,17,Thỉnh giảng
+9133,Trần Thu ,Lan,  /  /,THS,GV,651,17,Thỉnh giảng
+9134,Phạm Tuấn ,Mỹ,  /  /,THS,GV,1701,17,Thỉnh giảng
+9135,Phạm ,Thăng,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9136,Châu Minh ,Quang,  /  /,THS,GV,227,17,Thỉnh giảng
+9137,Mai Kỳ ,Kiệm,  /  /,THS,GVC,2206,17,Thỉnh giảng
+9138,Nguyễn Vũ Thủy ,Tiên,28/03/1973,THS,GV,21,13,Cơ hữu
+9139,Từ Thị Mỹ ,Thuận,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9140,Trần Văn ,Lợt,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9141,Nguyễn Văn ,Kế,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9142,Hồ Minh ,Hương,  /  /,TS,GVC,651,17,Thỉnh giảng
+9143,Phan Nhất ,Nguyên,  /  /,THS,GV,651,17,Thỉnh giảng
+9144,Đinh Văn ,Gắng,  /  /,THS,GVC,1701,17,Thỉnh giảng
+9145,Nguyễn Văn ,Tấn,2/2/1964 0:00,DH,GV,1172,13,Cơ hữu
+9146,Trần Thanh ,Hoàng,  /  /,THS,GV,1880,17,Thỉnh giảng
+9147,Đỗ Thành ,Trung,22/11/1977,TS,PGS,1909,13,Cơ hữu
+9148,Lê Công ,Danh,16/07/1975,THS,GV,5,13,Cơ hữu
+9149,Lê Cảnh ,Trung,  /  /,THS,GV,162,17,Thỉnh giảng
+9150,Nguyễn Bá ,Toàn,1/9/1958 0:00,THS,GVC,1879,17,Thỉnh giảng
+9151,Phan Văn ,Lân,  /  /,THS,GVC,1913,17,Thỉnh giảng
+9152,Nguyễn Đức ,Thành,  /  /,THS,GV,1913,17,Thỉnh giảng
+9153,Nguyễn Trần Thi ,Văn,1/1/1980 0:00,DH,GV,18,13,Cơ hữu
+9154,Nguyễn Văn ,Long,  /  /,KS,TG,1879,17,Thỉnh giảng
+9155,Dương Minh ,Trí,  /  /,KS,GV,1879,17,Thỉnh giảng
+9156,Lê Cảnh ,Hường,  /  /,CN,GVC,1701,17,Thỉnh giảng
+9157,Thầy ,Cáp,  /  /,THS,GV,1701,17,Thỉnh giảng
+9158,Nguyễn Thúc ,Trí,  /  /,THS,TG,1905,17,Thỉnh giảng
+9159,Nguyễn Quốc ,Hùng(05,  /  /,THS,TG,1905,17,Thỉnh giảng
+9160,Nguyễn Bình,An_,  /  /,THS,TG,1905,17,Thỉnh giảng
+9161,Cao Thanh ,Vân,  /  /,THS,GV,2207,17,Thỉnh giảng
+9162,Võ Thanh ,Tân,29/07/1963,TS,GVC,17,13,Cơ hữu
+9163,Ngọc Kiên ,Cường,  /  /,THS,GVC,1879,17,Thỉnh giảng
+9164,Đỗ Đình ,Thuấn,5/7/1980 0:00,TS,GV,1,13,Cơ hữu
+9165,Lê Tấn ,Phước,  /  /,THS,GV,1881,17,Thỉnh giảng
+9166,Lưu Thư ,Nghị,  /  /,THS,GVC,703,17,Thỉnh giảng
+9167,Lê ,Linh,4/4/1976 0:00,THS,GV,2,13,Cơ hữu
+9168,Lê Quốc ,Hùng,  /  /,KS,GV,750,17,Thỉnh giảng
+9169,Huỳnh Lê ,Quốc,  /  /,TS,GVC,651,17,Thỉnh giảng
+9170,Nguyễn Đức ,Trọng,  /  /,THS,GV,1708,17,Thỉnh giảng
+9171,Nguyễn Đức ,Hiệp,  /  /,THS,GV,1708,17,Thỉnh giảng
+9172,Phạm Văn ,Boong,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9173,Nguyễn Kim ,Quang,  /  /,TS,GVC,1702,17,Thỉnh giảng
+9174,Lê Trung ,Cương,  /  /,TS,GVC,421,17,Thỉnh giảng
+9175,Nguyễn Thị Xuân ,Phượng,  /  /,THS,TG,2104,17,Thỉnh giảng
+9176,Nguyễn Thị Toàn ,Ngọc,  /  /,THS,GV,2104,17,Thỉnh giảng
+9177,Lê Thị Thanh ,Hà,1/7/1973 0:00,THS,GV,21,13,Cơ hữu
+9178,Đỗ Văn ,Hòa,  /  /,THS,GV,1881,17,Thỉnh giảng
+9179,Phan Thị An ,Ninh,  /  /,THS,GV,703,17,Thỉnh giảng
+9180,Võ Đình ,Châu,  /  /,TS,GVC,1702,17,Thỉnh giảng
+9181,Lê Thanh ,Phong,18/09/1971,THS,GV,4,13,Cơ hữu
+9182,Nguyễn Thị ,Tiết,  /  /,THS,GV,1609,17,Thỉnh giảng
+9183,Võ Văn Huy ,Hoàng,  /  /,TS,GVC,142,17,Thỉnh giảng
+9184,Hô Văn Nhật ,Chương,  /  /,TS,GVC,142,17,Thỉnh giảng
+9185,Nguyễn Viết ,Khiêm,  /  /,KS,GV,142,17,Thỉnh giảng
+9186,Phan Thanh ,Vân,  /  /,THS,GV,142,17,Thỉnh giảng
+9187,Nguyễn Hoàng ,Việt,  /  /,TS,PGS,142,17,Thỉnh giảng
+9188,Phan Kế ,Phúc,  /  /,THS,GVC,142,17,Thỉnh giảng
+9189,Nguyễn Thanh ,Sơn,  /  /,KS,TG,142,17,Thỉnh giảng
+9190,Nguyễn Văn ,Nhờ,  /  /,TS,GVC,142,17,Thỉnh giảng
+9191,Nguyễn Mộng ,Hùng,  /  /,TS,GVC,142,17,Thỉnh giảng
+9192,Nguyễn Mạnh ,Hùng,22/04/1986,THS,GV,1,13,Cơ hữu
+9193,Hồ Văn ,Cừu,  /  /,THS,GV,140,17,Thỉnh giảng
+9194,Tạ Công ,Đức,  /  /,THS,GV,140,17,Thỉnh giảng
+9195,Nguyễn Thanh ,Hải,  /  /,THS,TG,140,17,Thỉnh giảng
+9196,Lư Công ,Văn,  /  /,THS,GVC,140,17,Thỉnh giảng
+9197,Nguyễn Thị ,Ngoạn,1/1/1950 0:00,DH,GVC,1701,17,Thỉnh giảng
+9198,Nguyễn Tấn ,Nhân,  /  /,KS,TG,140,17,Thỉnh giảng
+9199,Phạm Ngọc ,Bích,  /  /,KS,TG,142,17,Thỉnh giảng
+9200,Lê Thị Minh ,Nghĩa,  /  /,TS,GVC,332,17,Thỉnh giảng
+9201,Phan Thị Tịnh ,Nhơn,  /  /,CN,TG,2104,17,Thỉnh giảng
+9202,Nguyễn Trần Minh ,Nguyệt,11/11/1981 0:00,THS,GV,1,13,Cơ hữu
+9203,Vũ Văn ,Trường,  /  /,THS,GV,1702,17,Thỉnh giảng
+9204,Lê Phước ,Hưng,  /  /,KS,TG,163,17,Thỉnh giảng
+9205,Nguyễn Thị ,Bình,  /  /,THS,GV,1905,17,Thỉnh giảng
+9206,Nguyễn Vinh ,Lan,  /  /,TS,GVC,703,17,Thỉnh giảng
+9207,Thạc ,San,  /  /,THS,GV,1905,17,Thỉnh giảng
+9208,Đỗ Thị ,Cúc,  /  /,THS,GVC,891,17,Thỉnh giảng
+9209,Nguyễn Ngọc ,Tùng,  /  /,CN,TG,163,17,Thỉnh giảng
+9210,Trần Văn ,Dư,  /  /,THS,GV,1609,17,Thỉnh giảng
+9211,Võ Đình ,Quang,  /  /,TS,GVC,1609,17,Thỉnh giảng
+9212,Nguyễn Thị ,Hồng(91,  /  /,CN,GVC,891,17,Thỉnh giảng
+9213,Nguyễn Triều ,Lan,  /  /,THS,GV,1702,17,Thỉnh giảng
+9214,Lâm Quang ,Vinh,  /  /,THS,GV,1702,17,Thỉnh giảng
+9215,Bùi Văn ,Miên,  /  /,TS,PGS,1609,17,Thỉnh giảng
+9216,Nguyễn Công ,Toản(08,  /  /,KS,TG,1905,17,Thỉnh giảng
+9217,Trần ,Linh(08,  /  /,KS,TG,1708,17,Thỉnh giảng
+9218,Đỗ Kim ,Thành08,  /  /,KS,TG,1905,17,Thỉnh giảng
+9219,Trịnh Giang ,Hồng(08,  /  /,KS,TG,1708,17,Thỉnh giảng
+9220,Hoàng Văn ,Luân(08,  /  /,KS,TG,1708,17,Thỉnh giảng
+9221,Nguyễn Minh ,Tơí(08),  /  /,KS,TG,1905,17,Thỉnh giảng
+9222,Đỗ Kiều ,Lân,  /  /,KS,GV,651,17,Thỉnh giảng
+9223,Nguyễn Lân ,Đính,  /  /,KS,GVC,750,17,Thỉnh giảng
+9224,Sơn ,Nam,  /  /,CN,GVC,750,17,Thỉnh giảng
+9225,Trần Đức ,Ba,  /  /,THS,GS,750,17,Thỉnh giảng
+9226,Phan Xích ,Liên,  /  /,TS,PGS,750,17,Thỉnh giảng
+9227,Võ Thị Mỹ ,Vân,  /  /,KS,GV,750,17,Thỉnh giảng
+9228,Bùi Thị Lan ,Phương,  /  /,KS,GV,750,17,Thỉnh giảng
+9229,Trịnh Công ,Bằng,  /  /,KS,GV,750,17,Thỉnh giảng
+9230,Lê Sơn ,Hải,12/5/1978 0:00,THS,GV,17,13,Cơ hữu
+9231,Lê Kỳ ,Sơn,  /  /,CN,GV,2206,17,Thỉnh giảng
+9232,Trương Văn ,Vĩ,  /  /,THS,GV,1905,17,Thỉnh giảng
+9233,Nguyễn Huy ,Cang,  /  /,THS,GV,1701,17,Thỉnh giảng
+9234,Lê ,Trấn,  /  /,TS,GVC,1702,17,Thỉnh giảng
+9235,Nguyễn Xuân ,Khá,  /  /,THS,GV,1702,17,Thỉnh giảng
+9236,Đỗ Quang ,Bình,1/5/1964 0:00,TS,PGS,17,13,Cơ hữu
+9237,Lê Vũ Tuấn ,Hùng,  /  /,THS,GV,1702,17,Thỉnh giảng
+9238,Huỳnh Phước ,Sơn,2/2/1967 0:00,THS,GV,3,13,Cơ hữu
+9239,Nguyễn Thị ,Đào,  /  /,THS,TG,750,17,Thỉnh giảng
+9240,Nguyễn ,Hoàn,  /  /,KS,GV,555,17,Thỉnh giảng
+9241,Huỳnh Trà ,Ngộ,  /  /,THS,GVC,555,17,Thỉnh giảng
+9242,Mai Đức ,Đãi,7/10/1977 0:00,TS,GV,4,13,Cơ hữu
+9243,Nguyễn Kim ,Cương,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9244,Lê Khắc ,Bình,  /  /,TS,PGS,1702,17,Thỉnh giảng
+9245,Trương Quang ,Nghĩa,  /  /,TS,PGS,1702,17,Thỉnh giảng
+9246,Nguyễn Văn ,Trực,  /  /,CN,GVC,1701,17,Thỉnh giảng
+9247,Trần Thị Bích ,Liên(05,  /  /,THS,GV,1905,17,Thỉnh giảng
+9248,Đỗ Văn ,Trung,  /  /,CN,TG,1913,17,Thỉnh giảng
+9249,Hà Mạnh ,Hùng(05,  /  /,CN,GV,1913,17,Thỉnh giảng
+9250,Đoàn Trung ,Dung,  /  /,CN,TG,1905,17,Thỉnh giảng
+9251,Võ Hoàng ,Trụ,  /  /,THS,GV,1609,17,Thỉnh giảng
+9252,Lê Thị Thanh ,Vang,  /  /,THS,TG,2104,17,Thỉnh giảng
+9253,Nguyễn Ngọc ,Anh,  /  /,THS,TG,652,17,Thỉnh giảng
+9254,Phạm Hồng ,Liên,23/02/1957,TS,PGS,1,13,Cơ hữu
+9255,Trương Việt ,Anh,4/10/1971 0:00,TS,PGS,1,13,Cơ hữu
+9256,Đinh Ngọc ,Sang,  /  /,KS,GV,142,17,Thỉnh giảng
+9257,Nguyễn Văn ,Tâm,3/1/1978 0:00,DH,TG,140,17,Thỉnh giảng
+9258,Nguyễn Quốc ,Hùng(03,  /  /,THS,GV,703,17,Thỉnh giảng
+9259,Trương Ngọc ,Anh,5/12/1979 0:00,THS,GV,1,13,Cơ hữu
+9260,Bùi Thị Tuyết ,Đan,8/6/1978 0:00,THS,GV,1,13,Cơ hữu
+9261,Trương Hữu ,Hoan(20,  /  /,KS,GV,220,17,Thỉnh giảng
+9262,Nguyễn Thị Lại ,Giang,21/04/1972,THS,GV,5,13,Cơ hữu
+9263,Đỗ Kiều ,Lân(50),  /  /,KS,TG,750,17,Thỉnh giảng
+9264,Phạm Thiện ,Nhường,  /  /,KS,TG,750,17,Thỉnh giảng
+9265,Huỳnh Triết ,Dũng(50,  /  /,KS,TG,750,17,Thỉnh giảng
+9266,Đỗ Thanh ,Hưng,  /  /,CN,TG,1702,17,Thỉnh giảng
+9267,Trần Thiện ,Huân,4/2/1980 0:00,THS,GV,17,13,Cơ hữu
+9268,Phạm Ngọc ,Sơn(02),  /  /,THS,GV,1702,17,Thỉnh giảng
+9269,Phạm Thị Thanh ,Tâm(09),  /  /,THS,GV,1609,17,Thỉnh giảng
+9270,Nguyễn Quốc ,Nghiêm,8/6/1970 0:00,THS,GV,3,13,Cơ hữu
+9271,Phạm Ngọc ,Quý(01),  /  /,THS,GV,1701,17,Thỉnh giảng
+9272,Lê Ngọc ,Tú,  /  /,KS,GV,652,17,Thỉnh giảng
+9273,Quách Trung ,Dũng,  /  /,THS,TG,220,17,Thỉnh giảng
+9274,Lê Phương ,Liên,  /  /,THS,GV,1905,17,Thỉnh giảng
+9275,Huỳnh Thu ,Hằng,  /  /,THS,TG,555,17,Thỉnh giảng
+9276,Lê Thanh ,Tân,25/04/1979,THS,GV,1,13,Cơ hữu
+9277,Nguyễn Văn ,Trạng,14/01/1980,TS,GV,3,13,Cơ hữu
+9278,Dương Huy ,Hoàng,11/2/1980 0:00,DH,GV,2,13,Cơ hữu
+9279,Hoàng Trọng ,Nghĩa,1/6/1969 0:00,DH,GV,2,13,Cơ hữu
+9280,Nguyễn Thị Phương ,Thảo,  /  /,KS,TG,227,17,Thỉnh giảng
+9281,Tạ Thị Huỳnh ,Như,31/12/1978,THS,GV,17,13,Cơ hữu
+9282,Nguyễn Thanh ,Dũng(02,  /  /,CN,GV,1702,17,Thỉnh giảng
+9283,Nguyễn Thị ,Phượng,11/4/1984 0:00,THS,TG,19,13,Cơ hữu
+9284,Phạm Quang ,Lâm,  /  /,THS,GV,1701,17,Thỉnh giảng
+9285,Trần Thái ,Nguyên,  /  /,CN,TG,1702,17,Thỉnh giảng
+9286,Ngô Xuân ,Haỉ(02),  /  /,CN,TG,1702,17,Thỉnh giảng
+9287,Nguyễn ,Định,  /  /,KS,TG,220,17,Thỉnh giảng
+9288,Nguyễn Minh ,Chương,  /  /,THS,GV,163,17,Thỉnh giảng
+9289,Đào Duy ,Thái,  /  /,KS,GV,651,17,Thỉnh giảng
+9290,Tạ Văn ,Phương,10/8/1980 0:00,THS,GV,1,13,Cơ hữu
+9291,Lý Tú ,Nga,  /  /,KS,GV,163,17,Thỉnh giảng
+9292,Hồ Thị ,Phượng,  /  /,THS,GV,1905,17,Thỉnh giảng
+9293,Nguyễn Văn ,Sức,23/08/1953,TS,PGS,7,13,Cơ hữu
+9294,Nguyễn Đặng Mỹ ,Duyên,17/12/1980,THS,GV,7,13,Cơ hữu
+9295,Nguyễn Anh ,Tôn,  /  /,KS,TG,750,17,Thỉnh giảng
+9296,Vũ Trần Khánh ,Linh,15/08/1983,THS,GV,7,13,Cơ hữu
+9297,Trương Thị Thu ,Hiền,  /  /,CN,TG,143,17,Thỉnh giảng
+9298,Phan Ngọc ,Huy,  /  /,THS,GV,1913,17,Thỉnh giảng
+9299,Trần Thị ,Dung,  /  /,THS,GVC,750,17,Thỉnh giảng
+9301,Đào Ngọc ,Minh,  /  /,CN,GVC,703,17,Thỉnh giảng
+9302,Nguyễn Bình ,Minh,  /  /,KS,GV,651,17,Thỉnh giảng
+9303,Dương Kiều ,Linh,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9304,Đặng Thị Bích ,Phượng,  /  /,THS,GV,1905,17,Thỉnh giảng
+9305,Đỗ Văn ,Ngoãn,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9306,Nguyễn Vũ ,Lân,2/5/1981 0:00,TS,GV,1909,13,Cơ hữu
+9307,Lê Tấn ,Cường,9/9/1981 0:00,THS,GV,2,13,Cơ hữu
+9308,Nguyễn Văn ,Sơn,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9309,Nguyễn Tiến ,Lợi,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9310,Nguyễn Thị Thanh ,Hương,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9311,Nguyễn Thiện ,Duy,  /  /,TS,GV,2206,17,Thỉnh giảng
+9312,Nguyễn Thị Thanh ,Vân,12/7/1981 0:00,THS,GV,22,13,Cơ hữu
+9313,Huỳnh Thị Cẩm ,Tú,8/1/1980 0:00,THS,GV,22,13,Cơ hữu
+9314,Lâm Nhật ,Thanh,  /  /,KS,GV,652,17,Thỉnh giảng
+9315,Phạm Thành ,Trung,16/06/1979,THS,GV,17,13,Cơ hữu
+9316,Bùi Thị ,Bích,4/3/1975 0:00,THS,GV,8,13,Cơ hữu
+9317,Hoàng ,Anh,29/05/1980,THS,GV,8,13,Cơ hữu
+9318,Phù Thị Ngọc ,Hiếu,6/1/1981 0:00,THS,GV,1,13,Cơ hữu
+9319,Nguyễn Thị Ngọc ,Thảo,9/4/1980 0:00,THS,GV,1,13,Cơ hữu
+9320,Nguyễn Tấn ,Dũng,  /  /,KS,GV,332,17,Thỉnh giảng
+9321,Nguyễn Thị Mỹ ,Dung,  /  /,KS,TSU,555,17,Thỉnh giảng
+9322,Nguyễn Viết ,Tường,  /  /,CN,GV,417,17,Thỉnh giảng
+9323,Cao Xuân ,Tài,  /  /,TS,GVC,1609,17,Thỉnh giảng
+9324,Lâm Thị Minh ,Thuận,  /  /,TS,PGS,1609,17,Thỉnh giảng
+9325,Trương ,Vĩnh,  /  /,KS,GVC,1609,17,Thỉnh giảng
+9326,Phạm Hồ Mai ,Anh,16/03/80,KS,GV,555,17,Thỉnh giảng
+9327,Nguyễn Anh ,Thường,  /  /,KS,GV,1905,17,Thỉnh giảng
+9328,Nguyễn Văn ,Cừ,  /  /,KS,GV,1905,17,Thỉnh giảng
+9329,Nguyễn Thị ,Phượng,  /  /,KS,GVC,1905,17,Thỉnh giảng
+9330,Đặng Thị Thuỳ ,Linh,  /  /,KS,GV,890,17,Thỉnh giảng
+9331,Phạm Thị Thu ,Sương,23/10/1976,THS,TG,26,13,Cơ hữu
+9332,Nguyễn Đức ,Trí,  /  /,KS,TG,223,17,Thỉnh giảng
+9333,Nguyễn Lê ,Hà,  /  /,KS,GV,750,17,Thỉnh giảng
+9334,Nguyễn Tấn ,Dũng,25/10/1972,THS,GV,7,13,Cơ hữu
+9335,Huỳnh Duy ,Hiền,  /  /,KS,TG,750,17,Thỉnh giảng
+9336,Trần Đình ,Yến,  /  /,CN,PGS,750,17,Thỉnh giảng
+9370,Lại Quốc ,Đạt,  /  /,TS,GVC,750,17,Thỉnh giảng
+9371,Hồ ,Cường,15/03/1981,THS,GV,7,13,Cơ hữu
+9372,Lê Văn ,Lai(01),17/10/76,CN,TSU,1701,17,Thỉnh giảng
+9373,Võ Nguyên ,Thư,12/12/1974 0:00,DH,GV,6,13,Cơ hữu
+9374,Trương Vĩnh,An_,  /  /,THS,GV,1701,17,Thỉnh giảng
+9375,Đoàn Văn ,Phúc,  /  /,KS,GV,2206,17,Thỉnh giảng
+9376,Nguyễn Thị ,Thanh,  /  /,KS,TG,1905,17,Thỉnh giảng
+9377,Nguyễn Thị Hồng ,Hạnh,25/05/1981,DH,GV,7,13,Cơ hữu
+9378,Trịnh Phương ,Nam,  /  /,KS,GV,750,17,Thỉnh giảng
+9379,Phan Ngọc ,Trung,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9380,Huỳnh Quang ,Phước,  /  /,KS,GV,750,17,Thỉnh giảng
+9381,Nguyễn ,Quyết,  /  /,THS,GV,1701,17,Thỉnh giảng
+9382,Lê Minh ,Trí,  /  /,THS,GV,1701,17,Thỉnh giảng
+9383,Vương Thị Ngọc ,Hân,3/9/1980 0:00,THS,GV,4,13,Cơ hữu
+9384,Lê Anh ,Thủ,  /  /,KS,GVC,556,17,Thỉnh giảng
+9385,Huỳnh Thị Thu ,Hiền,9/12/1980 0:00,THS,GV,1,13,Cơ hữu
+9386,Nguyễn Văn ,Quang,  /  /,KS,GVC,1701,17,Thỉnh giảng
+9387,Nguyễn Thị Tuyết ,Mai,  /  /,CN,GV,2206,17,Thỉnh giảng
+9388,Ninh Văn ,Toản,  /  /,KS,TG,1905,17,Thỉnh giảng
+9389,Trần Sơn ,Lâm,  /  /,KS,GV,1701,17,Thỉnh giảng
+9390,Vũ Thanh ,Hiền,  /  /,KS,TG,1880,17,Thỉnh giảng
+9391,Ninh Xuân ,Hải,  /  /,KS,TG,1880,17,Thỉnh giảng
+9392,Nguyễn Minh ,Nam,  /  /,KS,TG,1880,17,Thỉnh giảng
+9393,Bùi Công ,Trường,  /  /,KS,TG,1880,17,Thỉnh giảng
+9399,Lê Thị ánh ,Hằng,  /  /,KS,TG,1881,17,Thỉnh giảng
+9400,Tăng Thi Như ,Hà,  /  /,KS,TG,651,17,Thỉnh giảng
+9401,Dương Thị Cẩm ,Tú,17/09/1980,THS,GV,1,13,Cơ hữu
+9402,Đỗ Huy ,Bình,25/02/1983,THS,GV,17,13,Cơ hữu
+9403,Bùi Ngọc ,Hiển,1/1/1971 0:00,DH,TG,2237,13,Cơ hữu
+9404,Nguyễn ánh ,Hồng,  /  /,THS,GVC,890,17,Thỉnh giảng
+9405,Lê Ngô Ngọc ,Thu,  /  /,THS,GV,145,17,Thỉnh giảng
+9406,Trần Ngọc ,Quý,  /  /,KS,TG,651,17,Thỉnh giảng
+9407,Đặng Thị Kim ,Giao,27/10/1984,THS,GV,18,13,Cơ hữu
+9408,Huỳnh Ngọc ,Thanh,  /  /,THS,GV,891,17,Thỉnh giảng
+9409,Nguyễn Ngọc ,Xuân,  /  /,THS,GV,332,17,Thỉnh giảng
+9410,Mai Tiến ,Hậu,  /  /,KS,TG,223,17,Thỉnh giảng
+9411,Phạm Quang ,Thái,  /  /,THS,GV,164,17,Thỉnh giảng
+9412,Nguyễn Thanh ,Hải,  /  /,THS,GVC,164,17,Thỉnh giảng
+9413,Nguyễn Tử,Đức,,THS,GV,1171,13,Cơ hữu
+9414,Lê Thị Hồng,Lam,,DH,GV,1171,13,Cơ hữu
+9601,Bùi Đông ,Hải,  /  /,THS,GV,162,17,Thỉnh giảng
+9602,Võ Đức ,Dũng,1/11/1976 0:00,THS,GV,140,13,Cơ hữu
+9603,Phạm Thị ,Hà,13/08/1983,DH,TG,6,13,Cơ hữu
+9614,Nguyễn Trung ,Đông,  /  /,THS,GV,2206,17,Thỉnh giảng
+9615,Nguyễn Văn ,Phong,  /  /,THS,GV,750,17,Thỉnh giảng
+9616,Lê Thanh ,Sơn,  /  /,THS,GV,703,17,Thỉnh giảng
+9619,Trần Văn ,Hải,  /  /,THS,TG,145,17,Thỉnh giảng
+9620,Tôn Ngọc ,Triều,  /  /,THS,GV,145,17,Thỉnh giảng
+9621,Bùi Văn ,Hiền,  /  /,THS,GV,145,17,Thỉnh giảng
+9623,Phan Thanh ,Tú,  /  /,THS,GV,145,17,Thỉnh giảng
+9624,Nguyễn Bá ,Nhạ,  /  /,THS,GV,145,17,Thỉnh giảng
+9625,Nguyễn,Trung,,THS,GV,27,17,Thỉnh giảng
+9712,Huỳnh Tấn ,Dũng,  /  /,THS,GV,164,17,Thỉnh giảng
+9717,Nguyễn Thanh ,Quang,  /  /,THS,GVC,332,17,Thỉnh giảng
+9718,Nguyễn Thị Kim ,Châu,  /  /,THS,TG,2104,17,Thỉnh giảng
+9719,Nguyễn Văn ,Phát,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9720,Trần Phương ,Nam,22/09/1987,THS,TSU,2,13,Cơ hữu
+9721,Lê Thế ,Khang,  /  /,THS,GV,142,17,Thỉnh giảng
+9722,Nguyễn Đức ,Chí,  /  /,KS,GV,162,17,Thỉnh giảng
+9723,Phạm Trí ,Tài,  /  /,THS,TG,162,17,Thỉnh giảng
+9724,Nguyễn Đức ,Thành,  /  /,KS,TG,162,17,Thỉnh giảng
+9725,Hồ Thị Kim ,Hoàng,  /  /,KS,TG,162,17,Thỉnh giảng
+9726,Nguyễn Xuân ,Khanh,  /  /,KS,TG,162,17,Thỉnh giảng
+9727,Vũ Thị Hồng ,Thuỷ,  /  /,KS,GV,225,17,Thỉnh giảng
+9728,Phạm Ngô ,Tuấn,  /  /,TS,GVC,225,17,Thỉnh giảng
+9729,Võ Thị ,Yến,17/07/1985,DH,TG,26,13,Cơ hữu
+9730,Tạ Nguyễn Minh ,Đức,16/03/1981,DH,GV,2,13,Cơ hữu
+9731,Nguyễn Quang ,Hiến,15/10/1982,THS,GV,2,13,Cơ hữu
+9732,Nguyễn Hữu ,Trung,21/01/1982,THS,GV,18,13,Cơ hữu
+9783,Bùi ,Nghĩa,  /  /,THS,GV,1915,17,Thỉnh giảng
+9784,Nguyễn Xuân ,Dũng,  /  /,THS,GV,891,17,Thỉnh giảng
+9785,Lê Tuyết ,Anh,  /  /,THS,GVC,891,17,Thỉnh giảng
+9786,Đặng Thành ,Trung,19/05/1978,TS,PGS,3,13,Cơ hữu
+9787,Trần Tuấn ,Kiệt,27/05/1974,TS,GV,4,13,Cơ hữu
+9788,Trần Thanh ,Tâm,  /  /,KS,GV,651,17,Thỉnh giảng
+9789,Hà Công ,Khanh,  /  /,KS,GV,417,17,Thỉnh giảng
+9790,Lê Văn ,Kiểm,  /  /,TS,GS,417,17,Thỉnh giảng
+9791,Nguyễn Thái ,Dũng,  /  /,KS,TG,555,17,Thỉnh giảng
+9792,Nguyễn Đức ,Văn,  /  /,KS,TG,555,17,Thỉnh giảng
+9793,Tăng Thị Như ,Hà,  /  /,CN,TG,652,17,Thỉnh giảng
+9794,Hồ Phước ,Dũng,  /  /,KS,TG,333,17,Thỉnh giảng
+9795,Võ Công ,Anh,  /  /,KS,TSU,331,17,Thỉnh giảng
+9796,Nguyễn Thị ,Sang,  /  /,CN,TG,1879,17,Thỉnh giảng
+9797,Bùi Thanh ,Quang,  /  /,TS,GVC,2206,17,Thỉnh giảng
+9798,Võ Trọng ,Đường,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9799,Nguyễn Hữu ,Thảo,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9800,Nguyễn Thị Thúy ,Hằng,2/10/1981 0:00,THS,GV,4,13,Cơ hữu
+9801,Đỗ Quang ,Khánh,  /  /,THS,GVC,421,17,Thỉnh giảng
+9802,Nguyễn Nhựt Phi ,Long,14/09/1981,THS,GV,2,13,Cơ hữu
+9803,Huỳnh Duy ,Hiếu,  /  /,THS,GV,750,17,Thỉnh giảng
+9804,Võ Xuân ,Tiến,20/09/1981,THS,GV,2,13,Cơ hữu
+9805,Đặng Quang ,Khoa,26/10/1982,THS,GV,2,13,Cơ hữu
+9806,Huỳnh Minh ,Phú,9/8/1984 0:00,THS,GV,2,13,Cơ hữu
+9807,Đỗ Thị Khánh ,Hòa,  /  /,THS,GV,2104,17,Thỉnh giảng
+9808,Nguyễn Trọng ,Hải,  /  /,THS,GV,164,17,Thỉnh giảng
+9809,Lê Quang ,Tuấn,  /  /,TS,GVC,164,17,Thỉnh giảng
+9810,Huỳnh Đức ,Hạnh,  /  /,THS,GV,164,17,Thỉnh giảng
+9811,Phan Hồng ,Phương,  /  /,THS,GV,164,17,Thỉnh giảng
+9812,Lê Ngọc Hồ ,Nguyên,  /  /,THS,TG,164,17,Thỉnh giảng
+9813,Trần Đức ,Cương,  /  /,THS,GV,164,17,Thỉnh giảng
+9814,Nguyễn Tấn ,Đức,  /  /,THS,GV,164,17,Thỉnh giảng
+9815,Lê Quốc ,Đáng,  /  /,THS,GV,164,17,Thỉnh giảng
+9816,Trần Đức ,Cường,  /  /,THS,GV,164,17,Thỉnh giảng
+9817,Nguyễn Huy ,Hùng,  /  /,THS,GV,164,17,Thỉnh giảng
+9818,Nguyễn Thị Lan ,Anh,10/10/1988 0:00,THS,GV,164,17,Thỉnh giảng
+9872,Lê Hoàng ,Du,30/12/1988,THS,GV,7,13,Cơ hữu
+9873,Cao Xuân ,Vũ,22/02/1982,THS,GV,5,13,Cơ hữu
+9874,Nguyễn Văn ,Hiếu,  /  /,THS,GV,421,17,Thỉnh giảng
+9875,Vũ Trọng ,Tiếp,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9876,Hà Đức ,Hiệp,  /  /,KS,GV,229,17,Thỉnh giảng
+9877,Đỗ Thị Mỹ ,Trang,2/5/1980 0:00,THS,TG,8,13,Cơ hữu
+9878,Ngô Thị ,Bình,  /  /,THS,GV,1905,17,Thỉnh giảng
+9879,Nguyễn An ,Tân,  /  /,KS,GV,1879,17,Thỉnh giảng
+9880,Thái Hữu ,Tài,15/07/1980,THS,GV,418,17,Thỉnh giảng
+9881,Lê Thị Thanh ,Lâm,  /  /,KS,TG,750,17,Thỉnh giảng
+9882,Nguyễn Thị Thu ,Hồng,  /  /,KS,TG,750,17,Thỉnh giảng
+9883,Võ Duy ,Uy,  /  /,KS,GV,750,17,Thỉnh giảng
+9884,Nguyễn Văn ,Toản,22/01/1959,TS,GVC,17,13,Cơ hữu
+9885,Nguyễn Phúc ,Bình,  /  /,KS,GV,1701,17,Thỉnh giảng
+9886,Nguyễn Lương Thái ,Bình,  /  /,KS,GV,1701,17,Thỉnh giảng
+9887,Nguyễn Như ,Khương,30/10/1982,THS,GV,8,13,Cơ hữu
+9888,Nguyễn Trọng ,Hiếu,19/07/1983,THS,GV,2,13,Cơ hữu
+9889,Phan Thị Kim ,Yến,  /  /,THS,GV,2104,17,Thỉnh giảng
+9890,Võ Thị Phương ,Oanh,  /  /,CN,TG,2104,17,Thỉnh giảng
+9891,Lê Hoàng ,Quân,  /  /,KS,TG,2104,17,Thỉnh giảng
+9892,Bùi Thanh ,Phong,  /  /,KS,GV,421,17,Thỉnh giảng
+9893,Trần Thụy Uyên ,Phương,13/11/1982,THS,GV,2,13,Cơ hữu
+9894,Lưu Thanh ,Phương,15/12/1980,DH,GV,19,13,Cơ hữu
+9895,Võ Lâm ,Chương,19/11/1979,THS,GV,2,13,Cơ hữu
+9896,Trần Bích ,Lam,  /  /,TS,GVC,651,17,Thỉnh giảng
+9897,Nguyễn Minh ,Hiền,  /  /,KS,GV,750,17,Thỉnh giảng
+9898,Lại Hai ,Hương,  /  /,TS,GV,750,17,Thỉnh giảng
+9899,Đặng Thị Ngọc ,Dung,6/6/1980 0:00,THS,GV,7,13,Cơ hữu
+9900,Nguyễn Thanh ,Hưng,  /  /,CN,TG,1702,17,Thỉnh giảng
+9901,Trần Văn ,Hoạt,  /  /,CN,TG,651,17,Thỉnh giảng
+9902,Nguyễn Thị Ngọc ,Hà,  /  /,THS,GV,2104,17,Thỉnh giảng
+9903,Nguyễn Thị Thanh ,Thương,  /  /,CN,GV,2104,17,Thỉnh giảng
+9904,Nguyễn Thị Hương ,Lan,  /  /,THS,GV,651,17,Thỉnh giảng
+9905,Tạ ,Minh,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9906,Trần Tuấn ,Phát,25-8-1953,THS,GVC,1905,17,Thỉnh giảng
+9907,Lê Văn ,Thụy,  /  /,KS,TG,163,17,Thỉnh giảng
+9908,Ngo Xuân ,Hải,  /  /,KS,TG,1702,17,Thỉnh giảng
+9909,Thái Hoàng ,Linh,29/09/1979,THS,GV,10,13,Cơ hữu
+9910,Trần Ngọc ,Hữu,12/2/1963 0:00,DH,GV,2,13,Cơ hữu
+9911,Phạm Hồng ,Hải,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9912,Đỗ Hữu ,Đức,3/1/1958 0:00,TCCN,GV,1171,13,Cơ hữu
+9913,Nguyễn Bá Trương ,Đài,20/11/1975,THS,GV,808,13,Cơ hữu
+9914,Nguyễn Văn ,Sửu,  /  /,KS,GV,1171,17,Thỉnh giảng
+9915,Võ Minh ,Tâm,22/08/1973,DH,GV,1172,13,Cơ hữu
+9916,Phan Quý ,Võ,  /  /,THS,GV,140,17,Thỉnh giảng
+9917,Vũ Văn ,Thư,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9918,Trần Thiện ,An,  /  /,THS,GVC,1609,17,Thỉnh giảng
+9919,Hoàng Văn ,Hướng,14/10/1976,DH,GV,2,13,Cơ hữu
+9920,Mai Đức ,Hải,  /  /,THS,TG,220,17,Thỉnh giảng
+9921,Nguyễn Lễ ,Trường,  /  /,KS,GV,144,17,Thỉnh giảng
+9922,Nguyễn Bình ,An,  /  /,KS,TG,1913,17,Thỉnh giảng
+9923,Nguyễn Lê Vân ,Thanh,13/10/1981,THS,GV,17,13,Cơ hữu
+9924,Lê Minh ,Nhựt,15/12/1976,TS,GV,3,13,Cơ hữu
+9925,Trần Thanh ,Lam,3/10/1978 0:00,THS,GV,2,13,Cơ hữu
+9926,Lưu Văn ,Cán,  /  /,THS,TG,417,17,Thỉnh giảng
+9927,Phạm Văn ,Huệ,  /  /,KS,GV,651,17,Thỉnh giảng
+9928,Trương Văn ,Dư,  /  /,KS,GV,143,17,Thỉnh giảng
+9929,Trương Phúc Tuấn ,Anh,  /  /,KS,GV,1701,17,Thỉnh giảng
+9930,Nguyễn Viết ,Hưng,  /  /,THS,TSU,1701,17,Thỉnh giảng
+9931,Phạm Thị Xuân ,Hương,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9932,Vũ Quang ,Huy,31/10/1978,TS,GV,2,13,Cơ hữu
+9933,Lý Kim ,Cương,  /  /,THS,GV,1905,17,Thỉnh giảng
+9934,Trần Thị Kim ,Ninh,  /  /,THS,GV,1905,17,Thỉnh giảng
+9935,Thỉnh Giảng ,Mới,  /  /,THS,TG,652,17,Thỉnh giảng
+9936,Lã Hoài ,Tuấn,  /  /,KS,GV,652,17,Thỉnh giảng
+9937,Hoàng Đình ,ấn,  /  /,TS,GVC,142,17,Thỉnh giảng
+9938,Trịnh Hoàng ,Dũng,  /  /,KS,TG,142,17,Thỉnh giảng
+9939,Huỳnh Quang ,Khải,  /  /,KS,TG,142,17,Thỉnh giảng
+9940,Đặng Thị Minh ,Tuấn,8/10/1980 0:00,THS,GV,19,13,Cơ hữu
+9941,Đào Duy ,Tấn,  /  /,KS,GVC,891,17,Thỉnh giảng
+9942,Nguyễn Lê ,Hợi,  /  /,THS,GVC,891,17,Thỉnh giảng
+9943,Nguyễn Đình ,Phúc,  /  /,THS,GV,891,17,Thỉnh giảng
+9944,Phạm Duy ,Khánh,  /  /,KS,GV,1701,17,Thỉnh giảng
+9945,Nguyễn Đăng ,Khoa,  /  /,KS,GV,417,17,Thỉnh giảng
+9946,Mồng Phát Kim ,Phượng,  /  /,KS,TG,652,17,Thỉnh giảng
+9947,Vũ Đình ,Quang,  /  /,TS,GVC,1609,17,Thỉnh giảng
+9948,Trần Minh ,Thuận,  /  /,THS,GV,229,17,Thỉnh giảng
+9949,Nguyễn Sỹ ,Phượng,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9950,Nguyễn Văn ,Lân,  /  /,TS,PGS,651,17,Thỉnh giảng
+9951,Phạm Đình ,Đạt,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9952,Phạm Bạch ,Dương,14/06/1980,THS,GV,3233,13,Cơ hữu
+9953,Nguyễn Quốc ,Tuấn,  /  /,TS,PGS,1905,17,Thỉnh giảng
+9954,Quách Chu ,Lễ,  /  /,CN,GV,1905,17,Thỉnh giảng
+9955,Huỳnh Hoàng ,Trung,19/11/1980,THS,GV,17,13,Cơ hữu
+9956,Phạm ,Hùng,  /  /,TS,GVC,1905,17,Thỉnh giảng
+9957,Nguyễn Văn ,Nhỏ,  /  /,THS,GVC,2206,17,Thỉnh giảng
+9958,Tống Viết ,Long,30/08/1972,THS,GV,27,13,Cơ hữu
+9959,Lê Văn ,Nam,  /  /,CN,TG,651,17,Thỉnh giảng
+9960,Vũ Kim ,Dung,  /  /,KS,TG,750,17,Thỉnh giảng
+9961,Nguyễn Ngọc Phúc ,Diễm,  /  /,THS,GV,142,17,Thỉnh giảng
+9962,Hồ Đắc ,Lộc,  /  /,TS,GVC,140,17,Thỉnh giảng
+9963,Nguyễn Quốc ,Hòa,  /  /,KS,TG,142,17,Thỉnh giảng
+9964,Nguyễn Hữu ,Phước,  /  /,KS,TG,225,17,Thỉnh giảng
+9965,Nguyễn Ngọc ,Hoàn,  /  /,KS,TG,225,17,Thỉnh giảng
+9966,Nguyễn Thi Ngọc,Hà_,  /  /,TS,GV,1702,17,Thỉnh giảng
+9967,Hoàng Trọng ,Bá,  /  /,TS,PGS,225,17,Thỉnh giảng
+9968,Trương Thành ,Trung,  /  /,KS,TG,225,17,Thỉnh giảng
+9969,Nguyễn Thanh ,Phương,  /  /,THS,GV,142,17,Thỉnh giảng
+9970,Lê Văn ,Ngọc,  /  /,TS,GVC,1702,17,Thỉnh giảng
+9971,Lê Bùi Hồng ,Phong,  /  /,KS,TG,417,17,Thỉnh giảng
+9972,Trần Kim ,Bào,  /  /,CN,GV,1913,17,Thỉnh giảng
+9973,Nguyễn Anh ,Quốc,  /  /,THS,GVC,1905,17,Thỉnh giảng
+9974,Lý Vĩnh ,Đạt,12/9/1979 0:00,TS,GV,3,13,Cơ hữu
+9975,Phạm Văn ,Hiển,3/11/1977 0:00,THS,GV,17,13,Cơ hữu
+9976,Bùi Thị Nguyệt ,Thu,  /  /,THS,GV,1914,17,Thỉnh giảng
+9977,Nguyễn Thị Ngọc ,Yến(51),  /  /,KS,GV,651,17,Thỉnh giảng
+9978,Hồ Đức ,Hùng(51,  /  /,TS,PGS,651,17,Thỉnh giảng
+9979,Đinh Công ,Đoan,5/8/1975 0:00,THS,GV,18,13,Cơ hữu
+9980,Trương Tích ,Thiện,  /  /,TS,GVC,421,17,Thỉnh giảng
+9981,Ngô Trung ,Thành,  /  /,KS,TG,1884,17,Thỉnh giảng
+9982,Bùi Công ,Danh,  /  /,THS,GV,1879,17,Thỉnh giảng
+9983,Từ Tuyết ,Hồng,18/12/1967,THS,GV,18,13,Cơ hữu
+9984,Trần Chí ,Thiên,30/09/1977,THS,GV,2,13,Cơ hữu
+9985,Đỗ Đức ,Trí,27/04/1973,THS,GV,1,13,Cơ hữu
+9986,Trần Văn ,Sỹ,31/01/1975,THS,GV,40THKT0,13,Cơ hữu
+9987,Hồ Phạm Huy ,ánh(tg),  /  /,THS,GVC,140,17,Thỉnh giảng
+9988,Trương Đình ,Nhơn,3/12/1979 0:00,TS,GV,1,13,Cơ hữu
+9989,Huỳnh Quốc ,Việt,25/07/1979,THS,GV,3,13,Cơ hữu
+9990,Nguyễn Trọng ,Thức,1/2/1979 0:00,THS,GV,3,13,Cơ hữu
+9991,Nguyễn Hồng ,Thái,  /  /,KS,GV,229,17,Thỉnh giảng
+9992,Nguyễn ,Minh,  /  /,THS,GV,225,17,Thỉnh giảng
+9993,Nguyễn Trường ,Duy,20/09/1977,THS,GV,1,13,Cơ hữu
+9994,Võ Đức ,Dũng,  /  /,THS,GV,140,17,Thỉnh giảng
+9995,Lương Quốc ,Trung,  /  /,KS,TG,140,17,Thỉnh giảng
+9996,Nguyễn Xuân ,Quang,7/8/1976 0:00,THS,GV,2,13,Cơ hữu
+9997,Tôn Thất ,Nghiêm,  /  /,THS,GV,140,17,Thỉnh giảng
+9998,Lê Ngọc ,Đình,  /  /,THS,GVC,140,17,Thỉnh giảng
+9999,Huỳnh Tôn ,Nghĩa,24/02/1974,THS,GV,26,13,Cơ hữu
+DA000001,Phan Quốc,Dũng,,TS,PGS,2604,,
+DA0000010,Võ Văn,Việt,,TS,,2607,,
+DA0000011,Hồ Triết,Hưng,,TS,,2607,,
+DA0000012,Lương Văn,Hải,,TS,PGS,,,
+DA0000013,Đào Văn,Phượng,,TS,GV,,,
+DA0000014,Nguyễn Lê Duy,Khải,,TS,GV,,,
+DA0000015,Trần Đức,Hân,,TS,,2626,,
+DA0000016,Trần Thị Thu,Mai,,TS,PGS,2626,,
+DA0000017,Nguyễn Văn,Hùng,,TS,PGS,2626,,
+DA0000018,Võ Nguyên,Sơn,,TS,,2626,,
+DA0000019,Lê Anh,Tuấn,,TS,,2626,,
+DA000002,Trần Hoàng,Lĩnh,,TS,,2604,,
+DA0000020,Lương Văn,Hải,,TS,PGS,2626,,
+DA0000021,Nguyễn Phụ Thượng,Lưu,,TS,,2626,,
+DA0000022,Trương Quang,Hùng,,TS,,2626,,
+DA0000023,Huỳnh Thành,Công,,TS,,2626,,
+DA0000024,Phạm Tuấn,Anh,,TS,,2626,,
+DA000003,Nguyễn Chiến,Hạm,,TS,,2601,,
+DA000004,Lê,Kỷ,,TS,,2604,,
+DA000005,Phạm Văn,Tấn,,TS,,2601,,
+DA000006,Trần Anh,Sơn,,TS,,2601,,
+DA000007,Lê Anh,Đức,,TS,PGS,2601,,
+DA000008,Phạm Huy,Hoàng,,TS,PGS,2601,,
+DA000009,Nguyễn Thị,Hảo,,TS,,2607,,
